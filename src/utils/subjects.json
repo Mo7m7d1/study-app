@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "تحليل وتصميم النظم",
+		"downloadLink": "../assets/books/تحليل وتصميم النظم.pdf"
+	},
+	{
+		"id": 2,
+		"title": "مستودعات البيانات",
+		"downloadLink": "/books/book2.pdf"
+	},
+	{
+		"id": 3,
+		"title": "قواعد البيانات 2",
+		"downloadLink": "/books/book2.pdf"
+	},
+	{
+		"id": 4,
+		"title": "هندسة البرمجيات",
+		"downloadLink": "/books/book2.pdf"
+	},
+	{
+		"id": 5,
+		"title": "الشبكات الاسلكية",
+		"downloadLink": "/books/book2.pdf"
+	},
+	{
+		"id": 6,
+		"title": "برمجة مواقع الويب",
+		"downloadLink": "/books/book2.pdf"
+	}
+]

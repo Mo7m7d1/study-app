@@ -1,0 +1,308 @@
+[
+	{
+		"id": 1,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What does SDLC stand for?",
+		"answer": "SDLC stands for Systems Development Life Cycle."
+	},
+	{
+		"id": 2,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the main phases of the SDLC?",
+		"answer": "The main phases of the SDLC are planning, analysis, design, implementation, and maintenance."
+	},
+	{
+		"id": 3,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of the analysis phase in the SDLC?",
+		"answer": "The purpose of the analysis phase is to understand the existing system and gather user requirements."
+	},
+	{
+		"id": 4,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of the design phase in the SDLC?",
+		"answer": "The design phase involves creating a blueprint for the new system, including architecture and user interface."
+	},
+	{
+		"id": 5,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the importance of the systems development environment?",
+		"answer": "The systems development environment includes factors such as organizational culture and project management methodologies, which can significantly impact the success of system development projects."
+	},
+	{
+		"id": 6,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of the planning phase in the SDLC?",
+		"answer": "The planning phase involves defining the scope, objectives, and requirements of the project."
+	},
+	{
+		"id": 7,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What tasks are involved in the implementation phase of the SDLC?",
+		"answer": "The implementation phase includes tasks such as coding, integration, and user training."
+	},
+	{
+		"id": 8,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of the maintenance phase in the SDLC?",
+		"answer": "The purpose of the maintenance phase is to provide ongoing support, enhancements, and bug fixes to the system."
+	},
+	{
+		"id": 9,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What factors are considered in the systems development environment?",
+		"answer": "The systems development environment considers factors such as organizational culture, management support, project management methodologies, development tools, and team dynamics."
+	},
+	{
+		"id": 10,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the goal of systems development?",
+		"answer": "The goal of systems development is to create or modify information systems to meet specific business needs."
+	},
+	{
+		"id": 11,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of modern systems analysis?",
+		"answer": "The purpose of modern systems analysis is to understand and improve business processes through the effective use of information systems."
+	},
+	{
+		"id": 12,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the key steps in modern systems analysis?",
+		"answer": "The key steps in modern systems analysis include identifying business needs, gathering requirements, modeling processes, and designing system solutions."
+	},
+	{
+		"id": 13,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What techniques are used in modern systems analysis?",
+		"answer": "Techniques used in modern systems analysis include interviews, surveys, observations, data modeling, and prototyping."
+	},
+	{
+		"id": 14,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of a systems analyst in modern systems analysis?",
+		"answer": "A systems analyst is responsible for analyzing business processes, gathering requirements, designing system solutions, and facilitating communication between stakeholders and development teams."
+	},
+	{
+		"id": 15,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the benefits of using modern systems analysis in an organization?",
+		"answer": "The benefits of using modern systems analysis include improved efficiency, better decision-making, enhanced communication, and the alignment of information systems with business goals."
+	},
+	{
+		"id": 16,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of stakeholders in modern systems analysis?",
+		"answer": "Stakeholders play a crucial role in modern systems analysis by providing input, feedback, and validation throughout the analysis and design process."
+	},
+	{
+		"id": 17,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the challenges faced in modern systems analysis projects?",
+		"answer": "Challenges in modern systems analysis projects can include managing scope creep, addressing conflicting requirements, ensuring user adoption, and managing project timelines and budgets."
+	},
+	{
+		"id": 18,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the importance of documentation in modern systems analysis?",
+		"answer": "Documentation is important in modern systems analysis as it helps capture and communicate requirements, design decisions, system specifications, and serves as a reference for future maintenance and enhancements."
+	},
+	{
+		"id": 19,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the difference between functional and non-functional requirements in modern systems analysis?",
+		"answer": "Functional requirements specify what the system should do, while non-functional requirements define system qualities such as performance, security, reliability, and usability."
+	},
+	{
+		"id": 20,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of system modeling in modern systems analysis?",
+		"answer": "The purpose of system modeling is to visually represent and analyze the structure, behavior, and interactions of a system, helping stakeholders understand and validate the proposed solution."
+	},
+	{
+		"id": 21,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of prototyping in systems analysis and design?",
+		"answer": "Prototyping helps in visualizing system functionalities and obtaining feedback early in the development process, improving system usability and reducing rework."
+	},
+	{
+		"id": 22,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of determining system requirements?",
+		"answer": "The purpose is to identify and document the needs and constraints of the system."
+	},
+	{
+		"id": 23,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What techniques can be used to gather system requirements?",
+		"answer": "Techniques such as interviews, surveys, observations, and document analysis can be used."
+	},
+	{
+		"id": 24,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the difference between functional and non-functional requirements?",
+		"answer": "Functional requirements specify what the system should do, while non-functional requirements specify how the system should perform."
+	},
+	{
+		"id": 25,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a use case diagram?",
+		"answer": "A use case diagram is a visual representation that shows the interactions between actors and the system."
+	},
+	{
+		"id": 26,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Why is it important to prioritize system requirements?",
+		"answer": "Prioritizing requirements helps allocate resources effectively and ensures that critical needs are addressed first."
+	},
+	{
+		"id": 27,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a feasibility study in determining system requirements?",
+		"answer": "The purpose is to assess the technical, economic, and operational feasibility of implementing the system."
+	},
+	{
+		"id": 28,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the difference between user requirements and system requirements?",
+		"answer": "User requirements focus on what the users need and expect from the system, while system requirements specify the capabilities and functionalities of the system."
+	},
+	{
+		"id": 29,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are some common challenges in determining system requirements?",
+		"answer": "Common challenges include incomplete or changing requirements, conflicting stakeholder needs, and communication issues."
+	},
+	{
+		"id": 30,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of requirements validation?",
+		"answer": "The purpose is to ensure that the identified requirements are accurate, consistent, and complete."
+	},
+	{
+		"id": 31,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of stakeholders in determining system requirements?",
+		"answer": "Stakeholders provide input, provide feedback, and make decisions regarding the requirements to ensure that the system meets their needs and expectations."
+	},
+	{
+		"id": 32,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of structuring the system process?",
+		"answer": "The purpose is to organize and define the sequence of activities required to achieve the system's objectives."
+	},
+	{
+		"id": 33,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the key components of a system process?",
+		"answer": "The key components include inputs, processes, outputs, and feedback mechanisms."
+	},
+	{
+		"id": 34,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of requirements in system analysis and design?",
+		"answer": "Requirements help define the functionality, performance, and constraints of the system being developed."
+	},
+	{
+		"id": 35,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are functional requirements?",
+		"answer": "Functional requirements describe the specific functions or tasks the system should perform."
+	},
+	{
+		"id": 36,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are non-functional requirements?",
+		"answer": "Non-functional requirements specify the quality attributes and constraints of the system, such as performance, security, and usability."
+	},
+	{
+		"id": 37,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of system analysis?",
+		"answer": "The purpose is to understand the existing system and identify improvements or new system requirements."
+	},
+	{
+		"id": 38,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of system design?",
+		"answer": "The role is to create a detailed blueprint for the new system, including its structure, interfaces, and data flow."
+	},
+	{
+		"id": 39,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the importance of user involvement in system analysis and design?",
+		"answer": "User involvement ensures that the system meets their needs and increases user acceptance and satisfaction."
+	},
+	{
+		"id": 40,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is system modeling?",
+		"answer": "System modeling is the process of creating abstract representations of the system to understand its behavior and interactions."
+	},
+	{
+		"id": 41,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of system testing?",
+		"answer": "The purpose is to verify that the system meets the specified requirements and functions correctly."
+	},
+	{
+		"id": 41,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of designing databases in systems analysis?",
+		"answer": "The purpose of designing databases is to create an organized structure for storing and retrieving data efficiently in an information system."
+	},
+	{
+		"id": 42,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the main components of a database design?",
+		"answer": "The main components of a database design are entities, attributes, relationships, and constraints."
+	},
+	{
+		"id": 43,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is entity-relationship modeling?",
+		"answer": "Entity-relationship modeling is a technique used to visually represent the relationships between entities in a database system."
+	},
+	{
+		"id": 44,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is normalization in database design?",
+		"answer": "Normalization is the process of organizing data in a database to eliminate redundancy and improve data integrity and efficiency."
+	},
+	{
+		"id": 45,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a primary key in a database?",
+		"answer": "A primary key is a unique identifier for each record in a database table."
+	},
+	{
+		"id": 46,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a foreign key in a database?",
+		"answer": "A foreign key is a field in a table that references the primary key of another table, establishing a relationship between the two tables."
+	},
+	{
+		"id": 47,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of indexing in database design?",
+		"answer": "Indexing in database design improves the performance of data retrieval operations by creating efficient data access paths."
+	},
+	{
+		"id": 48,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is denormalization in database design?",
+		"answer": "Denormalization is the process of intentionally introducing redundancy in a database design to improve performance."
+	},
+	{
+		"id": 49,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a data dictionary in database design?",
+		"answer": "A data dictionary is a central repository that contains metadata about the data elements and their relationships in a database."
+	},
+	{
+		"id": 50,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of data modeling in database design?",
+		"answer": "The purpose of data modeling is to create a conceptual representation of how data should be organized and structured in a database system."
+	}
+]
