@@ -9,7 +9,11 @@ const BooksPage = () => {
 			</h1>
 			<div className="grid grid-cols-2 md:grid-cols-3 gap-6 pb-10 w-full">
 				{books.map((book) => (
-					<BookCard title={book.title} downloadLink={book.downloadLink} />
+					<BookCard
+						key={book.id}
+						title={book.title}
+						downloadLink={book.downloadLink}
+					/>
 				))}
 			</div>
 		</div>
