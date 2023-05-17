@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata = {
 	title: "ذاكرلي",
 	description: "An app that helps students prepare for their exams",
+	icons: {
+		icon: "/icon.png",
+	},
 };
 
 export default function RootLayout({
@@ -13,9 +16,6 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="ar" dir="rtl">
-			<head>
-				<link rel="icon" href="../../public/icon.png" />
-			</head>
 			<body suppressHydrationWarning={true}>
 				<Navbar />
 				{children}
