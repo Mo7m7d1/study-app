@@ -1385,5 +1385,101 @@
 		"subject": "الشبكات الاسلكية",
 		"question": "How does satellite communication work in wireless networks?",
 		"answer": "Signals are transmitted from a ground station to a satellite in space, which then relays the signals to other ground stations."
+	},
+	{
+		"id": 231,
+		"subject": "مستودعات البيانات",
+		"question": "What is a data warehouse?",
+		"answer": "A data warehouse is a large, centralized repository of data used for reporting and analysis."
+	},
+	{
+		"id": 232,
+		"subject": "مستودعات البيانات",
+		"question": "What is the purpose of a data warehouse?",
+		"answer": "The purpose of a data warehouse is to provide a single source of truth for business intelligence and decision-making."
+	},
+	{
+		"id": 233,
+		"subject": "مستودعات البيانات",
+		"question": "What is the difference between a data warehouse and a database?",
+		"answer": "A data warehouse is optimized for reporting and analysis while a database is optimized for transaction processing."
+	},
+	{
+		"id": 234,
+		"subject": "مستودعات البيانات",
+		"question": "What is ETL?",
+		"answer": "ETL stands for Extract, Transform, Load. It's the process of extracting data from source systems, transforming it into a common format, and loading it into a data warehouse."
+	},
+	{
+		"id": 235,
+		"subject": "مستودعات البيانات",
+		"question": "What is OLAP?",
+		"answer": "OLAP stands for Online Analytical Processing. It's a category of software tools that allows users to analyze data from multiple dimensions."
+	},
+	{
+		"id": 236,
+		"subject": "مستودعات البيانات",
+		"question": "What are the benefits of using a data warehouse?",
+		"answer": "A data warehouse provides faster and more accurate reporting, better decision-making, and improved data quality."
+	},
+	{
+		"id": 237,
+		"subject": "مستودعات البيانات",
+		"question": "What is a data warehouse?",
+		"answer": "A data warehouse is a large, centralized repository of data used for reporting and analysis."
+	},
+	{
+		"id": 238,
+		"subject": "مستودعات البيانات",
+		"question": "What is the purpose of a data warehouse?",
+		"answer": "The purpose of a data warehouse is to provide a single source of truth for business intelligence and decision-making."
+	},
+	{
+		"id": 239,
+		"subject": "مستودعات البيانات",
+		"question": "What is the difference between a data warehouse and a database?",
+		"answer": "A data warehouse is optimized for reporting and analysis while a database is optimized for transaction processing."
+	},
+	{
+		"id": 240,
+		"subject": "مستودعات البيانات",
+		"question": "What is ETL?",
+		"answer": "ETL stands for Extract, Transform, Load. It's the process of extracting data from source systems, transforming it into a common format, and loading it into a data warehouse."
+	},
+	{
+		"id": 241,
+		"subject": "مستودعات البيانات",
+		"question": "What is OLAP?",
+		"answer": "OLAP stands for Online Analytical Processing. It's a category of software tools that allows users to analyze data from multiple dimensions."
+	},
+	{
+		"id": 242,
+		"subject": "مستودعات البيانات",
+		"question": "What are the benefits of using a data warehouse?",
+		"answer": "A data warehouse provides faster and more accurate reporting, better decision-making, and improved data quality."
+	},
+	{
+		"id": 243,
+		"subject": "مستودعات البيانات",
+		"question": "What is a star schema?",
+		"answer": "A star schema is a common design for a data warehouse where a central fact table is connected to multiple dimension tables."
+	},
+	{
+		"id": 244,
+		"subject": "مستودعات البيانات",
+		"question": "What is a snowflake schema?",
+		"answer": "A snowflake schema is a variation of the star schema where dimension tables are normalized into multiple related tables."
+	},
+	{
+		"id": 245,
+		"subject": "مستودعات البيانات",
+		"question": "What is data mining?",
+		"answer": "Data mining is the process of discovering patterns and knowledge from large amounts of data stored in databases or data warehouses."
+	},
+	{
+		"id": 246,
+		"subject": "مستودعات البيانات",
+		"question": "What is a fact table?",
+		"answer": "A fact table is the central table in a star or snowflake schema that contains the measures or facts of the data warehouse."
 	}
 ]
