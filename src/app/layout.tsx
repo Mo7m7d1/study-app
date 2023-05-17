@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="ar" dir="rtl">
-			<body className="font-serif">
+			<body>
 				<Navbar />
 				{children}
 			</body>
