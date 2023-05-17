@@ -13,7 +13,10 @@ export default function RootLayout({
 }) {
 	return (
 		<html lang="ar" dir="rtl">
-			<body>
+			<head>
+				<link rel="icon" href="../../public/icon.png" />
+			</head>
+			<body suppressHydrationWarning={true}>
 				<Navbar />
 				{children}
 			</body>

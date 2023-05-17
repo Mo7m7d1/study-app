@@ -2,31 +2,31 @@
 	{
 		"id": 1,
 		"title": "تحليل وتصميم النظم",
-		"downloadLink": "../assets/books/تحليل وتصميم النظم.pdf"
+		"link": "https://drive.google.com/file/d/1wk5UrjYTGOZBlrO744vGSK9V55RS5ozb/view?usp=share_link"
 	},
 	{
 		"id": 2,
 		"title": "مستودعات البيانات",
-		"downloadLink": "/books/book2.pdf"
+		"link": "https://drive.google.com/file/d/1A10QAAmBFzVWsp8fMu6NR-zEkWx8W_Hj/view?usp=share_link"
 	},
 	{
 		"id": 3,
-		"title": "قواعد البيانات 2",
-		"downloadLink": "/books/book2.pdf"
+		"title": "قواعد البيانات 2 (مترجم)",
+		"link": "https://drive.google.com/file/d/1OBQ-kzjz-WR98KGvT0iNDv-g0g8LNj4r/view?usp=share_link"
 	},
 	{
 		"id": 4,
 		"title": "هندسة البرمجيات",
-		"downloadLink": "/books/book2.pdf"
+		"link": "/books/book2.pdf"
 	},
 	{
 		"id": 5,
 		"title": "الشبكات الاسلكية",
-		"downloadLink": "/books/book2.pdf"
+		"link": "https://drive.google.com/file/d/1w498ieFJyS3obrvnqYxZZ9jEGU21ySlg/view?usp=share_link"
 	},
 	{
 		"id": 6,
 		"title": "برمجة مواقع الويب",
-		"downloadLink": "/books/book2.pdf"
+		"link": "https://drive.google.com/file/d/1rX02BCSddfp3lf-F8cAcTeI5X2KV_vrN/view?usp=share_link"
 	}
 ]

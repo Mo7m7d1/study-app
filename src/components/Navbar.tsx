@@ -1,17 +1,18 @@
 "use client";
-
 import {
 	Navbar as NavbarMT,
-	MobileNav,
 	Typography,
 	Button,
 	IconButton,
+	Collapse,
 } from "@material-tailwind/react";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 
 const Navbar = () => {
 	const [openNav, setOpenNav] = useState(false);
+	const router = usePathname();
 
 	useEffect(() => {
 		window.addEventListener(
@@ -20,12 +21,16 @@ const Navbar = () => {
 		);
 	}, []);
 
+	const isActive = (path: string) => router.includes(decodeURI(path));
+
 	const navList = (
 		<ul className="mb-4 mt-2 flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row items-center lg:gap-6">
 			<Typography
 				variant="small"
 				color="white"
-				className="p-1 font-normal hover:text-yellow-600 transition-all duration-200"
+				className={`p-1 font-normal hover:text-yellow-600 transition-all duration-200 ${
+					isActive("/books") ? "text-yellow-600" : ""
+				}`}
 			>
 				<Link href="/books" className="flex items-center">
 					المقررات
@@ -34,7 +39,9 @@ const Navbar = () => {
 			<Typography
 				variant="small"
 				color="white"
-				className="p-1 font-normal hover:text-yellow-600 transition-all duration-200"
+				className={`p-1 font-normal hover:text-yellow-600 transition-all duration-200 ${
+					isActive("/questions") ? "text-yellow-600" : ""
+				}`}
 			>
 				<Link href="/questions" className="flex items-center">
 					اسئلة
@@ -43,7 +50,9 @@ const Navbar = () => {
 			<Typography
 				variant="small"
 				color="white"
-				className="p-1 font-normal hover:text-yellow-600 transition-all duration-200"
+				className={`p-1 font-normal hover:text-yellow-600 transition-all duration-200 ${
+					isActive("/exam") ? "text-yellow-600" : ""
+				}`}
 			>
 				<Link href="/exam" className="flex items-center">
 					اختبار
@@ -52,7 +61,9 @@ const Navbar = () => {
 			<Typography
 				variant="small"
 				color="white"
-				className="p-1 font-normal hover:text-yellow-600 transition-all duration-200"
+				className={`p-1 font-normal hover:text-yellow-600 transition-all duration-200 ${
+					isActive("/flashCards") ? "text-yellow-600" : ""
+				}`}
 			>
 				<Link href="/flashCards" className="flex items-center">
 					Flash Cards
@@ -62,7 +73,7 @@ const Navbar = () => {
 	);
 
 	return (
-		<NavbarMT className="mx-auto max-w-screen-xl py-2 px-4 lg:px-8 lg:py-4 bg-theme border border-gray-800 shadow-2xl">
+		<NavbarMT className="mx-auto max-w-screen-xl py-2 px-4 lg:px-8 lg:py-4 bg-theme border border-gray-800 shadow-2xl sticky top-0 z-50">
 			<div className="container mx-auto flex items-center justify-between text-blue-gray-900">
 				<Typography
 					href="#"
@@ -117,7 +128,7 @@ const Navbar = () => {
 					)}
 				</IconButton>
 			</div>
-			<MobileNav open={openNav}>
+			<Collapse open={openNav}>
 				<div className="container mx-auto">
 					{navList}
 					<Button
@@ -130,7 +141,7 @@ const Navbar = () => {
 						<span className="font-bold">Quiz</span>
 					</Button>
 				</div>
-			</MobileNav>
+			</Collapse>
 		</NavbarMT>
 	);
 };
