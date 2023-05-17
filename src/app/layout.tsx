@@ -2,7 +2,7 @@ import { Navbar } from "@/components";
 import "./globals.css";
 
 export const metadata = {
-	title: "Exams",
+	title: "ذاكرلي",
 	description: "An app that helps students prepare for their exams",
 };
 
