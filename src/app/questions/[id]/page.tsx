@@ -1,5 +1,5 @@
 import { QuestionCard } from "@/components";
-import questions from "../../../utils/questions.min.json";
+import questions from "@/utils/questions.json";
 
 type QuestionPageProps = {
 	params: {
