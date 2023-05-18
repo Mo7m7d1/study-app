@@ -7,7 +7,11 @@ function page() {
 			<h1 className="text-4xl font-semibold mb-8 text-gray-400">اختر المادة</h1>
 			<div className="grid grid-cols-2 md:grid-cols-3 gap-6 w-full">
 				{subjects.map((subject) => (
-					<SubjectCard key={subject.id} subject={subject.title} />
+					<SubjectCard
+						key={subject.id}
+						subject={subject.title}
+						link={`questions/${subject.title}`}
+					/>
 				))}
 			</div>
 		</div>

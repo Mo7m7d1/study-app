@@ -1,0 +1,517 @@
+[
+	{
+		"id": 1,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is systems development?",
+		"choices": [
+			"The process of creating computer hardware",
+			"The process of creating or modifying information systems to meet business needs",
+			"The process of developing software applications",
+			"The process of managing network infrastructure"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 2,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which phase of the systems development life cycle (SDLC) involves understanding the existing system and gathering user requirements?",
+		"choices": ["Planning", "Analysis", "Design", "Implementation"],
+		"correct_answer": 1
+	},
+	{
+		"id": 3,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of the analysis phase in systems development?",
+		"choices": [
+			"To build the system according to the blueprint",
+			"To test and deploy the system",
+			"To gather user requirements and understand the existing system",
+			"To enhance and maintain the system after deployment"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 4,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which phase of the systems development life cycle (SDLC) focuses on creating a blueprint for the new system?",
+		"choices": ["Planning", "Analysis", "Design", "Maintenance"],
+		"correct_answer": 2
+	},
+	{
+		"id": 5,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What does the implementation phase of the SDLC involve?",
+		"choices": [
+			"Defining the project scope and objectives",
+			"Gathering user requirements and understanding the existing system",
+			"Creating a blueprint for the new system",
+			"Building, testing, and deploying the system"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 6,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The systems development life cycle (SDLC) consists of five phases.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 7,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The maintenance phase of the SDLC includes ongoing support and bug fixes.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 8,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The systems development environment includes factors such as organizational culture and project management methodologies.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 9,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the primary goal of systems analysis?",
+		"choices": [
+			"To understand and document the current system",
+			"To design a new system",
+			"To implement the system",
+			"To maintain the system"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 10,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is NOT a primary activity in systems analysis?",
+		"choices": [
+			"Gathering requirements",
+			"Creating user interfaces",
+			"Analyzing data",
+			"Modeling processes"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 11,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a feasibility study in systems analysis?",
+		"choices": [
+			"To determine if the proposed system is technically feasible",
+			"To assess if the proposed system is financially viable",
+			"To evaluate if the proposed system aligns with the organization's goals",
+			"All of the above"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 12,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the main deliverable of the systems analysis phase?",
+		"choices": [
+			"System design specifications",
+			"Test plans",
+			"System prototypes",
+			"Requirements document"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 13,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of creating use cases in systems analysis?",
+		"choices": [
+			"To document user requirements",
+			"To model system processes",
+			"To design user interfaces",
+			"To perform system testing"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 14,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is an example of an external stakeholder in systems analysis?",
+		"choices": [
+			"Project manager",
+			"Business analyst",
+			"End user",
+			"System architect"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 15,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a data flow diagram (DFD) in systems analysis?",
+		"choices": [
+			"To model system processes",
+			"To design user interfaces",
+			"To document data flows in the system",
+			"To perform system testing"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 16,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is NOT a technique used for requirements gathering in systems analysis?",
+		"choices": ["Interviews", "Questionnaires", "Prototyping", "Observations"],
+		"correct_answer": 2
+	},
+	{
+		"id": 17,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of initiating a systems development project?",
+		"choices": [
+			"To define project goals and objectives",
+			"To analyze user requirements",
+			"To design the system architecture",
+			"To implement the system"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 18,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the primary focus of the planning phase in systems development?",
+		"choices": [
+			"Defining project scope and objectives",
+			"Gathering user requirements",
+			"Designing the system",
+			"Testing and deployment"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 19,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is a key deliverable of the planning phase?",
+		"choices": [
+			"System requirements document",
+			"System design document",
+			"System test plan",
+			"System implementation guide"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 20,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The planning phase is a one-time activity that happens at the beginning of a project.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 21,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The planning phase involves identifying project constraints and risks.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 22,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Defining project scope is important to ensure the project stays within its intended boundaries.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 23,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The planning phase determines the resources and timeline required for the project.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 24,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The planning phase involves creating a detailed system design.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 25,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of determining system requirements?",
+		"choices": [
+			"To identify potential system users.",
+			"To establish project timelines.",
+			"To define the functionalities and constraints of the system.",
+			"To create system prototypes."
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 26,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which technique is commonly used to gather system requirements?",
+		"choices": [
+			"Prototyping",
+			"Interviews",
+			"Agile development",
+			"Unit testing"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 27,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What does a use case diagram represent?",
+		"choices": [
+			"System architecture",
+			"User interface design",
+			"System requirements and interactions",
+			"Data flow within the system"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 28,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: System requirements are fixed and cannot be changed during the development process.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 29,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: System requirements are determined solely by the analysts and do not require input from end-users.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 30,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a data flow diagram (DFD)?",
+		"choices": [
+			"To represent the system's user interface.",
+			"To visualize the flow of data within the system.",
+			"To specify system requirements in a formal language.",
+			"To create a graphical representation of the system's database."
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 31,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: System requirements are the same as system design.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 32,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is an example of a non-functional requirement?",
+		"choices": [
+			"User authentication",
+			"Data validation",
+			"Response time",
+			"Data storage format"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 33,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Use case diagrams are used to represent the sequence of activities within a system.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 34,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of structuring the system process?",
+		"choices": [
+			"To improve communication between stakeholders.",
+			"To identify system requirements.",
+			"To design the user interface.",
+			"To optimize system performance."
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 35,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which technique is used to represent system processes visually?",
+		"choices": [
+			"Data flow diagrams (DFDs)",
+			"Entity-relationship diagrams (ERDs)",
+			"Use case diagrams",
+			"Class diagrams"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 36,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What does a process symbol in a data flow diagram (DFD) represent?",
+		"choices": [
+			"A data store",
+			"An external entity",
+			"A transformation or activity",
+			"A data flow"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 37,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Structuring the system process helps in identifying bottlenecks and areas for improvement.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 38,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Data flow diagrams (DFDs) are primarily used to model the system's data storage and retrieval processes.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 39,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Use case diagrams depict the interactions between system users and the system itself.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 40,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The purpose of structuring the system process is to create a detailed physical design of the system's user interface.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 41,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Entity-relationship diagrams (ERDs) are used to model the relationships between system processes.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 42,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: A data flow in a data flow diagram (DFD) represents the movement of data between system components.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 43,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of database design?",
+		"choices": [
+			"To ensure data security",
+			"To create an efficient data storage structure",
+			"To establish data integrity",
+			"All of the above"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 44,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a primary key in a database?",
+		"choices": [
+			"A field that uniquely identifies a record in a table",
+			"A field that stores numeric data",
+			"A field that allows null values",
+			"A field that stores foreign key references"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 45,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which normal form ensures that all non-key attributes are functionally dependent on the primary key?",
+		"choices": [
+			"First normal form (1NF)",
+			"Second normal form (2NF)",
+			"Third normal form (3NF)",
+			"Fourth normal form (4NF)"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 46,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a foreign key in a database?",
+		"choices": [
+			"To establish relationships between tables",
+			"To ensure data integrity",
+			"To improve query performance",
+			"All of the above"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 47,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which data modeling technique uses entity-relationship diagrams (ERDs)?",
+		"choices": [
+			"Structured Query Language (SQL)",
+			"Unified Modeling Language (UML)",
+			"Object-oriented database design",
+			"Entity-Relationship (ER) modeling"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 48,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Database design is only concerned with creating tables and fields. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 49,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Normalization is the process of organizing data in a database to minimize redundancy. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 50,
+		"subject": "تحليل وتصميم النظم",
+		"question": "A composite key consists of multiple fields that together uniquely identify a record. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 51,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Denormalization is the process of adding redundancy to a database to improve performance. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 52,
+		"subject": "تحليل وتصميم النظم",
+		"question": "A one-to-many relationship in a database means that one record in a table can have multiple related records in another table. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 53,
+		"subject": "تحليل وتصميم النظم",
+		"question": "A database schema defines the structure, constraints, and relationships of the database. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 54,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Normalization always leads to better performance in database queries. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 55,
+		"subject": "تحليل وتصميم النظم",
+		"question": "A unique key in a database table allows null values. (True/False)",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	}
+]

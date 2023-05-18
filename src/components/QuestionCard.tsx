@@ -7,11 +7,7 @@ import {
 	Typography,
 	Button,
 } from "@material-tailwind/react";
-
-type QuestionCardProps = {
-	question: string;
-	answer: string;
-};
+import { QuestionCardProps } from "@/app/types";
 
 const QuestionCard = ({ question, answer }: QuestionCardProps) => {
 	const [open, setOpen] = useState(false);

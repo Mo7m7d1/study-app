@@ -1,5 +1,6 @@
 "use client";
 
+import { CardProps } from "@/app/types";
 import {
 	Card as CardMT,
 	CardBody,
@@ -8,12 +9,6 @@ import {
 	Button,
 } from "@material-tailwind/react";
 import Link from "next/link";
-
-export type CardProps = {
-	title: string;
-	description: string;
-	url: string;
-};
 
 const Card = ({ title, description, url }: CardProps) => {
 	return (

@@ -1,12 +1,7 @@
+import { QuestionPageProps } from "@/app/types";
 import { QuestionCard } from "@/components";
 import questions from "@/utils/questions.json";
 import { useMemo } from "react";
-
-type QuestionPageProps = {
-	params: {
-		id: string;
-	};
-};
 
 const QuestionPage = ({ params }: QuestionPageProps) => {
 	const subject = decodeURI(params.id);
