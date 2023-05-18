@@ -82,14 +82,16 @@ const Navbar = () => {
 					<Link href="/">ذاكرلي</Link>
 				</Typography>
 				<div className="hidden lg:block">{navList}</div>
-				<Button
-					variant="gradient"
-					color="yellow"
-					size="sm"
-					className="hidden lg:inline-block"
-				>
-					<span>Quiz</span>
-				</Button>
+				<Link href="/exam">
+					<Button
+						variant="gradient"
+						color="yellow"
+						size="sm"
+						className="hidden lg:inline-block"
+					>
+						<span>Quiz</span>
+					</Button>
+				</Link>
 				<IconButton
 					variant="text"
 					className="mr-auto h-6 w-6 text-center hover:bg-transparent focus:bg-transparent active:bg-transparent lg:hidden"
@@ -131,15 +133,17 @@ const Navbar = () => {
 			<Collapse open={openNav}>
 				<div className="container mx-auto">
 					{navList}
-					<Button
-						variant="gradient"
-						color="yellow"
-						size="md"
-						fullWidth
-						className="mb-2"
-					>
-						<span className="font-bold">Quiz</span>
-					</Button>
+					<Link href="/exam">
+						<Button
+							variant="gradient"
+							color="yellow"
+							size="md"
+							fullWidth
+							className="mb-2"
+						>
+							<span className="font-bold">Quiz</span>
+						</Button>
+					</Link>
 				</div>
 			</Collapse>
 		</NavbarMT>

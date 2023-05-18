@@ -105,59 +105,67 @@ const Page = ({ params }: Props) => {
 	}, [currentQuestionIndex, timer]);
 
 	return (
-		<div className="flex justify-center items-center h-[80vh] w-full">
-			{!showResult ? (
-				<div className="bg-theme shadow-lg shadow-secondary rounded-lg text-white mx-4 mt-14 lg:w-[700px]">
-					<ProgressBar timer={timer} initialTime={initialTime} />
-					<QuestionProgress
-						currentQuestionIndex={currentQuestionIndex + 1}
-						questionsLength={subjectQuestions.length}
-					/>
-					<div className="m-6">
-						<Question
-							questions={subjectQuestions}
-							currentQuestionIndex={currentQuestionIndex}
-							selectedOptionIndex={selectedOptionIndex}
-							handleOptionClick={handleOptionClick}
-						/>
-						<NextButton
-							isLastQuestion={
-								currentQuestionIndex === subjectQuestions.length - 1
-							}
-							disabled={selectedOptionIndex === -1}
-							onClick={handleNextClick}
-						/>
-					</div>
-				</div>
-			) : (
-				<Dialog
-					open={showAnswersModal}
-					handler={setShowAnswersModal}
-					className="bg-transparent w-full min-w-full max-w-full md:w-[50%] md:min-w-[50%] md:max-w-[50%]"
-				>
-					<DialogBody className="relative">
-						<IconButton
-							color="gray"
-							className="text-lg md:hidden"
-							onClick={() => setShowAnswersModal(false)}
+		<div className="flex justify-center items-center h-screen">
+			{subjectQuestions.length > 0 ? (
+				<>
+					{!showResult ? (
+						<div className="bg-theme shadow-lg shadow-secondary rounded-lg text-white mx-4 mt-14 lg:w-[700px]">
+							<ProgressBar timer={timer} initialTime={initialTime} />
+							<QuestionProgress
+								currentQuestionIndex={currentQuestionIndex + 1}
+								questionsLength={subjectQuestions.length}
+							/>
+							<div className="m-6">
+								<Question
+									questions={subjectQuestions}
+									currentQuestionIndex={currentQuestionIndex}
+									selectedOptionIndex={selectedOptionIndex}
+									handleOptionClick={handleOptionClick}
+								/>
+								<NextButton
+									isLastQuestion={
+										currentQuestionIndex === subjectQuestions.length - 1
+									}
+									disabled={selectedOptionIndex === -1}
+									onClick={handleNextClick}
+								/>
+							</div>
+						</div>
+					) : (
+						<Dialog
+							open={showAnswersModal}
+							handler={setShowAnswersModal}
+							className="bg-transparent w-full min-w-full max-w-full md:w-[50%] md:min-w-[50%] md:max-w-[50%]"
 						>
-							x
-						</IconButton>
-						<Answers
-							questions={wrongAnswers}
-							selectedOptions={selectedOptions}
+							<DialogBody className="relative">
+								<IconButton
+									color="gray"
+									className="text-lg md:hidden"
+									onClick={() => setShowAnswersModal(false)}
+								>
+									x
+								</IconButton>
+								<Answers
+									questions={wrongAnswers}
+									selectedOptions={selectedOptions}
+								/>
+							</DialogBody>
+						</Dialog>
+					)}
+					{showResult && (
+						<Result
+							score={score}
+							totalQuestions={subjectQuestions.length}
+							onRestart={handleRestartClick}
+							onMenu={handleMenuClick}
+							onAnswers={onAnswersClick}
 						/>
-					</DialogBody>
-				</Dialog>
-			)}
-			{showResult && (
-				<Result
-					score={score}
-					totalQuestions={subjectQuestions.length}
-					onRestart={handleRestartClick}
-					onMenu={handleMenuClick}
-					onAnswers={onAnswersClick}
-				/>
+					)}
+				</>
+			) : (
+				<div className="text-2xl text-center bg-yellow-500 p-4 rounded-xl text-gray-800">
+					...Soon
+				</div>
 			)}
 		</div>
 	);
