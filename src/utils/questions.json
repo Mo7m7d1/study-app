@@ -354,6 +354,48 @@
 		"answer": "Entity-relationship modeling is a technique used to visually represent the relationships between entities in a database system."
 	},
 	{
+		"id": 266,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Define entity type.",
+		"answer": "An entity type is a collection of entities that share common properties or characteristics."
+	},
+	{
+		"id": 267,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a multivalued attribute?",
+		"answer": "A multivalued attribute is an attribute that can have more than one value for each entity instance."
+	},
+	{
+		"id": 268,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Explain the role of conceptual data modeling in the overall analysis and design of an information system.",
+		"answer": "Conceptual data modeling helps capture the overall structure of data in an organization, independent of any specific database management system or implementation considerations. It provides a detailed model that aids in understanding the data requirements of the system."
+	},
+	{
+		"id": 269,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the four basic types of business rules in a conceptual data model?",
+		"answer": "The four basic types of business rules in a conceptual data model are uniqueness rules, relationship rules, derivation rules, and integrity rules."
+	},
+	{
+		"id": 270,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the role of prepackaged database models in data modeling?",
+		"answer": "Prepackaged database models, also known as patterns, provide ready-made templates or structures that can be used as a starting point for data modeling. They offer standard solutions for common business situations, saving time and effort in the modeling process."
+	},
+	{
+		"id": 271,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Differentiate between unary, binary, and ternary relationships and provide an example of each.",
+		"answer": "A unary relationship is a relationship between instances of the same entity type (e.g., \"Employee manages Employee\").\nA binary relationship is a relationship between instances of two different entity types (e.g., \"Customer places Order\").\nA ternary relationship is a relationship among instances of three different entity types (e.g., \"Student enrolls in Course offered by Faculty\")."
+	},
+	{
+		"id": 272,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Define supertype and subtype.",
+		"answer": "In data modeling, a supertype is a generic entity type that represents a set of related subtypes. Subtypes inherit attributes and relationships from the supertype but can also have their own specific attributes and relationships."
+	},
+	{
 		"id": 44,
 		"subject": "تحليل وتصميم النظم",
 		"question": "What is normalization in database design?",
