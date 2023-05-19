@@ -9,7 +9,7 @@ export default function Home() {
 					ذاكرلي
 				</span>
 			</h1>
-			<div className="grid grid-cols-1 md:grid-cols-2 gap-4 pb-10">
+			<div className="grid grid-cols-1 md:grid-cols-2 gap-4 pb-5">
 				<Card
 					title="المقررات"
 					url="/books"

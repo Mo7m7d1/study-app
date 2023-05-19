@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { questionType } from "@/components/examComponents/examTypes";
 import {
 	Answers,
@@ -16,12 +16,16 @@ import { Dialog, DialogBody, IconButton } from "@material-tailwind/react";
 type Props = { params: { id: string } };
 
 const Page = ({ params }: Props) => {
+	const router = useRouter();
+	const searchParams = useSearchParams();
+	const numberOfQuestions = parseInt(searchParams.get("numberOfQuestions")!);
+
 	const subject = decodeURI(params.id);
 	const subjectQuestions = useMemo(() => {
 		return jsonQuestions
 			.filter((question) => question.subject === subject)
 			.sort(() => Math.random() - 0.5)
-			.slice(0, 10);
+			.slice(0, numberOfQuestions);
 	}, [subject]);
 
 	const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
@@ -36,8 +40,6 @@ const Page = ({ params }: Props) => {
 
 	const initialTime = 45;
 	const [timer, setTimer] = useState<number>(initialTime);
-
-	const router = useRouter();
 
 	const handleOptionClick = (optionIndex: number) => {
 		setSelectedOptionIndex(optionIndex);
@@ -105,7 +107,7 @@ const Page = ({ params }: Props) => {
 	}, [currentQuestionIndex, timer]);
 
 	return (
-		<div className="flex justify-center items-center h-screen">
+		<div className="flex justify-center items-center h-[80vh]">
 			{subjectQuestions.length > 0 ? (
 				<>
 					{!showResult ? (

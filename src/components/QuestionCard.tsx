@@ -17,7 +17,10 @@ const QuestionCard = ({ question, answer }: QuestionCardProps) => {
 	};
 
 	return (
-		<div className="bg-theme shadow-lg rounded-lg p-7 mx-10" dir="ltr">
+		<div
+			className="bg-theme shadow-lg rounded-lg p-7 mx-10 md:w-[70%]"
+			dir="ltr"
+		>
 			<div className="flex justify-between items-center">
 				<span className="text-sm font-medium">{question}</span>
 				<Button

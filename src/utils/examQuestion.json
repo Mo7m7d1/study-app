@@ -14,7 +14,7 @@
 	{
 		"id": 2,
 		"subject": "تحليل وتصميم النظم",
-		"question": "Which phase of the systems development life cycle (SDLC) involves understanding the existing system and gathering user requirements?",
+		"question": "Which phase of the systems development life cycle (SDLinvolves understanding the existing system and gathering user requirements?",
 		"choices": ["Planning", "Analysis", "Design", "Implementation"],
 		"correct_answer": 1
 	},
@@ -33,7 +33,7 @@
 	{
 		"id": 4,
 		"subject": "تحليل وتصميم النظم",
-		"question": "Which phase of the systems development life cycle (SDLC) focuses on creating a blueprint for the new system?",
+		"question": "Which phase of the systems development life cycle (SDLfocuses on creating a blueprint for the new system?",
 		"choices": ["Planning", "Analysis", "Design", "Maintenance"],
 		"correct_answer": 2
 	},
@@ -52,7 +52,7 @@
 	{
 		"id": 6,
 		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The systems development life cycle (SDLC) consists of five phases.",
+		"question": "True or False: The systems development life cycle (SDLconsists of five phases.",
 		"choices": ["True", "False"],
 		"correct_answer": 0
 	},
@@ -145,7 +145,7 @@
 	{
 		"id": 15,
 		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a data flow diagram (DFD) in systems analysis?",
+		"question": "What is the purpose of a data flow diagram (DFin systems analysis?",
 		"choices": [
 			"To model system processes",
 			"To design user interfaces",
@@ -347,7 +347,7 @@
 	{
 		"id": 36,
 		"subject": "تحليل وتصميم النظم",
-		"question": "What does a process symbol in a data flow diagram (DFD) represent?",
+		"question": "What does a process symbol in a data flow diagram (DFrepresent?",
 		"choices": [
 			"A data store",
 			"An external entity",
@@ -394,7 +394,7 @@
 	{
 		"id": 42,
 		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: A data flow in a data flow diagram (DFD) represents the movement of data between system components.",
+		"question": "True or False: A data flow in a data flow diagram (DFrepresents the movement of data between system components.",
 		"choices": ["True", "False"],
 		"correct_answer": 0
 	},
@@ -513,5 +513,191 @@
 		"question": "A unique key in a database table allows null values. (True/False)",
 		"choices": ["True", "False"],
 		"correct_answer": 1
+	},
+	{
+		"id": 56,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is NOT a phase of project management?",
+		"choices": ["Execution", "Monitoring", "Planning", "Closedown"],
+		"correct_answer": 1
+	},
+	{
+		"id": 57,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a project charter?",
+		"choices": [
+			"To estimate task durations",
+			"To define project scope and objectives",
+			"To monitor project progress",
+			"To create Gantt charts"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 58,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a work breakdown structure (WBS)?",
+		"choices": [
+			"A document that outlines project standards and procedures",
+			"A technique for estimating project resources",
+			"A division of a project into manageable tasks and subtasks",
+			"A tool for creating Gantt charts"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 59,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What does PERT stand for in project management?",
+		"choices": [
+			"Project Evaluation and Resource Tracking",
+			"Program Execution and Reporting Tool",
+			"Program Evaluation Review Technique",
+			"Project Execution and Risk Tracking"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 60,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which diagram represents task dependencies in project management?",
+		"choices": [
+			"Gantt chart",
+			"Network diagram",
+			"PERT chart",
+			"Resource allocation chart"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 61,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the critical path in project management?",
+		"choices": [
+			"The sequence of tasks that must be completed first",
+			"The longest path of dependent tasks in a project",
+			"The shortest path of independent tasks in a project",
+			"The path with the least amount of slack time"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 62,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of using project management software?",
+		"choices": [
+			"To estimate task durations accurately",
+			"To create network diagrams",
+			"To manage project schedules and resources",
+			"To communicate with project stakeholders"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 63,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Project management is an important aspect of systems development.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 64,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Project managers need to possess management, leadership, and technical skills.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 65,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: The initiation phase of project management involves assessing project size, scope, and complexity.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 66,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: A project charter is a document prepared for the customer describing project deliverables and outlining the work required to complete the project.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 67,
+		"subject": "تحليل وتصميم النظم",
+		"question": "True or False: Gantt charts and network diagrams are graphical representations used in project planning and scheduling.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 68,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is NOT a key activity in project initiation?",
+		"choices": [
+			"Establishing the project initiation team",
+			"Establishing a relationship with the customer",
+			"Creating a project initiation plan",
+			"Developing the project charter"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 69,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a Project Scope Statement (PSS)?",
+		"choices": [
+			"To define the activities and resources needed for project completion",
+			"To establish the project initiation team",
+			"To assess project feasibility",
+			"To describe what the project will deliver"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 70,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the primary focus of project planning?",
+		"choices": [
+			"Defining clear, discrete activities and work needed to complete each activity",
+			"Establishing a relationship with the customer",
+			"Assessing project feasibility",
+			"Establishing the project initiation team"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 71,
+		"subject": "تحليل وتصميم النظم",
+		"question": "Which of the following is NOT a method for assessing project feasibility?",
+		"choices": [
+			"Economic feasibility",
+			"Technical feasibility",
+			"Social feasibility",
+			"Operational feasibility"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 72,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the time value of money?",
+		"choices": [
+			"The concept that money available today is worth more than the same amount tomorrow",
+			"The discount rate used to compute the present value of future cash flows",
+			"The current value of a future cash flow",
+			"The ratio of cash receipts to cash outlays"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 73,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is the purpose of a cost-benefit analysis?",
+		"choices": [
+			"To determine project risks and uncertainties",
+			"To assess the technical feasibility of a project",
+			"To identify the financial benefits and costs associated with a development project",
+			"To evaluate the time value of money"
+		],
+		"correct_answer": 2
 	}
 ]

@@ -60,6 +60,36 @@
 		"answer": "The goal of systems development is to create or modify information systems to meet specific business needs."
 	},
 	{
+		"id": 251,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is project management?",
+		"answer": "Project management is a controlled process of initiating, planning, executing, and closing down a project."
+	},
+	{
+		"id": 252,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the skills required to be an effective project manager?",
+		"answer": "An effective project manager should possess management, leadership, technical, conflict management, and customer relationship skills."
+	},
+	{
+		"id": 253,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are the phases of project management?",
+		"answer": "The phases of project management are initiation, planning, execution, and closedown."
+	},
+	{
+		"id": 254,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a deliverable in the context of project management?",
+		"answer": "A deliverable refers to the end product of a phase in the systems development life cycle (SDLC)."
+	},
+	{
+		"id": 255,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is critical path scheduling?",
+		"answer": "Critical path scheduling is a technique in project management that determines the shortest time in which a project can be completed by considering the order and duration of a sequence of task activities."
+	},
+	{
 		"id": 11,
 		"subject": "تحليل وتصميم النظم",
 		"question": "What is the purpose of modern systems analysis?",
