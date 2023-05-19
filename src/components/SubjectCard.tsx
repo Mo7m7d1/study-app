@@ -7,8 +7,8 @@ import { useState } from "react";
 const SubjectCard = ({ id, subject, link, btnText }: SubjectCardType) => {
 	const [numberOfQuestions, setNumberOfQuestions] = useState<number>(10);
 	return (
-		<div className="bg-theme shadow-xl shadow-secondary text-white p-7 rounded-lg">
-			<h2 className="text-lg font-semibold mb-4">{subject}</h2>
+		<div className="bg-theme shadow-xl shadow-secondary text-white p-7 rounded-lg mx-6">
+			<h2 className="text-lg font-semibold mb-6">{subject}</h2>
 			<div className="flex justify-between items-center">
 				<Link href={`${link}?numberOfQuestions=${numberOfQuestions}`}>
 					<Button variant="gradient" color="yellow">
