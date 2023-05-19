@@ -90,6 +90,24 @@
 		"answer": "Critical path scheduling is a technique in project management that determines the shortest time in which a project can be completed by considering the order and duration of a sequence of task activities."
 	},
 	{
+		"id": 256,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What is a Joint Application Design (JAD) session?",
+		"answer": "A JAD session is a facilitated meeting that brings together key users, managers, and systems analysts to collect system requirements simultaneously."
+	},
+	{
+		"id": 257,
+		"subject": "تحليل وتصميم النظم",
+		"question": "How can prototyping be used during requirements determination?",
+		"answer": "Prototyping can quickly convert requirements into a working version of the system, allowing users to provide feedback and request modifications."
+	},
+	{
+		"id": 258,
+		"subject": "تحليل وتصميم النظم",
+		"question": "What are some contemporary approaches to requirements determination?",
+		"answer": "Contemporary approaches include JAD sessions, group support systems, CASE tools, and system prototypes."
+	},
+	{
 		"id": 11,
 		"subject": "تحليل وتصميم النظم",
 		"question": "What is the purpose of modern systems analysis?",
