@@ -579,7 +579,7 @@
 			"The shortest path of independent tasks in a project",
 			"The path with the least amount of slack time"
 		],
-		"correct_answer": 1
+		"correct_answer": 2
 	},
 	{
 		"id": 62,
