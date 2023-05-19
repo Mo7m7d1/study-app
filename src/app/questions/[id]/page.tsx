@@ -14,7 +14,7 @@ const QuestionPage = ({ params }: QuestionPageProps) => {
 			<h1 className="text-3xl font-semibold mb-8 text-gray-300">
 				اسئلة مادة <span className="text-yellow-500">{subject}</span>
 			</h1>
-			<div className="grid grid-cols-1 justify-items-center gap-4 w-full">
+			<div className="grid grid-cols-1 justify-items-center gap-4 w-full pb-4">
 				{subjectQuestions.map((question) => (
 					<QuestionCard
 						key={question.id}
