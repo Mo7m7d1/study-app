@@ -21,3 +21,30 @@ body {
 ::-webkit-scrollbar-thumb:hover {
 	background-color: hsl(58, 90%, 75%) !important;
 }
+/* 
+.flashcard {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	transform-style: preserve-3d;
+	transition: all 0.6s ease;
+}
+
+.flashcard.isFlipped {
+	transform: rotateY(180deg);
+}
+
+.front,
+.back {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	backface-visibility: hidden;
+	transition: all 0.6s all;
+	border-radius: 8px;
+	text-align: center;
+}
+
+.back {
+	transform: rotateY(180deg);
+} */

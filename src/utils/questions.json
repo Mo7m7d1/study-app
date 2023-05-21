@@ -387,7 +387,7 @@
 		"id": 271,
 		"subject": "تحليل وتصميم النظم",
 		"question": "Differentiate between unary, binary, and ternary relationships and provide an example of each.",
-		"answer": "A unary relationship is a relationship between instances of the same entity type (e.g., \"Employee manages Employee\").\nA binary relationship is a relationship between instances of two different entity types (e.g., \"Customer places Order\").\nA ternary relationship is a relationship among instances of three different entity types (e.g., \"Student enrolls in Course offered by Faculty\")."
+		"answer": "A unary relationship is a relationship between instances of the same entity type (e.g., \"Employee manages Employee\"). A binary relationship is a relationship between instances of two different entity types (e.g., \"Customer places Order\"). A ternary relationship is a relationship among instances of three different entity types (e.g., \"Student enrolls in Course offered by Faculty\")."
 	},
 	{
 		"id": 272,
@@ -1512,48 +1512,7 @@
 		"question": "What are the advantages of satellite communication in wireless networks?",
 		"answer": "Global coverage, long-distance communication, and resilience to natural disasters or geographical barriers."
 	},
-	{
-		"id": 230,
-		"subject": "الشبكات الاسلكية",
-		"question": "How does satellite communication work in wireless networks?",
-		"answer": "Signals are transmitted from a ground station to a satellite in space, which then relays the signals to other ground stations."
-	},
-	{
-		"id": 231,
-		"subject": "مستودعات البيانات",
-		"question": "What is a data warehouse?",
-		"answer": "A data warehouse is a large, centralized repository of data used for reporting and analysis."
-	},
-	{
-		"id": 232,
-		"subject": "مستودعات البيانات",
-		"question": "What is the purpose of a data warehouse?",
-		"answer": "The purpose of a data warehouse is to provide a single source of truth for business intelligence and decision-making."
-	},
-	{
-		"id": 233,
-		"subject": "مستودعات البيانات",
-		"question": "What is the difference between a data warehouse and a database?",
-		"answer": "A data warehouse is optimized for reporting and analysis while a database is optimized for transaction processing."
-	},
-	{
-		"id": 234,
-		"subject": "مستودعات البيانات",
-		"question": "What is ETL?",
-		"answer": "ETL stands for Extract, Transform, Load. It's the process of extracting data from source systems, transforming it into a common format, and loading it into a data warehouse."
-	},
-	{
-		"id": 235,
-		"subject": "مستودعات البيانات",
-		"question": "What is OLAP?",
-		"answer": "OLAP stands for Online Analytical Processing. It's a category of software tools that allows users to analyze data from multiple dimensions."
-	},
-	{
-		"id": 236,
-		"subject": "مستودعات البيانات",
-		"question": "What are the benefits of using a data warehouse?",
-		"answer": "A data warehouse provides faster and more accurate reporting, better decision-making, and improved data quality."
-	},
+
 	{
 		"id": 237,
 		"subject": "مستودعات البيانات",
@@ -1591,18 +1550,6 @@
 		"answer": "A data warehouse provides faster and more accurate reporting, better decision-making, and improved data quality."
 	},
 	{
-		"id": 243,
-		"subject": "مستودعات البيانات",
-		"question": "What is a star schema?",
-		"answer": "A star schema is a common design for a data warehouse where a central fact table is connected to multiple dimension tables."
-	},
-	{
-		"id": 244,
-		"subject": "مستودعات البيانات",
-		"question": "What is a snowflake schema?",
-		"answer": "A snowflake schema is a variation of the star schema where dimension tables are normalized into multiple related tables."
-	},
-	{
 		"id": 245,
 		"subject": "مستودعات البيانات",
 		"question": "What is data mining?",
@@ -1613,5 +1560,119 @@
 		"subject": "مستودعات البيانات",
 		"question": "What is a fact table?",
 		"answer": "A fact table is the central table in a star or snowflake schema that contains the measures or facts of the data warehouse."
+	},
+	{
+		"id": 247,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by the Relational database modeling process?",
+		"answer": "Relational database modeling process means – normalization, relations or tables are progressively decomposed into smaller relations to a point where all attributes in a relation are very tightly coupled with the primary key of the relation. First normal form: data items are atomic, Second normal form: attributes fully depend on primary key, Third normal form: all non-key attributes are completely independent of each other."
+	},
+	{
+		"id": 248,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by the process of normalization in general?",
+		"answer": "The process of normalization generally breaks a table into many independent tables. A normalized database yields a flexible model, making it easy to maintain dynamic relationships between business entities."
+	},
+	{
+		"id": 249,
+		"subject": "مستودعات البيانات",
+		"question": "What are the advantages of a relational database system?",
+		"answer": "A relational database system is effective and efficient for operational databases – a lot of updates (aiming at optimizing update performance)."
+	},
+	{
+		"id": 250,
+		"subject": "مستودعات البيانات",
+		"question": "What are the problems in heterogeneous information sources?",
+		"answer": "The problems are different interfaces, different data representations, duplicate and inconsistent information."
+	},
+	{
+		"id": 251,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by interface?",
+		"answer": "Interface is a small component found to make the communication between two different systems easy."
+	},
+	{
+		"id": 252,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by different data representations?",
+		"answer": "One may represent its data in binary, another may represent its data in hexadecimal, and so on."
+	},
+	{
+		"id": 253,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by inconsistent information?",
+		"answer": "Inconsistent information refers to some information having extra fields, or the opposite, some information with an increase order, other information with a decrease order, and so on."
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "what do we mean by OLTP",
+		"answer": "On Line Transaction Processing"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "Mention the concept of OLTP.",
+		"answer": "Describes processing at operational database Major task of traditional relational DBMS Day-to-day operations: purchasing, inventory, banking, manufacturing, payroll, registration, accounting, etc."
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "What do we mean by OLAP",
+		"answer": "On Line Analytical Processing"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "Mention the concept of OLAP",
+		"answer": "Describes processing at warehouse Major task of data warehouse system Data analysis and decision making"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "Why a Separate Data Warehouse?",
+		"answer": "High performance for both systems DBMS— tuned for OLTP: access methods, indexing, concurrency control, recovery Warehouse—tuned for OLAP: complex OLAP queries, multidimensional view, consolidation Different functions and different data: - missing data: Decision support requires historical data which operational DBs do not typically maintain - data consolidation: DS requires consolidation (aggregation, summarization) of data from heterogeneous sources - data quality: different sources typically use inconsistent data representations, codes and formats which have to be reconciled"
+	},
+	{
+		"id": 254,
+		"subject": "مستودعات البيانات",
+		"question": "what do we mean by pivot?",
+		"answer": "The pivot operation is also known as rotation. It rotates the data axes in view in order to provide an alternative presentation of data."
+	},
+	{
+		"id": 255,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب برنامج يقوم بفحص اذا كانت المصفوفة مرتبة تصاعديا وتنزاليا",
+		"answer": "void sortedArray(int A[], int n) {\n\t  int i = 2, j;\n  while (A[i] == A[i - 1]) {\n    i++;\n  }\n\n  j = i;\n  while (i < n && A[i] <= A[i - 1]) {\n    i++;\n  }\n\n  if (i == j) {\n    while (i < n && A[i] >= A[i - 1]) {\n      i++;\n    }\n  }\n\n  if (i == n) {\n    cout << \\\"S\\\";\n  } else {\n    cout << \\\"NS\\\";\n  }\n}"
+	},
+	{
+		"id": 256,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب دالة تقوم بالبحث عن اكبر عنصر وعدد مرات تكراره في المصفوفة",
+		"answer": "void maxFreq(int A[], int n) {int i, c = 1, m = A[0];\nfor (i = 0; i < n; i++)\n  if (A[i] > A[m])\n    m = i;\n\ni = m;\nm = A[m];\nfor (i = i + 1; i < n; i++)\n  if (A[i] == m)\n    c++;\n\n cout<< c;}"
+	},
+	{
+		"id": 257,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب دالة ذكية تقوم بجمع الاعداد المحصورة بين عددين وترجع المجموع",
+		"answer": "int sum(int x, int y)\n{\n    if (x > y)\n    {\n        int temp = x;\n        x = y;\n        y = temp;\n    }\n    return (x + y) * (y - x + 1) / 2;\n}"
+	},
+	{
+		"id": 258,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب برنامج يقوم بتوليد 200 رقم عشوائي ومن ثم يقوم بطباعة عدد الارقام الزوجية والفردية",
+		"answer": "\nint main()\n{\n    int x, even = 0, i;\n    for (i = 0; i < 200; i++)\n    {\n        x = rand() % 1000;\n        if (x % 2 == 0)\n            even++;\n    }\n    cout << \"even: \" << even << \"\\nodd: \" << 200 - even;\n}"
+	},
+	{
+		"id": 259,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب دالة تقوم بتصنيف درجات الطلاب الى 10 مجموعات حسب الدرجات",
+		"answer": "void groups(int A[], int n, int g)\n{\n    int i, c = 1;\n    for (i = 0; i < n; i++)\n    {\n        if (A[i] % 10 == g)\n        {\n            cout << A[i] << \" \";\n            c++;\n\n            if (c % 5 == 0)\n                cout << std::endl;\n        }\n    }\n}"
+	},
+	{
+		"id": 260,
+		"subject": "مستودعات البيانات",
+		"question": "اكتب برنامج يقوم بتوليد 200 رقم عشوائي ويقوم بزيادة نسبة الاعداد الفردية(الاناث) بنسبة(5%) ",
+		"answer": "int main()\n{\n    int i, x, f, a[200];\n    for (i = 0; i < 200; i++)\n     {\n        x = rand() % 2;\n        if ((i + 1) % 10 == 0)\n            x = 1;\n        a[i] = x;\n\n        if (x == 1)\n            f++;\n    }\n    cout << \"female: \" << f / 2.0 << \"%\\n\"\n         << \"male: \" << (200 - f) / 2.0 << \"%\";\n\n    return 0;\n}"
 	}
 ]

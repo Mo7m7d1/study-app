@@ -699,5 +699,269 @@
 			"To evaluate the time value of money"
 		],
 		"correct_answer": 2
+	},
+
+	{
+		"id": 74,
+		"subject": "مستودعات البيانات",
+		"question": "Observation skills means that the ability to ___ a lot of what are and found in the environment surroundingكثيرا مما يوجد في البيئة المحيطة.",
+		"choices": [
+			"a) absorb يستوعب",
+			"b) notice يلاحظ",
+			"c) hearing يسمع",
+			"d) feeling يشعر",
+			"e) all previous"
+		],
+		"correct_answer": 4
+	},
+	{
+		"id": 75,
+		"subject": "مستودعات البيانات",
+		"question": "Measuring skill مهارة القياس means the ability to deal with ___ for stating/determining size لتحديد الحجم, length البعد, weight الوزن, quality الجودة and so on of some things.",
+		"choices": [
+			"a) system",
+			"b) standard المقاييس",
+			"c) features السمات",
+			"d) a&b"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 76,
+		"subject": "مستودعات البيانات",
+		"question": "Inducting skills means the ability to ___ general law قانون عام from particular facts or examples من حقائق محدودة أو امثلة.",
+		"choices": [
+			"a) explain يشرح",
+			"b) discover يكتشف",
+			"c) deal with يتعامل مع"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 77,
+		"subject": "مستودعات البيانات",
+		"question": "Controlling variables skills means the ability to use ___ to represent some situations لتمثيل بعض الحالات, especially in simulation manner وخاصة بطريقة المحاكاة.",
+		"choices": [
+			"a) variables",
+			"b) values",
+			"c) numbers",
+			"d) all previous",
+			"e) a&b"
+		],
+		"correct_answer": 4
+	},
+	{
+		"id": 78,
+		"subject": "مستودعات البيانات",
+		"question": "Communicating skills means the ability to ___ information easily بسهولة.",
+		"choices": [
+			"a) send يرسل",
+			"b) receive يستقبل",
+			"c) explain",
+			"d) all previous",
+			"e) a&b"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 79,
+		"subject": "مستودعات البيانات",
+		"question": "Classification skills means that ability to arrange some things in classes or groups based on ___ characteristics سمات",
+		"choices": [
+			"a) general عام",
+			"b) suitable مناسب",
+			"c) different",
+			"d) all previous",
+			"e) a&b"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 80,
+		"subject": "مستودعات البيانات",
+		"question": "Interpreting skills means the ability to ___ some things which is not easily understandable.",
+		"choices": ["a) state", "b) determine تحديد", "c) explain شرح", "d) a&b"],
+		"correct_answer": 2
+	},
+	{
+		"id": 81,
+		"subject": "مستودعات البيانات",
+		"question": "Deduction skills means the ability to get ___ from general principles to a particular case.",
+		"choices": [
+			"a) reason السبب",
+			"b) method الطريقة",
+			"c) explanation الشرح",
+			"d) a&b"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 82,
+		"subject": "مستودعات البيانات",
+		"question": "Inferring skills means the ability to ___ results from particular facts or reasons.",
+		"choices": ["a) conclude", "b) state", "c) determine", "d) all previous"],
+		"correct_answer": 0
+	},
+	{
+		"id": 83,
+		"subject": "مستودعات البيانات",
+		"question": "Predicting skills means the ability to ___ some things based on the similarity تشابه of another things happened in the last time.",
+		"choices": [
+			"a) conclude",
+			"b) expect توقع",
+			"c) exercise تمرين",
+			"d) all previous"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 84,
+		"subject": "مستودعات البيانات",
+		"question": "Using numbers skills means the ability to use ___ to represent some situations المواقف easily, especially in simulation manner. خاصتا في المحاكاة",
+		"choices": ["a) variables", "b) values", "c) numbers", "d) a&b"],
+		"correct_answer": 2
+	},
+	{
+		"id": 85,
+		"subject": "مستودعات البيانات",
+		"question": "Space-time relationships skills means the ability to ___ the space-time relationships to represent some situations المواقف easily, especially in simulation manner. خاصتا في المحاكاة",
+		"choices": [
+			"a) exploit استغلال",
+			"b) write",
+			"c) determine تحديد",
+			"d) conclude استنتاج"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 86,
+		"subject": "مستودعات البيانات",
+		"question": "Hypothesizing skills means the ability to ___ solutions to some problems.",
+		"choices": [
+			"a) suggest اقتراح",
+			"b) analyst تحليل",
+			"c) conclude استنتاج",
+			"d) a&b"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 87,
+		"subject": "مستودعات البيانات",
+		"question": "Simulation skills means the ability to ___ some things easily.",
+		"choices": [
+			"a) imitate تقليد",
+			"b) emulate محاكاة",
+			"c) produce انتاج",
+			"d) a&b"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 88,
+		"subject": "مستودعات البيانات",
+		"question": "ETL means",
+		"choices": [
+			"a) Extraction, translation, loading.",
+			"b) Extraction, transformation, loading.",
+			"c) Extraction, translation, liking."
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 89,
+		"subject": "مستودعات البيانات",
+		"question": "Indexing الفهرسة happened in",
+		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
+		"correct_answer": 0
+	},
+	{
+		"id": 90,
+		"subject": "مستودعات البيانات",
+		"question": "Concurrency التزامن control happened in",
+		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
+		"correct_answer": 0
+	},
+	{
+		"id": 91,
+		"subject": "مستودعات البيانات",
+		"question": "Recovery الاسترجاع happened in",
+		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
+		"correct_answer": 0
+	},
+	{
+		"id": 92,
+		"subject": "مستودعات البيانات",
+		"question": "Consolidation الدمج happened in",
+		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
+		"correct_answer": 1
+	},
+	{
+		"id": 93,
+		"subject": "مستودعات البيانات",
+		"question": "Interface is ___ component to make the communication between two different systems easy",
+		"choices": ["a) small", "b) medium", "c) large"],
+		"correct_answer": 0
+	},
+	{
+		"id": 94,
+		"subject": "مستودعات البيانات",
+		"question": "Which of the following is a characteristic سمات of the first normal form (1NF)?",
+		"choices": [
+			"Data items are atomic",
+			"Attributes fully depend on the primary key",
+			"On Line Analytical Processing (OLAP)",
+			"Extraction, transformation, loading (ETL)"
+		],
+		"correct_answer": 0
+	},
+
+	{
+		"id": 95,
+		"subject": "مستودعات البيانات",
+		"question": "In database normalization, what does the second normal form (2NF) ensure?",
+		"choices": [
+			"Data items are atomic",
+			"Attributes fully depend on the primary key",
+			"On Line Analytical Processing (OLAP)",
+			"Extraction, transformation, loading (ETL)"
+		],
+		"correct_answer": 1
+	},
+	{
+		"idال": 96,
+		"subject": "مستودعات البيانات",
+		"question": "Which of the following describes the third normal form (3NF) in database normalization?",
+		"choices": [
+			"Data items are atomic",
+			"Attributes fully depend on the primary key",
+			"On Line Analytical Processing (OLAP)",
+			"Extraction, transformation, loading (ETL)"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 97,
+		"subject": "مستودعات البيانات",
+		"question": "What is the abbreviation اختصار OLTP commonly used for in the context of data warehousing?",
+		"choices": [
+			"On Line Analytical Processing",
+			"On Line Transaction Processing",
+			"Extraction, transformation, loading (ETL)",
+			"Collecting data from a variety of sources"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 98,
+		"subject": "مستودعات البيانات",
+		"question": "In the context of databases, what does the pivot محور operation involve?",
+		"choices": [
+			"Data items are atomic",
+			"On Line Analytical Processing",
+			"Extraction, transformation, loading",
+			"Rotation"
+		],
+		"correct_answer": 3
 	}
 ]

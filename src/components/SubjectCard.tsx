@@ -30,7 +30,6 @@ const SubjectCard = ({ id, subject, link, btnText }: SubjectCardType) => {
 						<option value={10}>10</option>
 						<option value={15}>15</option>
 						<option value={30}>30</option>
-						<option value={50}>50</option>
 					</select>
 				)}
 			</div>
