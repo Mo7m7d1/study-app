@@ -1649,7 +1649,7 @@
 		"id": 256,
 		"subject": "مستودعات البيانات",
 		"question": "اكتب دالة تقوم بالبحث عن اكبر عنصر وعدد مرات تكراره في المصفوفة",
-		"answer": "void maxFreq(int A[], int n) {int i, c = 1, m = A[0];\nfor (i = 0; i < n; i++)\n  if (A[i] > A[m])\n    m = i;\n\ni = m;\nm = A[m];\nfor (i = i + 1; i < n; i++)\n  if (A[i] == m)\n    c++;\n\n cout<< c;}"
+		"answer": "void maxFreq(int A[], int n) {int i, c = 1, m = 0;\nfor (i = 0; i < n; i++)\n  if (A[i] > A[m])\n    m = i;\n\ni = m;\nm = A[m];\nfor (i = i + 1; i < n; i++)\n  if (A[i] == m)\n    c++;\n\n cout<< c;}"
 	},
 	{
 		"id": 257,
