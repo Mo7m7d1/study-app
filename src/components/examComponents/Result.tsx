@@ -13,7 +13,7 @@ const Result = ({
 		<div className="flex justify-center items-center flex-col bg-theme shadow-lg shadow-secondary rounded-md p-6 text-gray-100">
 			<h2 className="mb-4 text-lg">
 				نتيجتك{" "}
-				<span className="text-yellow-600 text-xl font-bold">{score}</span> من
+				<span className="text-yellow-600 text-xl font-bold">{score}</span> من{" "}
 				<span className="text-red-500 text-xl font-bold">{totalQuestions}</span>
 			</h2>
 			<div className="flex flex-row gap-4">

@@ -1642,7 +1642,7 @@
 	{
 		"id": 255,
 		"subject": "مستودعات البيانات",
-		"question": "اكتب برنامج يقوم بفحص اذا كانت المصفوفة مرتبة تصاعديا وتنزاليا",
+		"question": "اكتب برنامج يقوم بفحص اذا كانت المصفوفة مرتبة تصاعديا وتنازليا",
 		"answer": "void sortedArray(int A[], int n) {\n\t  int i = 2, j;\n  while (A[i] == A[i - 1]) {\n    i++;\n  }\n\n  j = i;\n  while (i < n && A[i] <= A[i - 1]) {\n    i++;\n  }\n\n  if (i == j) {\n    while (i < n && A[i] >= A[i - 1]) {\n      i++;\n    }\n  }\n\n  if (i == n) {\n    cout << \\\"S\\\";\n  } else {\n    cout << \\\"NS\\\";\n  }\n}"
 	},
 	{
