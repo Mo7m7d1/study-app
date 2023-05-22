@@ -1,4 +1,4 @@
-import { SubjectCard } from "@/components";
+import { ExamCardLoadingSkelton, SubjectCard } from "@/components";
 import subjects from "@/utils/subjects.json";
 
 function page() {

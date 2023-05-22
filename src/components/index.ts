@@ -5,3 +5,6 @@ export { default as PrimaryButton } from "./PrimaryButton";
 export { default as SubjectCard } from "./SubjectCard";
 export { default as QuestionCard } from "./QuestionCard";
 export { default as LoadingSpinner } from "./LoadingSpinner";
+export { default as LoadingSkelton } from "./LoadingSkelton";
+export { default as ResponsiveLoadingSkelton } from "./ResponsiveLoadingSkelton";
+export { default as ExamCardLoadingSkelton } from "./ExamCardLoadingSkelton";

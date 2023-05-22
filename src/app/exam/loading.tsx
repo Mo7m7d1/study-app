@@ -1,7 +1,7 @@
-import { LoadingSpinner } from "@/components";
+import { ResponsiveLoadingSkelton } from "@/components";
 
 const loading = () => {
-	return <LoadingSpinner />;
+	return <ResponsiveLoadingSkelton />;
 };
 
 export default loading;

@@ -1,7 +1,7 @@
-import { LoadingSpinner } from "@/components";
+import { ExamCardLoadingSkelton } from "@/components";
 
 const loading = () => {
-	return <LoadingSpinner />;
+	return <ExamCardLoadingSkelton />;
 };
 
 export default loading;
