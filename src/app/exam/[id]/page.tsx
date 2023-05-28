@@ -26,7 +26,7 @@ const Page = ({ params }: Props) => {
 			.filter((question) => question.subject === subject)
 			.sort(() => Math.random() - 0.5)
 			.slice(0, numberOfQuestions);
-	}, [subject]);
+	}, [numberOfQuestions, subject]);
 
 	const [currentQuestionIndex, setCurrentQuestionIndex] = useState<number>(0);
 	const [selectedOptionIndex, setSelectedOptionIndex] = useState<number>(-1);
@@ -104,7 +104,7 @@ const Page = ({ params }: Props) => {
 				clearTimeout(time);
 			};
 		}
-	}, [currentQuestionIndex, timer]);
+	}, [timer]);
 
 	return (
 		<div className="flex justify-center items-center h-[80vh]">

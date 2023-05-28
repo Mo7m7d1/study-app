@@ -3,7 +3,7 @@ import jsonBooks from "../../utils/subjects.json";
 import { useMemo } from "react";
 
 const BooksPage = () => {
-	const books = useMemo(() => jsonBooks, [jsonBooks]);
+	const books = useMemo(() => jsonBooks, []);
 	return (
 		<div className="text-white flex flex-col items-center mt-14 lg:mt-28 mx-4">
 			<h1 className="text-4xl font-semibold mb-8 text-gray-400">
