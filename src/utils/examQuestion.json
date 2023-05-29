@@ -1560,48 +1560,48 @@
 		"subject": "هندسة البرمجيات",
 		"question": "Software engineers should behave in an honest and ethically responsible way.",
 		"choices": ["True", "False"],
-		"correct_answer": true
+		"correct_answer": 0
 	},
 	{
 		"id": 158,
 		"subject": "هندسة البرمجيات",
 		"question": "Software engineers should misrepresent their level of competence.",
 		"choices": ["True", "False"],
-		"correct_answer": false
+		"correct_answer": 1
 	},
 	{
 		"id": 159,
 		"subject": "هندسة البرمجيات",
 		"question": "Engineers should normally respect the confidentiality of their employers or clients.",
 		"choices": ["True", "False"],
-		"correct_answer": true
+		"correct_answer": 0
 	},
 	{
 		"id": 160,
 		"subject": "هندسة البرمجيات",
 		"question": "Software engineers can use their technical skills to misuse other people's computers.",
 		"choices": ["True", "False"],
-		"correct_answer": false
+		"correct_answer": 1
 	},
 	{
 		"id": 161,
 		"subject": "هندسة البرمجيات",
 		"question": "Stand-alone applications need to be connected to a network to function.",
 		"choices": ["True", "False"],
-		"correct_answer": false
+		"correct_answer": 1
 	},
 	{
 		"id": 162,
 		"subject": "هندسة البرمجيات",
 		"question": "Batch processing systems process large numbers of individual inputs.",
 		"choices": ["True", "False"],
-		"correct_answer": true
+		"correct_answer": 0
 	},
 	{
 		"id": 163,
 		"subject": "هندسة البرمجيات",
 		"question": "Data collection systems collect data from their environment using a set of sensors.",
 		"choices": ["True", "False"],
-		"correct_answer": true
+		"correct_answer": 0
 	}
 ]
