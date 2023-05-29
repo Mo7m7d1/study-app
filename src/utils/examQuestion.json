@@ -1305,5 +1305,303 @@
 			"d. To manage network connections for database access"
 		],
 		"correct_answer": 2
+	},
+
+	{
+		"id": 130,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software engineering?",
+		"choices": [
+			"A. The application of systematic, disciplined, and quantifiable approach to software development.",
+			"B. The study of computer science theories and fundamentals.",
+			"C. The development of computer programs and associated documentation.",
+			"D. The management of computer-based systems development."
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 131,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the difference between software engineering and computer science?",
+		"choices": [
+			"A. Computer science focuses on practical software development, while software engineering focuses on theoretical aspects.",
+			"B. Computer science is concerned with software production, while software engineering is concerned with software maintenance.",
+			"C. Computer science is a subset of software engineering.",
+			"D. Computer science focuses on theory and fundamentals, while software engineering focuses on practical software development."
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 132,
+		"subject": "هندسة البرمجيات",
+		"question": "What is a software process?",
+		"choices": [
+			"A. The development of software products for a particular customer.",
+			"B. A set of activities for software development or evolution.",
+			"C. The automation of software process activities.",
+			"D. The distribution of software development costs."
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 133,
+		"subject": "هندسة البرمجيات",
+		"question": "What is a software process model?",
+		"choices": [
+			"A. A simplified representation of a software process from a specific perspective.",
+			"B. The cost distribution of software development activities.",
+			"C. A model that describes the graphical representation of software systems.",
+			"D. The process of software distribution and deployment."
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 134,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the costs of software engineering?",
+		"choices": [
+			"A. Roughly 60% of costs are development costs, and 40% are testing costs.",
+			"B. Costs are primarily related to hardware expenses.",
+			"C. Costs are constant and do not vary based on system attributes.",
+			"D. Development costs are always greater than maintenance costs."
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 136,
+		"subject": "هندسة البرمجيات",
+		"question": "What is CASE (Computer-Aided Software Engineering)?",
+		"choices": [
+			"A. A method for software quality assurance.",
+			"B. The use of computers to execute software development tasks.",
+			"C. Tools and systems that provide automated support for software process activities.",
+			"D. The process of documenting software requirements."
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 137,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the waterfall model?",
+		"choices": [
+			"A model that emphasizes testing at each stage of development",
+			"A model that involves iterative development",
+			"A model that focuses on component-based software engineering",
+			"A model that follows a sequential and linear approach"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 138,
+		"subject": "هندسة البرمجيات",
+		"question": "What are software engineering methods?",
+		"choices": [
+			"A. Techniques for building software that can cope with heterogeneous platforms",
+			"B. Tools to support the early process activities of requirements and design",
+			"C. Approaches to software development that include system models, notations, rules, and process guidance",
+			"D. Techniques for faster delivery of software"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 139,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the ACM/IEEE Code of Ethics?",
+		"choices": [
+			"A. A set of guidelines for software development",
+			"B. A code of conduct for software engineers regarding professional and ethical responsibility",
+			"C. A standard model for software process improvement",
+			"D. A framework for software quality assurance"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 140,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Software engineering is only concerned with the coding and programming aspects of software development.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 141,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: The waterfall model is an iterative software development process.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 142,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Software maintenance is the process of fixing defects and making enhancements to software after its initial release.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 143,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Agile development methodologies prioritize comprehensive documentation over working software.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 144,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Software reuse is the process of developing software components from scratch for each project.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 145,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: The primary goal of software testing is to prove that the software is completely bug-free.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 146,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Object-oriented programming is a software development paradigm that emphasizes reusability and modular design.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 147,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: The purpose of a software requirements specification is to describe the design and implementation details of the software system.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 150,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software engineering ethics?",
+		"choices": [
+			"The application of technical skills",
+			"A set of principles that are morally correct",
+			"Following the law",
+			"Honest and ethical behavior"
+		],
+		"correct_answer": 1
+	},
+	{
+		"id": 151,
+		"subject": "هندسة البرمجيات",
+		"question": "Which of the following is not an application type?",
+		"choices": [
+			"Stand-alone applications",
+			"Data collection systems",
+			"Web applications",
+			"Entertainment systems"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 152,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the purpose of the MHC-PMS system?",
+		"choices": [
+			"To maintain records of people receiving care for mental health problems",
+			"To model physical processes or situations",
+			"To control and manage hardware devices",
+			"To support mental health care"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 153,
+		"subject": "هندسة البرمجيات",
+		"question": "What is a key concern in the wilderness weather station case study?",
+		"choices": [
+			"Privacy",
+			"Software reliability",
+			"Data management",
+			"Station maintenance"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 154,
+		"subject": "هندسة البرمجيات",
+		"question": "Which of the following is an essential high-level requirement for the insulin pump system?",
+		"choices": [
+			"Generating management information",
+			"Maintaining patient records",
+			"Ensuring availability and reliability",
+			"Monitoring patient information"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 155,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the purpose of the weather information system in the wilderness weather station?",
+		"choices": [
+			"Collecting weather data",
+			"Processing and analyzing data",
+			"Monitoring system health",
+			"All of the above"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 156,
+		"subject": "هندسة البرمجيات",
+		"question": "What type of systems are primarily for personal use and intended to entertain the user?",
+		"choices": [
+			"Stand-alone applications",
+			"Data collection systems",
+			"Entertainment systems",
+			"Systems for modeling and simulation"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 157,
+		"subject": "هندسة البرمجيات",
+		"question": "Software engineers should behave in an honest and ethically responsible way.",
+		"choices": ["True", "False"],
+		"correct_answer": true
+	},
+	{
+		"id": 158,
+		"subject": "هندسة البرمجيات",
+		"question": "Software engineers should misrepresent their level of competence.",
+		"choices": ["True", "False"],
+		"correct_answer": false
+	},
+	{
+		"id": 159,
+		"subject": "هندسة البرمجيات",
+		"question": "Engineers should normally respect the confidentiality of their employers or clients.",
+		"choices": ["True", "False"],
+		"correct_answer": true
+	},
+	{
+		"id": 160,
+		"subject": "هندسة البرمجيات",
+		"question": "Software engineers can use their technical skills to misuse other people's computers.",
+		"choices": ["True", "False"],
+		"correct_answer": false
+	},
+	{
+		"id": 161,
+		"subject": "هندسة البرمجيات",
+		"question": "Stand-alone applications need to be connected to a network to function.",
+		"choices": ["True", "False"],
+		"correct_answer": false
+	},
+	{
+		"id": 162,
+		"subject": "هندسة البرمجيات",
+		"question": "Batch processing systems process large numbers of individual inputs.",
+		"choices": ["True", "False"],
+		"correct_answer": true
+	},
+	{
+		"id": 163,
+		"subject": "هندسة البرمجيات",
+		"question": "Data collection systems collect data from their environment using a set of sensors.",
+		"choices": ["True", "False"],
+		"correct_answer": true
 	}
 ]
