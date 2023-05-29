@@ -860,25 +860,25 @@
 	},
 	{
 		"id": 121,
-		"subject": "Fundamentals of Web Design Technologies",
+		"subject": "برمجة مواقع الويب",
 		"question": "What are the basic data types in JavaScript?",
 		"answer": "The basic data types in JavaScript are string, number, boolean, null, undefined, and symbol."
 	},
 	{
 		"id": 122,
-		"subject": "Fundamentals of Web Design Technologies",
+		"subject": "برمجة مواقع الويب",
 		"question": "What are variables in JavaScript?",
 		"answer": "Variables in JavaScript are containers for storing data values."
 	},
 	{
 		"id": 123,
-		"subject": "Fundamentals of Web Design Technologies",
+		"subject": "برمجة مواقع الويب",
 		"question": "What are the different ways to declare a variable in JavaScript?",
 		"answer": "Variables in JavaScript can be declared using the 'var', 'let', or 'const' keyword."
 	},
 	{
 		"id": 124,
-		"subject": "Fundamentals of Web Design Technologies",
+		"subject": "برمجة مواقع الويب",
 		"question": "What is the purpose of conditional statements in JavaScript?",
 		"answer": "Conditional statements in JavaScript allow you to make decisions and execute different code blocks based on certain conditions."
 	},
@@ -949,6 +949,162 @@
 		"answer": "The software development process is a set of activities and steps followed to design, develop, test, and deploy software applications."
 	},
 	{
+		"id": 261,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the distinct phases of the waterfall model?",
+		"answer": "Requirements analysis and definition, system and software design, implementation, integration and system testing, deployment, operation and maintenance."
+	},
+	{
+		"id": 262,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the main drawback of the waterfall model?",
+		"answer": "The difficulty of accommodating change after the process is underway."
+	},
+	{
+		"id": 263,
+		"subject": "هندسة البرمجيات",
+		"question": "When is the waterfall model mostly used?",
+		"answer": "For large systems engineering projects where a system is developed at several sites."
+	},
+	{
+		"id": 264,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the objective of exploratory development?",
+		"answer": "To work with customers and evolve a final system from an initial outline specification."
+	},
+	{
+		"id": 265,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the objective of throw-away prototyping?",
+		"answer": "To understand the system requirements by starting with poorly understood requirements and clarifying what is really needed."
+	},
+	{
+		"id": 266,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the advantages of reuse-oriented development?",
+		"answer": "Reduces the overall cost of software development, reduces risk, saves time, and allows for faster delivery of software."
+	},
+	{
+		"id": 267,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the disadvantages of reuse-oriented development?",
+		"answer": "Not always practical, compromises in requirements may lead to a system that does not meet the real requirements, and loss of control over the system evolution."
+	},
+	{
+		"id": 268,
+		"subject": "هندسة البرمجيات",
+		"question": "What is process iteration in software development?",
+		"answer": "The recognition that system requirements always evolve, and earlier stages are reworked as part of the process for large systems."
+	},
+	{
+		"id": 269,
+		"subject": "هندسة البرمجيات",
+		"question": "What is incremental delivery in software development?",
+		"answer": "Breaking down the development and delivery of the system into increments, with each increment delivering part of the required functionality."
+	},
+	{
+		"id": 270,
+		"subject": "هندسة البرمجيات",
+		"question": "What is extreme programming?",
+		"answer": "An approach to development based on the delivery of very small increments of functionality, relying on constant code improvement, user involvement, and pairwise programming."
+	},
+	{
+		"id": 271,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the main characteristic of spiral development in software process models?",
+		"answer": "The software process is represented as a spiral, with each loop representing a phase, allowing for flexibility and risk assessment."
+	},
+	{
+		"id": 272,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the purpose of the risk analysis phase in the spiral model?",
+		"answer": "The risk analysis phase aims to identify potential risks associated with the software product and develop strategies to mitigate them."
+	},
+	{
+		"id": 273,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the activities involved in the software design and implementation phase?",
+		"answer": "The activities include designing a software structure that matches the specification and translating the design into an executable program."
+	},
+	{
+		"id": 275,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the three stages of testing in software development?",
+		"answer": "The stages are component testing, system testing, and acceptance testing."
+	},
+	{
+		"id": 276,
+		"subject": "هندسة البرمجيات",
+		"question": "How does computer-aided software engineering (CASE) support software development?",
+		"answer": "CASE tools automate activities such as graphical modeling, code generation, debugging, and program testing."
+	},
+	{
+		"id": 277,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the three perspectives from which the Rational Unified Process (RUP) is described?",
+		"answer": "The three perspectives are the dynamic perspective (phases over time), the static perspective (process activities), and the practice perspective (suggesting good practices)."
+	},
+	{
+		"id": 278,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the primary goal of rapid software development?",
+		"answer": "The primary goal is to deliver working software quickly and evolve it rapidly to meet changing requirements."
+	},
+	{
+		"id": 279,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the key principles of agile methods?",
+		"answer": "Customer involvement, incremental delivery, people over process, expect change, and maintain simplicity."
+	},
+	{
+		"id": 280,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the problems associated with agile methods?",
+		"answer": "Difficulties in maintaining customer interest, team suitability, prioritizing changes, maintaining simplicity, and dealing with contracts."
+	},
+	{
+		"id": 281,
+		"subject": "هندسة البرمجيات",
+		"question": "How do agile methods address software maintenance?",
+		"answer": "Agile methods need to support maintenance alongside original development, considering issues of maintainability and handling customer change requests effectively."
+	},
+	{
+		"id": 282,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the key principles of the Agile Manifesto?",
+		"answer": "Valuing individuals and interactions, working software, customer collaboration, and responding to change over processes, tools, comprehensive documentation, and contract negotiation."
+	},
+	{
+		"id": 283,
+		"subject": "هندسة البرمجيات",
+		"question": "What is Extreme Programming (XP)?",
+		"answer": "Extreme Programming is an iterative development approach that emphasizes small, frequent system releases, customer involvement, and people-oriented practices like pair programming and continuous integration."
+	},
+	{
+		"id": 284,
+		"subject": "هندسة البرمجيات",
+		"question": "What are the key practices in Extreme Programming (XP)?",
+		"answer": "Incremental planning, small releases, simple design, test-first development, refactoring, pair programming, collective ownership, continuous integration, and maintaining a sustainable pace."
+	},
+	{
+		"id": 285,
+		"subject": "هندسة البرمجيات",
+		"question": "How does XP approach testing?",
+		"answer": "XP emphasizes test-first development, incremental test development from scenarios, user involvement in test development and validation, and the use of automated test harnesses."
+	},
+	{
+		"id": 286,
+		"subject": "هندسة البرمجيات",
+		"question": "What is Scrum?",
+		"answer": "Scrum is a project management framework that focuses on managing iterative development. It involves phases of planning, sprint cycles, and project closure."
+	},
+	{
+		"id": 287,
+		"subject": "هندسة البرمجيات",
+		"question": "What is the Scaled Agile Framework (SAFe)?",
+		"answer": "SAFe is a framework for scaling agile methods to large systems, providing guidance on organizing and coordinating multiple agile teams."
+	},
+	{
 		"id": 136,
 		"subject": "هندسة البرمجيات",
 		"question": "What are software requirements?",
@@ -978,54 +1134,7 @@
 		"question": "What is the Agile methodology in software engineering?",
 		"answer": "Agile methodology is an iterative and incremental approach to software development that focuses on flexibility, collaboration, and customer satisfaction."
 	},
-	{
-		"id": 141,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the Waterfall Model?",
-		"answer": "The Waterfall Model is a sequential software development process that progresses linearly through stages, including requirements analysis, design, implementation, testing, and maintenance."
-	},
-	{
-		"id": 142,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the iterative model?",
-		"answer": "The iterative model is a software development process where the development cycle is repeated through a series of iterations, allowing for feedback and refinement."
-	},
-	{
-		"id": 143,
-		"subject": "هندسة البرمجيات",
-		"question": "What are the key principles of Agile software development?",
-		"answer": "The key principles of Agile software development include customer collaboration, responding to change, delivering working software frequently, and promoting self-organizing teams."
-	},
-	{
-		"id": 144,
-		"subject": "هندسة البرمجيات",
-		"question": "What are the differences between Agile and traditional software development approaches?",
-		"answer": "Agile focuses on iterative development, customer collaboration, and adaptability, while traditional approaches are typically linear, with a sequential flow and a fixed scope."
-	},
-	{
-		"id": 145,
-		"subject": "هندسة البرمجيات",
-		"question": "What is requirements engineering?",
-		"answer": "Requirements engineering is the process of gathering, analyzing, documenting, and managing the requirements for a software system."
-	},
-	{
-		"id": 146,
-		"subject": "هندسة البرمجيات",
-		"question": "What are functional requirements?",
-		"answer": "Functional requirements describe the specific behaviors, functions, and features that a software system must have to fulfill user needs and business objectives."
-	},
-	{
-		"id": 147,
-		"subject": "هندسة البرمجيات",
-		"question": "What are non-functional requirements?",
-		"answer": "Non-functional requirements specify the quality attributes and constraints of a software system, such as performance, reliability, usability, and security."
-	},
-	{
-		"id": 148,
-		"subject": "هندسة البرمجيات",
-		"question": "What are some common challenges in requirements engineering?",
-		"answer": "Common challenges include managing changing requirements, resolving conflicts among stakeholders, and ensuring the completeness and consistency of requirements."
-	},
+
 	{
 		"id": 149,
 		"subject": "هندسة البرمجيات",
@@ -1080,12 +1189,7 @@
 		"question": "What is the difference between black-box testing and white-box testing?",
 		"answer": "Black-box testing focuses on testing the functionality of the software without considering its internal structure, while white-box testing examines the internal structure and implementation details of the software."
 	},
-	{
-		"id": 158,
-		"subject": "هندسة البرمجيات",
-		"question": "What is regression testing?",
-		"answer": "Regression testing is performed to ensure that changes or updates to the software do not introduce new defects or negatively impact existing functionalities."
-	},
+
 	{
 		"id": 159,
 		"subject": "الشبكات الاسلكية",

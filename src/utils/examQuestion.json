@@ -1603,5 +1603,185 @@
 		"question": "Data collection systems collect data from their environment using a set of sensors.",
 		"choices": ["True", "False"],
 		"correct_answer": 0
+	},
+	{
+		"id": 164,
+		"subject": "هندسة البرمجيات",
+		"question": "What is a requirement?",
+		"choices": [
+			"A high-level abstract statement of a service or system constraint",
+			"A detailed mathematical functional specification",
+			"Both a high-level abstract statement and a detailed mathematical functional specification",
+			"None of the above"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 165,
+		"subject": "هندسة البرمجيات",
+		"question": "Requirements engineering involves:",
+		"choices": [
+			"Establishing system services",
+			"Establishing system constraints",
+			"Developing the system",
+			"Both establishing system services and constraints"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 166,
+		"subject": "هندسة البرمجيات",
+		"question": "What are user requirements?",
+		"choices": [
+			"Statements in natural language plus diagrams of system services",
+			"Detailed descriptions of the system's functions and services",
+			"Constraints on the system from the domain of operation",
+			"Statements of how the system should behave in particular situations"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 167,
+		"subject": "هندسة البرمجيات",
+		"question": "Functional requirements are:",
+		"choices": [
+			"Statements of services the system should provide",
+			"Constraints on the system such as timing constraints",
+			"Statements of what the system should not do",
+			"All of the above"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 168,
+		"subject": "هندسة البرمجيات",
+		"question": "Non-functional requirements define:",
+		"choices": [
+			"System properties and constraints",
+			"Functional requirements",
+			"Constraints on the development process",
+			"Statements in natural language plus diagrams of system services"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 169,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Requirements should always be complete and consistent.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 170,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Non-functional requirements are less critical than functional requirements.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 171,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Non-functional requirements may affect the overall architecture of a system.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 172,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Non-functional requirements can be easily verified.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 173,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Usability requirements focus on the ease of use by system developers.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 174,
+		"subject": "هندسة البرمجيات",
+		"question": "What is software maintenance?",
+		"choices": [
+			"A. The process of developing new software",
+			"B. The process of fixing bugs in software",
+			"C. The process of updating software after delivery",
+			"D. The process of documenting software features"
+		],
+		"correct_answer": 2
+	},
+	{
+		"id": 175,
+		"subject": "هندسة البرمجيات",
+		"question": "Which of the following is a reason for software modifications?",
+		"choices": [
+			"A. Changes in market conditions",
+			"B. Changes in software programming languages",
+			"C. Changes in project management techniques",
+			"D. Changes in user interface design"
+		],
+		"correct_answer": 0
+	},
+	{
+		"id": 176,
+		"subject": "هندسة البرمجيات",
+		"question": "Perfective maintenance aims to:",
+		"choices": [
+			"A. Correct errors in the software",
+			"B. Adapt the software to changes in the environment",
+			"C. Prevent future problems in the software",
+			"D. Enhance the software's reliability and performance"
+		],
+		"correct_answer": 3
+	},
+	{
+		"id": 177,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: The cost of software maintenance is typically less than 50% of the entire software process cycle.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 178,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Older software designed for slower machines may struggle to compete with newer software on modern hardware.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 179,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Unstructured code is a major cause of maintenance problems.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 180,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Adaptive maintenance involves correcting errors discovered by users.",
+		"choices": ["True", "False"],
+		"correct_answer": 1
+	},
+	{
+		"id": 181,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Preventive maintenance aims to increase the system's maintainability to prevent future problems.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 182,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Insufficient domain knowledge is a major cause of maintenance problems.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
+	},
+	{
+		"id": 183,
+		"subject": "هندسة البرمجيات",
+		"question": "True or False: Changes made during maintenance are often left undocumented.",
+		"choices": ["True", "False"],
+		"correct_answer": 0
 	}
 ]
