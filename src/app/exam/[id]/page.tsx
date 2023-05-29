@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { questionType } from "@/components/examComponents/examTypes";
 import {
@@ -66,7 +66,7 @@ const Page = ({ params }: Props) => {
 		setShowAnswersModal(true);
 	};
 
-	const handleNextClick = () => {
+	const handleNextClick = useCallback(() => {
 		if (
 			selectedOptionIndex ===
 			subjectQuestions[currentQuestionIndex].correct_answer
@@ -90,7 +90,7 @@ const Page = ({ params }: Props) => {
 			setShowResult(true);
 		}
 		setSelectedOptionIndex(-1);
-	};
+	}, [currentQuestionIndex, score, selectedOptionIndex, subjectQuestions]);
 
 	useEffect(() => {
 		if (timer < 0) {
@@ -104,7 +104,7 @@ const Page = ({ params }: Props) => {
 				clearTimeout(time);
 			};
 		}
-	}, [timer]);
+	}, [timer, handleNextClick]);
 
 	return (
 		<div className="flex justify-center items-center h-[80vh]">
