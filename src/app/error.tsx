@@ -9,7 +9,7 @@ const Error = () => {
 			<p className="text-xl text-gray-600 mb-8">
 				حدث خطأ في الصفحة التي تبحث عنها.
 			</p>
-<Link href="/" className="text-blue-500 text-lg">
+			<Link href="/" className="text-blue-500 text-lg">
 				العودة
 			</Link>
 		</div>

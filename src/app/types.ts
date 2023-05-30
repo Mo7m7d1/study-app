@@ -1,6 +1,6 @@
 export type QuestionPageProps = {
 	params: {
-		id: string;
+		subject: string;
 	};
 };
 

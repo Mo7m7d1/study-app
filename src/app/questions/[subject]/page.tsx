@@ -4,7 +4,7 @@ import jsonQuestions from "@/utils/questions.json";
 import { useMemo } from "react";
 
 const QuestionPage = ({ params }: QuestionPageProps) => {
-	const subject = decodeURI(params.id);
+	const subject = decodeURI(params.subject);
 	const subjectQuestions = useMemo(() => {
 		return (
 			Object.entries(jsonQuestions).find(([key]) => key === subject)?.[1] || []
@@ -30,3 +30,16 @@ const QuestionPage = ({ params }: QuestionPageProps) => {
 };
 
 export default QuestionPage;
+
+export async function generateStaticParams() {
+	const subject = [
+		"تحليل وتصميم النظم",
+		"قواعد البيانات 2",
+		"مستودعات البيانات",
+		"هندسة البرمجيات",
+		"برمجة مواقع الويب",
+		"الشبكات الاسلكية",
+	];
+
+	return subject.map((subj) => ({ subject: subj }));
+}

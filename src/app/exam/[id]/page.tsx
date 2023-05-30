@@ -13,14 +13,14 @@ import {
 import jsonQuestions from "@/utils/examQuestion.json";
 import { Dialog, DialogBody, IconButton } from "@material-tailwind/react";
 
-type Props = { params: { id: string } };
+type Props = { params: { subject: string } };
 
 const Page = ({ params }: Props) => {
 	const router = useRouter();
 	const searchParams = useSearchParams();
 	const numberOfQuestions = parseInt(searchParams.get("numberOfQuestions")!);
 
-	const subject = decodeURI(params.id);
+	const subject = decodeURI(params.subject);
 	const subjectQuestions: questionType[] = useMemo(() => {
 		const questions =
 			Object.entries(jsonQuestions).find(([key]) => key === subject)?.[1] || [];
