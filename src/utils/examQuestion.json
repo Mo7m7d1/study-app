@@ -1,1787 +1,1972 @@
-[
-	{
-		"id": 1,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is systems development?",
-		"choices": [
-			"The process of creating computer hardware",
-			"The process of creating or modifying information systems to meet business needs",
-			"The process of developing software applications",
-			"The process of managing network infrastructure"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 2,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which phase of the systems development life cycle (SDLinvolves understanding the existing system and gathering user requirements?",
-		"choices": ["Planning", "Analysis", "Design", "Implementation"],
-		"correct_answer": 1
-	},
-	{
-		"id": 3,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of the analysis phase in systems development?",
-		"choices": [
-			"To build the system according to the blueprint",
-			"To test and deploy the system",
-			"To gather user requirements and understand the existing system",
-			"To enhance and maintain the system after deployment"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 4,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which phase of the systems development life cycle (SDLfocuses on creating a blueprint for the new system?",
-		"choices": ["Planning", "Analysis", "Design", "Maintenance"],
-		"correct_answer": 2
-	},
-	{
-		"id": 5,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What does the implementation phase of the SDLC involve?",
-		"choices": [
-			"Defining the project scope and objectives",
-			"Gathering user requirements and understanding the existing system",
-			"Creating a blueprint for the new system",
-			"Building, testing, and deploying the system"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 6,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The systems development life cycle (SDLconsists of five phases.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 7,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The maintenance phase of the SDLC includes ongoing support and bug fixes.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 8,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The systems development environment includes factors such as organizational culture and project management methodologies.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 9,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the primary goal of systems analysis?",
-		"choices": [
-			"To understand and document the current system",
-			"To design a new system",
-			"To implement the system",
-			"To maintain the system"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 10,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is NOT a primary activity in systems analysis?",
-		"choices": [
-			"Gathering requirements",
-			"Creating user interfaces",
-			"Analyzing data",
-			"Modeling processes"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 11,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a feasibility study in systems analysis?",
-		"choices": [
-			"To determine if the proposed system is technically feasible",
-			"To assess if the proposed system is financially viable",
-			"To evaluate if the proposed system aligns with the organization's goals",
-			"All of the above"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 12,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the main deliverable of the systems analysis phase?",
-		"choices": [
-			"System design specifications",
-			"Test plans",
-			"System prototypes",
-			"Requirements document"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 13,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of creating use cases in systems analysis?",
-		"choices": [
-			"To document user requirements",
-			"To model system processes",
-			"To design user interfaces",
-			"To perform system testing"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 14,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is an example of an external stakeholder in systems analysis?",
-		"choices": [
-			"Project manager",
-			"Business analyst",
-			"End user",
-			"System architect"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 15,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a data flow diagram (DFin systems analysis?",
-		"choices": [
-			"To model system processes",
-			"To design user interfaces",
-			"To document data flows in the system",
-			"To perform system testing"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 16,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is NOT a technique used for requirements gathering in systems analysis?",
-		"choices": ["Interviews", "Questionnaires", "Prototyping", "Observations"],
-		"correct_answer": 2
-	},
-	{
-		"id": 17,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of initiating a systems development project?",
-		"choices": [
-			"To define project goals and objectives",
-			"To analyze user requirements",
-			"To design the system architecture",
-			"To implement the system"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 18,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the primary focus of the planning phase in systems development?",
-		"choices": [
-			"Defining project scope and objectives",
-			"Gathering user requirements",
-			"Designing the system",
-			"Testing and deployment"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 19,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is a key deliverable of the planning phase?",
-		"choices": [
-			"System requirements document",
-			"System design document",
-			"System test plan",
-			"System implementation guide"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 20,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The planning phase is a one-time activity that happens at the beginning of a project.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 21,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The planning phase involves identifying project constraints and risks.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 22,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Defining project scope is important to ensure the project stays within its intended boundaries.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 23,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The planning phase determines the resources and timeline required for the project.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 24,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The planning phase involves creating a detailed system design.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 25,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of determining system requirements?",
-		"choices": [
-			"To identify potential system users.",
-			"To establish project timelines.",
-			"To define the functionalities and constraints of the system.",
-			"To create system prototypes."
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 26,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which technique is commonly used to gather system requirements?",
-		"choices": [
-			"Prototyping",
-			"Interviews",
-			"Agile development",
-			"Unit testing"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 27,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What does a use case diagram represent?",
-		"choices": [
-			"System architecture",
-			"User interface design",
-			"System requirements and interactions",
-			"Data flow within the system"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 28,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: System requirements are fixed and cannot be changed during the development process.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 29,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: System requirements are determined solely by the analysts and do not require input from end-users.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 30,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a data flow diagram (DFD)?",
-		"choices": [
-			"To represent the system's user interface.",
-			"To visualize the flow of data within the system.",
-			"To specify system requirements in a formal language.",
-			"To create a graphical representation of the system's database."
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 31,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: System requirements are the same as system design.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 32,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is an example of a non-functional requirement?",
-		"choices": [
-			"User authentication",
-			"Data validation",
-			"Response time",
-			"Data storage format"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 33,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Use case diagrams are used to represent the sequence of activities within a system.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 34,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of structuring the system process?",
-		"choices": [
-			"To improve communication between stakeholders.",
-			"To identify system requirements.",
-			"To design the user interface.",
-			"To optimize system performance."
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 35,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which technique is used to represent system processes visually?",
-		"choices": [
-			"Data flow diagrams (DFDs)",
-			"Entity-relationship diagrams (ERDs)",
-			"Use case diagrams",
-			"Class diagrams"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 36,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What does a process symbol in a data flow diagram (DFrepresent?",
-		"choices": [
-			"A data store",
-			"An external entity",
-			"A transformation or activity",
-			"A data flow"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 37,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Structuring the system process helps in identifying bottlenecks and areas for improvement.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 38,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Data flow diagrams (DFDs) are primarily used to model the system's data storage and retrieval processes.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 39,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Use case diagrams depict the interactions between system users and the system itself.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 40,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The purpose of structuring the system process is to create a detailed physical design of the system's user interface.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 41,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Entity-relationship diagrams (ERDs) are used to model the relationships between system processes.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 42,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: A data flow in a data flow diagram (DFrepresents the movement of data between system components.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 43,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of database design?",
-		"choices": [
-			"To ensure data security",
-			"To create an efficient data storage structure",
-			"To establish data integrity",
-			"All of the above"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 44,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is a primary key in a database?",
-		"choices": [
-			"A field that uniquely identifies a record in a table",
-			"A field that stores numeric data",
-			"A field that allows null values",
-			"A field that stores foreign key references"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 45,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which normal form ensures that all non-key attributes are functionally dependent on the primary key?",
-		"choices": [
-			"First normal form (1NF)",
-			"Second normal form (2NF)",
-			"Third normal form (3NF)",
-			"Fourth normal form (4NF)"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 46,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a foreign key in a database?",
-		"choices": [
-			"To establish relationships between tables",
-			"To ensure data integrity",
-			"To improve query performance",
-			"All of the above"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 47,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which data modeling technique uses entity-relationship diagrams (ERDs)?",
-		"choices": [
-			"Structured Query Language (SQL)",
-			"Unified Modeling Language (UML)",
-			"Object-oriented database design",
-			"Entity-Relationship (ER) modeling"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 48,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Database design is only concerned with creating tables and fields. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 49,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Normalization is the process of organizing data in a database to minimize redundancy. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 50,
-		"subject": "تحليل وتصميم النظم",
-		"question": "A composite key consists of multiple fields that together uniquely identify a record. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 51,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Denormalization is the process of adding redundancy to a database to improve performance. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 52,
-		"subject": "تحليل وتصميم النظم",
-		"question": "A one-to-many relationship in a database means that one record in a table can have multiple related records in another table. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 53,
-		"subject": "تحليل وتصميم النظم",
-		"question": "A database schema defines the structure, constraints, and relationships of the database. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 54,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Normalization always leads to better performance in database queries. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 55,
-		"subject": "تحليل وتصميم النظم",
-		"question": "A unique key in a database table allows null values. (True/False)",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 56,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is NOT a phase of project management?",
-		"choices": ["Execution", "Monitoring", "Planning", "Closedown"],
-		"correct_answer": 1
-	},
-	{
-		"id": 57,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a project charter?",
-		"choices": [
-			"To estimate task durations",
-			"To define project scope and objectives",
-			"To monitor project progress",
-			"To create Gantt charts"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 58,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is a work breakdown structure (WBS)?",
-		"choices": [
-			"A document that outlines project standards and procedures",
-			"A technique for estimating project resources",
-			"A division of a project into manageable tasks and subtasks",
-			"A tool for creating Gantt charts"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 59,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What does PERT stand for in project management?",
-		"choices": [
-			"Project Evaluation and Resource Tracking",
-			"Program Execution and Reporting Tool",
-			"Program Evaluation Review Technique",
-			"Project Execution and Risk Tracking"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 60,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which diagram represents task dependencies in project management?",
-		"choices": [
-			"Gantt chart",
-			"Network diagram",
-			"PERT chart",
-			"Resource allocation chart"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 61,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the critical path in project management?",
-		"choices": [
-			"The sequence of tasks that must be completed first",
-			"The longest path of dependent tasks in a project",
-			"The shortest path of independent tasks in a project",
-			"The path with the least amount of slack time"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 62,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of using project management software?",
-		"choices": [
-			"To estimate task durations accurately",
-			"To create network diagrams",
-			"To manage project schedules and resources",
-			"To communicate with project stakeholders"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 63,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Project management is an important aspect of systems development.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 64,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Project managers need to possess management, leadership, and technical skills.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 65,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: The initiation phase of project management involves assessing project size, scope, and complexity.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 66,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: A project charter is a document prepared for the customer describing project deliverables and outlining the work required to complete the project.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 67,
-		"subject": "تحليل وتصميم النظم",
-		"question": "True or False: Gantt charts and network diagrams are graphical representations used in project planning and scheduling.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 68,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is NOT a key activity in project initiation?",
-		"choices": [
-			"Establishing the project initiation team",
-			"Establishing a relationship with the customer",
-			"Creating a project initiation plan",
-			"Developing the project charter"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 69,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a Project Scope Statement (PSS)?",
-		"choices": [
-			"To define the activities and resources needed for project completion",
-			"To establish the project initiation team",
-			"To assess project feasibility",
-			"To describe what the project will deliver"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 70,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the primary focus of project planning?",
-		"choices": [
-			"Defining clear, discrete activities and work needed to complete each activity",
-			"Establishing a relationship with the customer",
-			"Assessing project feasibility",
-			"Establishing the project initiation team"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 71,
-		"subject": "تحليل وتصميم النظم",
-		"question": "Which of the following is NOT a method for assessing project feasibility?",
-		"choices": [
-			"Economic feasibility",
-			"Technical feasibility",
-			"Social feasibility",
-			"Operational feasibility"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 72,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the time value of money?",
-		"choices": [
-			"The concept that money available today is worth more than the same amount tomorrow",
-			"The discount rate used to compute the present value of future cash flows",
-			"The current value of a future cash flow",
-			"The ratio of cash receipts to cash outlays"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 73,
-		"subject": "تحليل وتصميم النظم",
-		"question": "What is the purpose of a cost-benefit analysis?",
-		"choices": [
-			"To determine project risks and uncertainties",
-			"To assess the technical feasibility of a project",
-			"To identify the financial benefits and costs associated with a development project",
-			"To evaluate the time value of money"
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 74,
-		"subject": "مستودعات البيانات",
-		"question": "Observation skills means that the ability to ___ a lot of what are and found in the environment surroundingكثيرا مما يوجد في البيئة المحيطة.",
-		"choices": [
-			"a) absorb يستوعب",
-			"b) notice يلاحظ",
-			"c) hearing يسمع",
-			"d) feeling يشعر",
-			"e) all previous"
-		],
-		"correct_answer": 4
-	},
-	{
-		"id": 75,
-		"subject": "مستودعات البيانات",
-		"question": "Measuring skill مهارة القياس means the ability to deal with ___ for stating/determining size لتحديد الحجم, length البعد, weight الوزن, quality الجودة and so on of some things.",
-		"choices": [
-			"a) system",
-			"b) standard المقاييس",
-			"c) features السمات",
-			"d) a&b"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 76,
-		"subject": "مستودعات البيانات",
-		"question": "Inducting skills means the ability to ___ general law قانون عام from particular facts or examples من حقائق محدودة أو امثلة.",
-		"choices": [
-			"a) explain يشرح",
-			"b) discover يكتشف",
-			"c) deal with يتعامل مع"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 77,
-		"subject": "مستودعات البيانات",
-		"question": "Controlling variables skills means the ability to use ___ to represent some situations لتمثيل بعض الحالات, especially in simulation manner وخاصة بطريقة المحاكاة.",
-		"choices": [
-			"a) variables",
-			"b) values",
-			"c) numbers",
-			"d) all previous",
-			"e) a&b"
-		],
-		"correct_answer": 4
-	},
-	{
-		"id": 78,
-		"subject": "مستودعات البيانات",
-		"question": "Communicating skills means the ability to ___ information easily بسهولة.",
-		"choices": [
-			"a) send يرسل",
-			"b) receive يستقبل",
-			"c) explain",
-			"d) all previous",
-			"e) a&b"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 79,
-		"subject": "مستودعات البيانات",
-		"question": "Classification skills means that ability to arrange some things in classes or groups based on ___ characteristics سمات",
-		"choices": [
-			"a) general عام",
-			"b) suitable مناسب",
-			"c) different",
-			"d) all previous",
-			"e) a&b"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 80,
-		"subject": "مستودعات البيانات",
-		"question": "Interpreting skills means the ability to ___ some things which is not easily understandable.",
-		"choices": ["a) state", "b) determine تحديد", "c) explain شرح", "d) a&b"],
-		"correct_answer": 2
-	},
-	{
-		"id": 81,
-		"subject": "مستودعات البيانات",
-		"question": "Deduction skills means the ability to get ___ from general principles to a particular case.",
-		"choices": [
-			"a) reason السبب",
-			"b) method الطريقة",
-			"c) explanation الشرح",
-			"d) a&b"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 82,
-		"subject": "مستودعات البيانات",
-		"question": "Inferring skills means the ability to ___ results from particular facts or reasons.",
-		"choices": ["a) conclude", "b) state", "c) determine", "d) all previous"],
-		"correct_answer": 0
-	},
-	{
-		"id": 83,
-		"subject": "مستودعات البيانات",
-		"question": "Predicting skills means the ability to ___ some things based on the similarity تشابه of another things happened in the last time.",
-		"choices": [
-			"a) conclude",
-			"b) expect توقع",
-			"c) exercise تمرين",
-			"d) all previous"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 84,
-		"subject": "مستودعات البيانات",
-		"question": "Using numbers skills means the ability to use ___ to represent some situations المواقف easily, especially in simulation manner. خاصتا في المحاكاة",
-		"choices": ["a) variables", "b) values", "c) numbers", "d) a&b"],
-		"correct_answer": 2
-	},
-	{
-		"id": 85,
-		"subject": "مستودعات البيانات",
-		"question": "Space-time relationships skills means the ability to ___ the space-time relationships to represent some situations المواقف easily, especially in simulation manner. خاصتا في المحاكاة",
-		"choices": [
-			"a) exploit استغلال",
-			"b) write",
-			"c) determine تحديد",
-			"d) conclude استنتاج"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 86,
-		"subject": "مستودعات البيانات",
-		"question": "Hypothesizing skills means the ability to ___ solutions to some problems.",
-		"choices": [
-			"a) suggest اقتراح",
-			"b) analyst تحليل",
-			"c) conclude استنتاج",
-			"d) a&b"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 87,
-		"subject": "مستودعات البيانات",
-		"question": "Simulation skills means the ability to ___ some things easily.",
-		"choices": [
-			"a) imitate تقليد",
-			"b) emulate محاكاة",
-			"c) produce انتاج",
-			"d) a&b"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 88,
-		"subject": "مستودعات البيانات",
-		"question": "ETL means",
-		"choices": [
-			"a) Extraction, translation, loading.",
-			"b) Extraction, transformation, loading.",
-			"c) Extraction, translation, liking."
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 89,
-		"subject": "مستودعات البيانات",
-		"question": "Indexing الفهرسة happened in",
-		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
-		"correct_answer": 0
-	},
-	{
-		"id": 90,
-		"subject": "مستودعات البيانات",
-		"question": "Concurrency التزامن control happened in",
-		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
-		"correct_answer": 0
-	},
-	{
-		"id": 91,
-		"subject": "مستودعات البيانات",
-		"question": "Recovery الاسترجاع happened in",
-		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
-		"correct_answer": 0
-	},
-	{
-		"id": 92,
-		"subject": "مستودعات البيانات",
-		"question": "Consolidation الدمج happened in",
-		"choices": ["a) OLTP", "b) OLAP", "c) a&b"],
-		"correct_answer": 1
-	},
-	{
-		"id": 93,
-		"subject": "مستودعات البيانات",
-		"question": "Interface is ___ component to make the communication between two different systems easy",
-		"choices": ["a) small", "b) medium", "c) large"],
-		"correct_answer": 0
-	},
-	{
-		"id": 94,
-		"subject": "مستودعات البيانات",
-		"question": "Which of the following is a characteristic سمات of the first normal form (1NF)?",
-		"choices": [
-			"Data items are atomic",
-			"Attributes fully depend on the primary key",
-			"On Line Analytical Processing (OLAP)",
-			"Extraction, transformation, loading (ETL)"
-		],
-		"correct_answer": 0
-	},
-
-	{
-		"id": 95,
-		"subject": "مستودعات البيانات",
-		"question": "In database normalization, what does the second normal form (2NF) ensure?",
-		"choices": [
-			"Data items are atomic",
-			"Attributes fully depend on the primary key",
-			"On Line Analytical Processing (OLAP)",
-			"Extraction, transformation, loading (ETL)"
-		],
-		"correct_answer": 1
-	},
-	{
-		"idال": 96,
-		"subject": "مستودعات البيانات",
-		"question": "Which of the following describes the third normal form (3NF) in database normalization?",
-		"choices": [
-			"Data items are atomic",
-			"Attributes fully depend on the primary key",
-			"On Line Analytical Processing (OLAP)",
-			"Extraction, transformation, loading (ETL)"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 97,
-		"subject": "مستودعات البيانات",
-		"question": "What is the abbreviation اختصار OLTP commonly used for in the context of data warehousing?",
-		"choices": [
-			"On Line Analytical Processing",
-			"On Line Transaction Processing",
-			"Extraction, transformation, loading (ETL)",
-			"Collecting data from a variety of sources"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 98,
-		"subject": "مستودعات البيانات",
-		"question": "In the context of databases, what does the pivot محور operation involve?",
-		"choices": [
-			"Data items are atomic",
-			"On Line Analytical Processing",
-			"Extraction, transformation, loading",
-			"Rotation"
-		],
-		"correct_answer": 3
-	},
-
-	{
-		"id": 99,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the goal of query optimization?",
-		"choices": [
-			"Select the best available strategy for executing a query.",
-			"Generate initial query representation.",
-			"Develop the query execution plan.",
-			"Apply heuristic rules to optimize the query representation."
-		],
-		"correct_answer": 0
-	},
-
-	{
-		"id": 100,
-		"subject": "قواعد البيانات 2",
-		"question": "Which heuristic rule suggests applying SELECT and PROJECT before JOIN?",
-		"choices": [
-			"Apply SELECT and PROJECT after JOIN.",
-			"Apply SELECT and PROJECT simultaneously with JOIN.",
-			"Apply SELECT and PROJECT before JOIN.",
-			"Apply SELECT and PROJECT after JOIN and CARTESIAN PRODUCT."
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 101,
-		"subject": "قواعد البيانات 2",
-		"question": "Which data structure is commonly used as the internal representation of a query in most RDBMSs?",
-		"choices": ["Tree", "Graph", "Array", "List"],
-		"correct_answer": 0
-	},
-
-	{
-		"id": 102,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the preferred representation for executing a query?",
-		"choices": ["Query tree", "Query graph", "Query table", "Query diagram"],
-		"correct_answer": 0
-	},
-
-	{
-		"id": 103,
-		"subject": "قواعد البيانات 2",
-		"question": "Which step in query optimization involves developing the query execution plan?",
-		"choices": ["Step 1", "Step 2", "Step 3", "Step 4"],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 104,
-		"subject": "قواعد البيانات 2",
-		"question": "Which heuristic optimization step involves moving SELECT operations down the query tree?",
-		"choices": ["Step a", "Step b", "Step c", "Step d"],
-		"correct_answer": 1
-	},
-
-	{
-		"id": 105,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the primary goal of cost-based query optimization?",
-		"choices": [
-			"Estimate and compare costs of query execution strategies.",
-			"Generate the most efficient query representation.",
-			"Develop the query execution plan.",
-			"Apply heuristic rules to optimize the query representation."
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 106,
-		"subject": "قواعد البيانات 2",
-		"question": "Which of the following is not a basic file structure used for disk storage in databases?",
-		"choices": ["Heap File", "B-Tree", "Hash File", "Stack File"],
-		"correct_answer": 3
-	},
-
-	{
-		"id": 107,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the purpose of a data page in disk storage?",
-		"choices": [
-			"To store metadata information",
-			"To store database queries",
-			"To store database records",
-			"To store database transactions"
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 108,
-		"subject": "قواعد البيانات 2",
-		"question": "Which file structure is commonly used for efficient searching and retrieval operations based on a key value?",
-		"choices": ["Heap File", "Hash File", "B-Tree", "Sequential File"],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 109,
-		"subject": "قواعد البيانات 2",
-		"question": "In a database system, what is the purpose of hashing?",
-		"choices": [
-			"To convert data into binary format",
-			"To encrypt sensitive data",
-			"To generate unique identifiers for records",
-			"To compress data for storage efficiency"
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 110,
-		"subject": "قواعد البيانات 2",
-		"question": "Which of the following is an advantage of using a B-Tree index in database systems?",
-		"choices": [
-			"Faster insertion and deletion operations",
-			"Support for direct access by record ID",
-			"Efficient range-based queries",
-			"Low disk space requirements"
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 111,
-		"subject": "قواعد البيانات 2",
-		"question": "What happens when a collision occurs in a hash file?",
-		"choices": [
-			"The existing record is overwritten with the new record",
-			"The new record is inserted after the existing record",
-			"The new record is inserted at a different location using a collision resolution technique",
-			"The new record is discarded"
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 112,
-		"subject": "قواعد البيانات 2",
-		"question": "Which of the following is true about sequential file organization?",
-		"choices": [
-			"Records are stored in an arbitrary order",
-			"Records are stored based on a primary key",
-			"Records are stored using a hashing algorithm",
-			"Records are stored in a balanced tree structure"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 113,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the main goal of RAID?",
-		"choices": [
-			"To distribute data transparently over multiple disks.",
-			"To improve the performance of secondary storage.",
-			"To protect against disk failures using redundancy.",
-			"To balance the performance improvement of disks and memory."
-		],
-		"correct_answer": 3
-	},
-
-	{
-		"id": 114,
-		"subject": "قواعد البيانات 2",
-		"question": "Which RAID level uses mirrored disks?",
-		"choices": ["RAID level 0", "RAID level 1", "RAID level 2", "RAID level 3"],
-		"correct_answer": 1
-	},
-
-	{
-		"id": 115,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the redundancy scheme used in RAID level 6?",
-		"choices": [
-			"Memory-style redundancy",
-			"Block-level data striping",
-			"Single parity disk",
-			"P + Q redundancy with Reed-Solomon codes"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 116,
-		"subject": "قواعد البيانات 2",
-		"question": "What is an index in the context of database systems?",
-		"choices": [
-			"A data structure that improves the speed of data retrieval operations",
-			"A table that contains a sorted list of unique values from a specific column",
-			"A method to encrypt sensitive data stored in the database",
-			"A protocol used for data synchronization between distributed databases"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 117,
-		"subject": "قواعد البيانات 2",
-		"question": "Which of the following is NOT a benefit of using indexes?",
-		"choices": [
-			"Faster data retrieval",
-			"Improved query performance",
-			"Reduced storage space",
-			"Enhanced data security"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 118,
-		"subject": "قواعد البيانات 2",
-		"question": "Which type of index is most suitable for speeding up range-based queries?",
-		"choices": ["B-tree index", "Hash index", "Bitmap index", "Spatial index"],
-		"correct_answer": 0
-	},
-	{
-		"id": 119,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the purpose of a clustered index?",
-		"choices": [
-			"To determine the physical order of data rows in a table",
-			"To enforce uniqueness of values in a specific column",
-			"To optimize query performance by storing frequently accessed data in memory",
-			"To enable fast lookup of foreign key relationships"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 120,
-		"subject": "قواعد البيانات 2",
-		"question": "Which index structure is commonly used for full-text search capabilities?",
-		"choices": [
-			"Inverted index",
-			"Quadtree index",
-			"Suffix array",
-			"Trie index"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 121,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the main purpose of a non-clustered index?",
-		"choices": [
-			"To speed up data modification operations",
-			"To enforce uniqueness of values in a specific column",
-			"To improve query performance by providing an additional access path",
-			"To store frequently accessed data in memory for faster retrieval"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 122,
-		"subject": "قواعد البيانات 2",
-		"question": "Which index structure is commonly used for spatial data queries?",
-		"choices": ["R-tree index", "Bloom filter", "Patricia trie", "Skip list"],
-		"correct_answer": 0
-	},
-	{
-		"id": 123,
-		"subject": "قواعد البيانات 2",
-		"question": "What is PL/SQL?",
-		"choices": [
-			"a. A programming language for database interactions",
-			"b. A database management system",
-			"c. A network protocol for data transfer",
-			"d. A file format for storing structured data"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 124,
-		"subject": "قواعد البيانات 2",
-		"question": "Which of the following is true about functions in PL/SQL?",
-		"choices": [
-			"a. Functions cannot accept parameters",
-			"b. Functions cannot return a value",
-			"c. Functions can modify the database",
-			"d. Functions can be called from SQL statements"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 125,
-		"subject": "قواعد البيانات 2",
-		"question": "What is a stored procedure in PL/SQL?",
-		"choices": [
-			"a. A function that returns a value",
-			"b. A script written in SQL language",
-			"c. A set of SQL statements that perform a specific task",
-			"d. A temporary table used for storing intermediate results"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 126,
-		"subject": "قواعد البيانات 2",
-		"question": "Which statement is true about triggers in PL/SQL?",
-		"choices": [
-			"a. Triggers are only executed manually by the user",
-			"b. Triggers can only be created on tables, not views",
-			"c. Triggers are automatically executed in response to specific database events",
-			"d. Triggers can be used to create temporary tables"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 127,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the purpose of a trigger in PL/SQL?",
-		"choices": [
-			"a. To define data types for database columns",
-			"b. To perform complex calculations in the database",
-			"c. To enforce data integrity and maintain consistency",
-			"d. To establish network connections for database access"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 128,
-		"subject": "قواعد البيانات 2",
-		"question": "Which of the following is true about PL/SQL code execution?",
-		"choices": [
-			"a. PL/SQL code is executed on the client-side",
-			"b. PL/SQL code is executed on the server-side",
-			"c. PL/SQL code is executed by the operating system",
-			"d. PL/SQL code is executed by the web browser"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 129,
-		"subject": "قواعد البيانات 2",
-		"question": "What is the role of a cursor in PL/SQL?",
-		"choices": [
-			"a. To store intermediate data in memory",
-			"b. To define the structure of database tables",
-			"c. To retrieve and manipulate data from a result set",
-			"d. To manage network connections for database access"
-		],
-		"correct_answer": 2
-	},
-
-	{
-		"id": 130,
-		"subject": "هندسة البرمجيات",
-		"question": "What is software engineering?",
-		"choices": [
-			"A. The application of systematic, disciplined, and quantifiable approach to software development.",
-			"B. The study of computer science theories and fundamentals.",
-			"C. The development of computer programs and associated documentation.",
-			"D. The management of computer-based systems development."
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 131,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the difference between software engineering and computer science?",
-		"choices": [
-			"A. Computer science focuses on practical software development, while software engineering focuses on theoretical aspects.",
-			"B. Computer science is concerned with software production, while software engineering is concerned with software maintenance.",
-			"C. Computer science is a subset of software engineering.",
-			"D. Computer science focuses on theory and fundamentals, while software engineering focuses on practical software development."
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 132,
-		"subject": "هندسة البرمجيات",
-		"question": "What is a software process?",
-		"choices": [
-			"A. The development of software products for a particular customer.",
-			"B. A set of activities for software development or evolution.",
-			"C. The automation of software process activities.",
-			"D. The distribution of software development costs."
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 133,
-		"subject": "هندسة البرمجيات",
-		"question": "What is a software process model?",
-		"choices": [
-			"A. A simplified representation of a software process from a specific perspective.",
-			"B. The cost distribution of software development activities.",
-			"C. A model that describes the graphical representation of software systems.",
-			"D. The process of software distribution and deployment."
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 134,
-		"subject": "هندسة البرمجيات",
-		"question": "What are the costs of software engineering?",
-		"choices": [
-			"A. Roughly 60% of costs are development costs, and 40% are testing costs.",
-			"B. Costs are primarily related to hardware expenses.",
-			"C. Costs are constant and do not vary based on system attributes.",
-			"D. Development costs are always greater than maintenance costs."
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 136,
-		"subject": "هندسة البرمجيات",
-		"question": "What is CASE (Computer-Aided Software Engineering)?",
-		"choices": [
-			"A. A method for software quality assurance.",
-			"B. The use of computers to execute software development tasks.",
-			"C. Tools and systems that provide automated support for software process activities.",
-			"D. The process of documenting software requirements."
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 137,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the waterfall model?",
-		"choices": [
-			"A model that emphasizes testing at each stage of development",
-			"A model that involves iterative development",
-			"A model that focuses on component-based software engineering",
-			"A model that follows a sequential and linear approach"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 138,
-		"subject": "هندسة البرمجيات",
-		"question": "What are software engineering methods?",
-		"choices": [
-			"A. Techniques for building software that can cope with heterogeneous platforms",
-			"B. Tools to support the early process activities of requirements and design",
-			"C. Approaches to software development that include system models, notations, rules, and process guidance",
-			"D. Techniques for faster delivery of software"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 139,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the ACM/IEEE Code of Ethics?",
-		"choices": [
-			"A. A set of guidelines for software development",
-			"B. A code of conduct for software engineers regarding professional and ethical responsibility",
-			"C. A standard model for software process improvement",
-			"D. A framework for software quality assurance"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 140,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Software engineering is only concerned with the coding and programming aspects of software development.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 141,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: The waterfall model is an iterative software development process.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 142,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Software maintenance is the process of fixing defects and making enhancements to software after its initial release.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 143,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Agile development methodologies prioritize comprehensive documentation over working software.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 144,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Software reuse is the process of developing software components from scratch for each project.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 145,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: The primary goal of software testing is to prove that the software is completely bug-free.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 146,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Object-oriented programming is a software development paradigm that emphasizes reusability and modular design.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 147,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: The purpose of a software requirements specification is to describe the design and implementation details of the software system.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 150,
-		"subject": "هندسة البرمجيات",
-		"question": "What is software engineering ethics?",
-		"choices": [
-			"The application of technical skills",
-			"A set of principles that are morally correct",
-			"Following the law",
-			"Honest and ethical behavior"
-		],
-		"correct_answer": 1
-	},
-	{
-		"id": 151,
-		"subject": "هندسة البرمجيات",
-		"question": "Which of the following is not an application type?",
-		"choices": [
-			"Stand-alone applications",
-			"Data collection systems",
-			"Web applications",
-			"Entertainment systems"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 152,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the purpose of the MHC-PMS system?",
-		"choices": [
-			"To maintain records of people receiving care for mental health problems",
-			"To model physical processes or situations",
-			"To control and manage hardware devices",
-			"To support mental health care"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 153,
-		"subject": "هندسة البرمجيات",
-		"question": "What is a key concern in the wilderness weather station case study?",
-		"choices": [
-			"Privacy",
-			"Software reliability",
-			"Data management",
-			"Station maintenance"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 154,
-		"subject": "هندسة البرمجيات",
-		"question": "Which of the following is an essential high-level requirement for the insulin pump system?",
-		"choices": [
-			"Generating management information",
-			"Maintaining patient records",
-			"Ensuring availability and reliability",
-			"Monitoring patient information"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 155,
-		"subject": "هندسة البرمجيات",
-		"question": "What is the purpose of the weather information system in the wilderness weather station?",
-		"choices": [
-			"Collecting weather data",
-			"Processing and analyzing data",
-			"Monitoring system health",
-			"All of the above"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 156,
-		"subject": "هندسة البرمجيات",
-		"question": "What type of systems are primarily for personal use and intended to entertain the user?",
-		"choices": [
-			"Stand-alone applications",
-			"Data collection systems",
-			"Entertainment systems",
-			"Systems for modeling and simulation"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 157,
-		"subject": "هندسة البرمجيات",
-		"question": "Software engineers should behave in an honest and ethically responsible way.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 158,
-		"subject": "هندسة البرمجيات",
-		"question": "Software engineers should misrepresent their level of competence.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 159,
-		"subject": "هندسة البرمجيات",
-		"question": "Engineers should normally respect the confidentiality of their employers or clients.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 160,
-		"subject": "هندسة البرمجيات",
-		"question": "Software engineers can use their technical skills to misuse other people's computers.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 161,
-		"subject": "هندسة البرمجيات",
-		"question": "Stand-alone applications need to be connected to a network to function.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 162,
-		"subject": "هندسة البرمجيات",
-		"question": "Batch processing systems process large numbers of individual inputs.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 163,
-		"subject": "هندسة البرمجيات",
-		"question": "Data collection systems collect data from their environment using a set of sensors.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 164,
-		"subject": "هندسة البرمجيات",
-		"question": "What is a requirement?",
-		"choices": [
-			"A high-level abstract statement of a service or system constraint",
-			"A detailed mathematical functional specification",
-			"Both a high-level abstract statement and a detailed mathematical functional specification",
-			"None of the above"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 165,
-		"subject": "هندسة البرمجيات",
-		"question": "Requirements engineering involves:",
-		"choices": [
-			"Establishing system services",
-			"Establishing system constraints",
-			"Developing the system",
-			"Both establishing system services and constraints"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 166,
-		"subject": "هندسة البرمجيات",
-		"question": "What are user requirements?",
-		"choices": [
-			"Statements in natural language plus diagrams of system services",
-			"Detailed descriptions of the system's functions and services",
-			"Constraints on the system from the domain of operation",
-			"Statements of how the system should behave in particular situations"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 167,
-		"subject": "هندسة البرمجيات",
-		"question": "Functional requirements are:",
-		"choices": [
-			"Statements of services the system should provide",
-			"Constraints on the system such as timing constraints",
-			"Statements of what the system should not do",
-			"All of the above"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 168,
-		"subject": "هندسة البرمجيات",
-		"question": "Non-functional requirements define:",
-		"choices": [
-			"System properties and constraints",
-			"Functional requirements",
-			"Constraints on the development process",
-			"Statements in natural language plus diagrams of system services"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 169,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Requirements should always be complete and consistent.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 170,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Non-functional requirements are less critical than functional requirements.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 171,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Non-functional requirements may affect the overall architecture of a system.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 172,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Non-functional requirements can be easily verified.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 173,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Usability requirements focus on the ease of use by system developers.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 174,
-		"subject": "هندسة البرمجيات",
-		"question": "What is software maintenance?",
-		"choices": [
-			"A. The process of developing new software",
-			"B. The process of fixing bugs in software",
-			"C. The process of updating software after delivery",
-			"D. The process of documenting software features"
-		],
-		"correct_answer": 2
-	},
-	{
-		"id": 175,
-		"subject": "هندسة البرمجيات",
-		"question": "Which of the following is a reason for software modifications?",
-		"choices": [
-			"A. Changes in market conditions",
-			"B. Changes in software programming languages",
-			"C. Changes in project management techniques",
-			"D. Changes in user interface design"
-		],
-		"correct_answer": 0
-	},
-	{
-		"id": 176,
-		"subject": "هندسة البرمجيات",
-		"question": "Perfective maintenance aims to:",
-		"choices": [
-			"A. Correct errors in the software",
-			"B. Adapt the software to changes in the environment",
-			"C. Prevent future problems in the software",
-			"D. Enhance the software's reliability and performance"
-		],
-		"correct_answer": 3
-	},
-	{
-		"id": 177,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: The cost of software maintenance is typically less than 50% of the entire software process cycle.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 178,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Older software designed for slower machines may struggle to compete with newer software on modern hardware.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 179,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Unstructured code is a major cause of maintenance problems.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 180,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Adaptive maintenance involves correcting errors discovered by users.",
-		"choices": ["True", "False"],
-		"correct_answer": 1
-	},
-	{
-		"id": 181,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Preventive maintenance aims to increase the system's maintainability to prevent future problems.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 182,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Insufficient domain knowledge is a major cause of maintenance problems.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	},
-	{
-		"id": 183,
-		"subject": "هندسة البرمجيات",
-		"question": "True or False: Changes made during maintenance are often left undocumented.",
-		"choices": ["True", "False"],
-		"correct_answer": 0
-	}
-]
+{
+  "تحليل وتصميم النظم": [
+    {
+      "id": 0,
+      "question": "What is systems development?",
+      "choices": [
+        "The process of creating computer hardware",
+        "The process of creating or modifying information systems to meet business needs",
+        "The process of developing software applications",
+        "The process of managing network infrastructure"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 1,
+      "question": "Which phase of the systems development life cycle (SDLinvolves understanding the existing system and gathering user requirements?",
+      "choices": [
+        "Planning",
+        "Analysis",
+        "Design",
+        "Implementation"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the analysis phase in systems development?",
+      "choices": [
+        "To build the system according to the blueprint",
+        "To test and deploy the system",
+        "To gather user requirements and understand the existing system",
+        "To enhance and maintain the system after deployment"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which phase of the systems development life cycle (SDLfocuses on creating a blueprint for the new system?",
+      "choices": [
+        "Planning",
+        "Analysis",
+        "Design",
+        "Maintenance"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What does the implementation phase of the SDLC involve?",
+      "choices": [
+        "Defining the project scope and objectives",
+        "Gathering user requirements and understanding the existing system",
+        "Creating a blueprint for the new system",
+        "Building, testing, and deploying the system"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 5,
+      "question": "True or False: The systems development life cycle (SDLconsists of five phases.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 6,
+      "question": "True or False: The maintenance phase of the SDLC includes ongoing support and bug fixes.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 7,
+      "question": "True or False: The systems development environment includes factors such as organizational culture and project management methodologies.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 8,
+      "question": "What is the primary goal of systems analysis?",
+      "choices": [
+        "To understand and document the current system",
+        "To design a new system",
+        "To implement the system",
+        "To maintain the system"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a primary activity in systems analysis?",
+      "choices": [
+        "Gathering requirements",
+        "Creating user interfaces",
+        "Analyzing data",
+        "Modeling processes"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of a feasibility study in systems analysis?",
+      "choices": [
+        "To determine if the proposed system is technically feasible",
+        "To assess if the proposed system is financially viable",
+        "To evaluate if the proposed system aligns with the organization's goals",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What is the main deliverable of the systems analysis phase?",
+      "choices": [
+        "System design specifications",
+        "Test plans",
+        "System prototypes",
+        "Requirements document"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of creating use cases in systems analysis?",
+      "choices": [
+        "To document user requirements",
+        "To model system processes",
+        "To design user interfaces",
+        "To perform system testing"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an example of an external stakeholder in systems analysis?",
+      "choices": [
+        "Project manager",
+        "Business analyst",
+        "End user",
+        "System architect"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What is the purpose of a data flow diagram (DFin systems analysis?",
+      "choices": [
+        "To model system processes",
+        "To design user interfaces",
+        "To document data flows in the system",
+        "To perform system testing"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT a technique used for requirements gathering in systems analysis?",
+      "choices": [
+        "Interviews",
+        "Questionnaires",
+        "Prototyping",
+        "Observations"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 16,
+      "question": "What is the purpose of initiating a systems development project?",
+      "choices": [
+        "To define project goals and objectives",
+        "To analyze user requirements",
+        "To design the system architecture",
+        "To implement the system"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 17,
+      "question": "What is the primary focus of the planning phase in systems development?",
+      "choices": [
+        "Defining project scope and objectives",
+        "Gathering user requirements",
+        "Designing the system",
+        "Testing and deployment"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a key deliverable of the planning phase?",
+      "choices": [
+        "System requirements document",
+        "System design document",
+        "System test plan",
+        "System implementation guide"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 19,
+      "question": "True or False: The planning phase is a one-time activity that happens at the beginning of a project.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 20,
+      "question": "True or False: The planning phase involves identifying project constraints and risks.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 21,
+      "question": "True or False: Defining project scope is important to ensure the project stays within its intended boundaries.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 22,
+      "question": "True or False: The planning phase determines the resources and timeline required for the project.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 23,
+      "question": "True or False: The planning phase involves creating a detailed system design.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of determining system requirements?",
+      "choices": [
+        "To identify potential system users.",
+        "To establish project timelines.",
+        "To define the functionalities and constraints of the system.",
+        "To create system prototypes."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Which technique is commonly used to gather system requirements?",
+      "choices": [
+        "Prototyping",
+        "Interviews",
+        "Agile development",
+        "Unit testing"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What does a use case diagram represent?",
+      "choices": [
+        "System architecture",
+        "User interface design",
+        "System requirements and interactions",
+        "Data flow within the system"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 27,
+      "question": "True or False: System requirements are fixed and cannot be changed during the development process.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 28,
+      "question": "True or False: System requirements are determined solely by the analysts and do not require input from end-users.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 29,
+      "question": "What is the purpose of a data flow diagram (DFD)?",
+      "choices": [
+        "To represent the system's user interface.",
+        "To visualize the flow of data within the system.",
+        "To specify system requirements in a formal language.",
+        "To create a graphical representation of the system's database."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 30,
+      "question": "True or False: System requirements are the same as system design.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is an example of a non-functional requirement?",
+      "choices": [
+        "User authentication",
+        "Data validation",
+        "Response time",
+        "Data storage format"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 32,
+      "question": "True or False: Use case diagrams are used to represent the sequence of activities within a system.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 33,
+      "question": "What is the purpose of structuring the system process?",
+      "choices": [
+        "To improve communication between stakeholders.",
+        "To identify system requirements.",
+        "To design the user interface.",
+        "To optimize system performance."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 34,
+      "question": "Which technique is used to represent system processes visually?",
+      "choices": [
+        "Data flow diagrams (DFDs)",
+        "Entity-relationship diagrams (ERDs)",
+        "Use case diagrams",
+        "Class diagrams"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 35,
+      "question": "What does a process symbol in a data flow diagram (DFrepresent?",
+      "choices": [
+        "A data store",
+        "An external entity",
+        "A transformation or activity",
+        "A data flow"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 36,
+      "question": "True or False: Structuring the system process helps in identifying bottlenecks and areas for improvement.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 37,
+      "question": "True or False: Data flow diagrams (DFDs) are primarily used to model the system's data storage and retrieval processes.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 38,
+      "question": "True or False: Use case diagrams depict the interactions between system users and the system itself.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 39,
+      "question": "True or False: The purpose of structuring the system process is to create a detailed physical design of the system's user interface.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 40,
+      "question": "True or False: Entity-relationship diagrams (ERDs) are used to model the relationships between system processes.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 41,
+      "question": "True or False: A data flow in a data flow diagram (DFrepresents the movement of data between system components.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 42,
+      "question": "What is the purpose of database design?",
+      "choices": [
+        "To ensure data security",
+        "To create an efficient data storage structure",
+        "To establish data integrity",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 43,
+      "question": "What is a primary key in a database?",
+      "choices": [
+        "A field that uniquely identifies a record in a table",
+        "A field that stores numeric data",
+        "A field that allows null values",
+        "A field that stores foreign key references"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 44,
+      "question": "Which normal form ensures that all non-key attributes are functionally dependent on the primary key?",
+      "choices": [
+        "First normal form (1NF)",
+        "Second normal form (2NF)",
+        "Third normal form (3NF)",
+        "Fourth normal form (4NF)"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 45,
+      "question": "What is the purpose of a foreign key in a database?",
+      "choices": [
+        "To establish relationships between tables",
+        "To ensure data integrity",
+        "To improve query performance",
+        "All of the above"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 46,
+      "question": "Which data modeling technique uses entity-relationship diagrams (ERDs)?",
+      "choices": [
+        "Structured Query Language (SQL)",
+        "Unified Modeling Language (UML)",
+        "Object-oriented database design",
+        "Entity-Relationship (ER) modeling"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 47,
+      "question": "Database design is only concerned with creating tables and fields. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Normalization is the process of organizing data in a database to minimize redundancy. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 49,
+      "question": "A composite key consists of multiple fields that together uniquely identify a record. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 50,
+      "question": "Denormalization is the process of adding redundancy to a database to improve performance. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 51,
+      "question": "A one-to-many relationship in a database means that one record in a table can have multiple related records in another table. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 52,
+      "question": "A database schema defines the structure, constraints, and relationships of the database. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 53,
+      "question": "Normalization always leads to better performance in database queries. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 54,
+      "question": "A unique key in a database table allows null values. (True/False)",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 55,
+      "question": "Which of the following is NOT a phase of project management?",
+      "choices": [
+        "Execution",
+        "Monitoring",
+        "Planning",
+        "Closedown"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 56,
+      "question": "What is the purpose of a project charter?",
+      "choices": [
+        "To estimate task durations",
+        "To define project scope and objectives",
+        "To monitor project progress",
+        "To create Gantt charts"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 57,
+      "question": "What is a work breakdown structure (WBS)?",
+      "choices": [
+        "A document that outlines project standards and procedures",
+        "A technique for estimating project resources",
+        "A division of a project into manageable tasks and subtasks",
+        "A tool for creating Gantt charts"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 58,
+      "question": "What does PERT stand for in project management?",
+      "choices": [
+        "Project Evaluation and Resource Tracking",
+        "Program Execution and Reporting Tool",
+        "Program Evaluation Review Technique",
+        "Project Execution and Risk Tracking"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 59,
+      "question": "Which diagram represents task dependencies in project management?",
+      "choices": [
+        "Gantt chart",
+        "Network diagram",
+        "PERT chart",
+        "Resource allocation chart"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 60,
+      "question": "What is the critical path in project management?",
+      "choices": [
+        "The sequence of tasks that must be completed first",
+        "The longest path of dependent tasks in a project",
+        "The shortest path of independent tasks in a project",
+        "The path with the least amount of slack time"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 61,
+      "question": "What is the purpose of using project management software?",
+      "choices": [
+        "To estimate task durations accurately",
+        "To create network diagrams",
+        "To manage project schedules and resources",
+        "To communicate with project stakeholders"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 62,
+      "question": "True or False: Project management is an important aspect of systems development.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 63,
+      "question": "True or False: Project managers need to possess management, leadership, and technical skills.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 64,
+      "question": "True or False: The initiation phase of project management involves assessing project size, scope, and complexity.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 65,
+      "question": "True or False: A project charter is a document prepared for the customer describing project deliverables and outlining the work required to complete the project.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 66,
+      "question": "True or False: Gantt charts and network diagrams are graphical representations used in project planning and scheduling.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is NOT a key activity in project initiation?",
+      "choices": [
+        "Establishing the project initiation team",
+        "Establishing a relationship with the customer",
+        "Creating a project initiation plan",
+        "Developing the project charter"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 68,
+      "question": "What is the purpose of a Project Scope Statement (PSS)?",
+      "choices": [
+        "To define the activities and resources needed for project completion",
+        "To establish the project initiation team",
+        "To assess project feasibility",
+        "To describe what the project will deliver"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 69,
+      "question": "What is the primary focus of project planning?",
+      "choices": [
+        "Defining clear, discrete activities and work needed to complete each activity",
+        "Establishing a relationship with the customer",
+        "Assessing project feasibility",
+        "Establishing the project initiation team"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 70,
+      "question": "Which of the following is NOT a method for assessing project feasibility?",
+      "choices": [
+        "Economic feasibility",
+        "Technical feasibility",
+        "Social feasibility",
+        "Operational feasibility"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 71,
+      "question": "What is the time value of money?",
+      "choices": [
+        "The concept that money available today is worth more than the same amount tomorrow",
+        "The discount rate used to compute the present value of future cash flows",
+        "The current value of a future cash flow",
+        "The ratio of cash receipts to cash outlays"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 72,
+      "question": "What is the purpose of a cost-benefit analysis?",
+      "choices": [
+        "To determine project risks and uncertainties",
+        "To assess the technical feasibility of a project",
+        "To identify the financial benefits and costs associated with a development project",
+        "To evaluate the time value of money"
+      ],
+      "correct_answer": 2
+    }
+  ],
+  "مستودعات البيانات": [
+    {
+      "id": 0,
+      "question": "Observation skills means that the ability to ___ a lot of what are and found in the environment surroundingكثيرا مما يوجد في البيئة المحيطة.",
+      "choices": [
+        "a) absorb يستوعب",
+        "b) notice يلاحظ",
+        "c) hearing يسمع",
+        "d) feeling يشعر",
+        "e) all previous"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 1,
+      "question": "Measuring skill مهارة القياس means the ability to deal with ___ for stating/determining size لتحديد الحجم, length البعد, weight الوزن, quality الجودة and so on of some things.",
+      "choices": [
+        "a) system",
+        "b) standard المقاييس",
+        "c) features السمات",
+        "d) a&b"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Inducting skills means the ability to ___ general law قانون عام from particular facts or examples من حقائق محدودة أو امثلة.",
+      "choices": [
+        "a) explain يشرح",
+        "b) discover يكتشف",
+        "c) deal with يتعامل مع"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Controlling variables skills means the ability to use ___ to represent some situations لتمثيل بعض الحالات, especially in simulation manner وخاصة بطريقة المحاكاة.",
+      "choices": [
+        "a) variables",
+        "b) values",
+        "c) numbers",
+        "d) all previous",
+        "e) a&b"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Communicating skills means the ability to ___ information easily بسهولة.",
+      "choices": [
+        "a) send يرسل",
+        "b) receive يستقبل",
+        "c) explain",
+        "d) all previous",
+        "e) a&b"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Classification skills means that ability to arrange some things in classes or groups based on ___ characteristics سمات",
+      "choices": [
+        "a) general عام",
+        "b) suitable مناسب",
+        "c) different",
+        "d) all previous",
+        "e) a&b"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Interpreting skills means the ability to ___ some things which is not easily understandable.",
+      "choices": [
+        "a) state",
+        "b) determine تحديد",
+        "c) explain شرح",
+        "d) a&b"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Deduction skills means the ability to get ___ from general principles to a particular case.",
+      "choices": [
+        "a) reason السبب",
+        "b) method الطريقة",
+        "c) explanation الشرح",
+        "d) a&b"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Inferring skills means the ability to ___ results from particular facts or reasons.",
+      "choices": [
+        "a) conclude",
+        "b) state",
+        "c) determine",
+        "d) all previous"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 9,
+      "question": "Predicting skills means the ability to ___ some things based on the similarity تشابه of another things happened in the last time.",
+      "choices": [
+        "a) conclude",
+        "b) expect توقع",
+        "c) exercise تمرين",
+        "d) all previous"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Using numbers skills means the ability to use ___ to represent some situations المواقف easily, especially in simulation manner. خاصتا في المحاكاة",
+      "choices": [
+        "a) variables",
+        "b) values",
+        "c) numbers",
+        "d) a&b"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Space-time relationships skills means the ability to ___ the space-time relationships to represent some situations المواقف easily, especially in simulation manner. خاصتا في المحاكاة",
+      "choices": [
+        "a) exploit استغلال",
+        "b) write",
+        "c) determine تحديد",
+        "d) conclude استنتاج"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 12,
+      "question": "Hypothesizing skills means the ability to ___ solutions to some problems.",
+      "choices": [
+        "a) suggest اقتراح",
+        "b) analyst تحليل",
+        "c) conclude استنتاج",
+        "d) a&b"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 13,
+      "question": "Simulation skills means the ability to ___ some things easily.",
+      "choices": [
+        "a) imitate تقليد",
+        "b) emulate محاكاة",
+        "c) produce انتاج",
+        "d) a&b"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 14,
+      "question": "ETL means",
+      "choices": [
+        "a) Extraction, translation, loading.",
+        "b) Extraction, transformation, loading.",
+        "c) Extraction, translation, liking."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Indexing الفهرسة happened in",
+      "choices": [
+        "a) OLTP",
+        "b) OLAP",
+        "c) a&b"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 16,
+      "question": "Concurrency التزامن control happened in",
+      "choices": [
+        "a) OLTP",
+        "b) OLAP",
+        "c) a&b"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 17,
+      "question": "Recovery الاسترجاع happened in",
+      "choices": [
+        "a) OLTP",
+        "b) OLAP",
+        "c) a&b"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 18,
+      "question": "Consolidation الدمج happened in",
+      "choices": [
+        "a) OLTP",
+        "b) OLAP",
+        "c) a&b"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Interface is ___ component to make the communication between two different systems easy",
+      "choices": [
+        "a) small",
+        "b) medium",
+        "c) large"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a characteristic سمات of the first normal form (1NF)?",
+      "choices": [
+        "Data items are atomic",
+        "Attributes fully depend on the primary key",
+        "On Line Analytical Processing (OLAP)",
+        "Extraction, transformation, loading (ETL)"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 21,
+      "question": "In database normalization, what does the second normal form (2NF) ensure?",
+      "choices": [
+        "Data items are atomic",
+        "Attributes fully depend on the primary key",
+        "On Line Analytical Processing (OLAP)",
+        "Extraction, transformation, loading (ETL)"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "idال": 96,
+      "question": "Which of the following describes the third normal form (3NF) in database normalization?",
+      "choices": [
+        "Data items are atomic",
+        "Attributes fully depend on the primary key",
+        "On Line Analytical Processing (OLAP)",
+        "Extraction, transformation, loading (ETL)"
+      ],
+      "correct_answer": 1,
+      "id": 22
+    },
+    {
+      "id": 23,
+      "question": "What is the abbreviation اختصار OLTP commonly used for in the context of data warehousing?",
+      "choices": [
+        "On Line Analytical Processing",
+        "On Line Transaction Processing",
+        "Extraction, transformation, loading (ETL)",
+        "Collecting data from a variety of sources"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 24,
+      "question": "In the context of databases, what does the pivot محور operation involve?",
+      "choices": [
+        "Data items are atomic",
+        "On Line Analytical Processing",
+        "Extraction, transformation, loading",
+        "Rotation"
+      ],
+      "correct_answer": 3
+    }
+  ],
+  "قواعد البيانات 2": [
+    {
+      "id": 0,
+      "question": "What is the goal of query optimization?",
+      "choices": [
+        "Select the best available strategy for executing a query.",
+        "Generate initial query representation.",
+        "Develop the query execution plan.",
+        "Apply heuristic rules to optimize the query representation."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 1,
+      "question": "Which heuristic rule suggests applying SELECT and PROJECT before JOIN?",
+      "choices": [
+        "Apply SELECT and PROJECT after JOIN.",
+        "Apply SELECT and PROJECT simultaneously with JOIN.",
+        "Apply SELECT and PROJECT before JOIN.",
+        "Apply SELECT and PROJECT after JOIN and CARTESIAN PRODUCT."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which data structure is commonly used as the internal representation of a query in most RDBMSs?",
+      "choices": [
+        "Tree",
+        "Graph",
+        "Array",
+        "List"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 3,
+      "question": "What is the preferred representation for executing a query?",
+      "choices": [
+        "Query tree",
+        "Query graph",
+        "Query table",
+        "Query diagram"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which step in query optimization involves developing the query execution plan?",
+      "choices": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which heuristic optimization step involves moving SELECT operations down the query tree?",
+      "choices": [
+        "Step a",
+        "Step b",
+        "Step c",
+        "Step d"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the primary goal of cost-based query optimization?",
+      "choices": [
+        "Estimate and compare costs of query execution strategies.",
+        "Generate the most efficient query representation.",
+        "Develop the query execution plan.",
+        "Apply heuristic rules to optimize the query representation."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is not a basic file structure used for disk storage in databases?",
+      "choices": [
+        "Heap File",
+        "B-Tree",
+        "Hash File",
+        "Stack File"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of a data page in disk storage?",
+      "choices": [
+        "To store metadata information",
+        "To store database queries",
+        "To store database records",
+        "To store database transactions"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which file structure is commonly used for efficient searching and retrieval operations based on a key value?",
+      "choices": [
+        "Heap File",
+        "Hash File",
+        "B-Tree",
+        "Sequential File"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 10,
+      "question": "In a database system, what is the purpose of hashing?",
+      "choices": [
+        "To convert data into binary format",
+        "To encrypt sensitive data",
+        "To generate unique identifiers for records",
+        "To compress data for storage efficiency"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an advantage of using a B-Tree index in database systems?",
+      "choices": [
+        "Faster insertion and deletion operations",
+        "Support for direct access by record ID",
+        "Efficient range-based queries",
+        "Low disk space requirements"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What happens when a collision occurs in a hash file?",
+      "choices": [
+        "The existing record is overwritten with the new record",
+        "The new record is inserted after the existing record",
+        "The new record is inserted at a different location using a collision resolution technique",
+        "The new record is discarded"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is true about sequential file organization?",
+      "choices": [
+        "Records are stored in an arbitrary order",
+        "Records are stored based on a primary key",
+        "Records are stored using a hashing algorithm",
+        "Records are stored in a balanced tree structure"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the main goal of RAID?",
+      "choices": [
+        "To distribute data transparently over multiple disks.",
+        "To improve the performance of secondary storage.",
+        "To protect against disk failures using redundancy.",
+        "To balance the performance improvement of disks and memory."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Which RAID level uses mirrored disks?",
+      "choices": [
+        "RAID level 0",
+        "RAID level 1",
+        "RAID level 2",
+        "RAID level 3"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What is the redundancy scheme used in RAID level 6?",
+      "choices": [
+        "Memory-style redundancy",
+        "Block-level data striping",
+        "Single parity disk",
+        "P + Q redundancy with Reed-Solomon codes"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What is an index in the context of database systems?",
+      "choices": [
+        "A data structure that improves the speed of data retrieval operations",
+        "A table that contains a sorted list of unique values from a specific column",
+        "A method to encrypt sensitive data stored in the database",
+        "A protocol used for data synchronization between distributed databases"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is NOT a benefit of using indexes?",
+      "choices": [
+        "Faster data retrieval",
+        "Improved query performance",
+        "Reduced storage space",
+        "Enhanced data security"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Which type of index is most suitable for speeding up range-based queries?",
+      "choices": [
+        "B-tree index",
+        "Hash index",
+        "Bitmap index",
+        "Spatial index"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of a clustered index?",
+      "choices": [
+        "To determine the physical order of data rows in a table",
+        "To enforce uniqueness of values in a specific column",
+        "To optimize query performance by storing frequently accessed data in memory",
+        "To enable fast lookup of foreign key relationships"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 21,
+      "question": "Which index structure is commonly used for full-text search capabilities?",
+      "choices": [
+        "Inverted index",
+        "Quadtree index",
+        "Suffix array",
+        "Trie index"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 22,
+      "question": "What is the main purpose of a non-clustered index?",
+      "choices": [
+        "To speed up data modification operations",
+        "To enforce uniqueness of values in a specific column",
+        "To improve query performance by providing an additional access path",
+        "To store frequently accessed data in memory for faster retrieval"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Which index structure is commonly used for spatial data queries?",
+      "choices": [
+        "R-tree index",
+        "Bloom filter",
+        "Patricia trie",
+        "Skip list"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 24,
+      "question": "What is PL/SQL?",
+      "choices": [
+        "a. A programming language for database interactions",
+        "b. A database management system",
+        "c. A network protocol for data transfer",
+        "d. A file format for storing structured data"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is true about functions in PL/SQL?",
+      "choices": [
+        "a. Functions cannot accept parameters",
+        "b. Functions cannot return a value",
+        "c. Functions can modify the database",
+        "d. Functions can be called from SQL statements"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 26,
+      "question": "What is a stored procedure in PL/SQL?",
+      "choices": [
+        "a. A function that returns a value",
+        "b. A script written in SQL language",
+        "c. A set of SQL statements that perform a specific task",
+        "d. A temporary table used for storing intermediate results"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Which statement is true about triggers in PL/SQL?",
+      "choices": [
+        "a. Triggers are only executed manually by the user",
+        "b. Triggers can only be created on tables, not views",
+        "c. Triggers are automatically executed in response to specific database events",
+        "d. Triggers can be used to create temporary tables"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 28,
+      "question": "What is the purpose of a trigger in PL/SQL?",
+      "choices": [
+        "a. To define data types for database columns",
+        "b. To perform complex calculations in the database",
+        "c. To enforce data integrity and maintain consistency",
+        "d. To establish network connections for database access"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is true about PL/SQL code execution?",
+      "choices": [
+        "a. PL/SQL code is executed on the client-side",
+        "b. PL/SQL code is executed on the server-side",
+        "c. PL/SQL code is executed by the operating system",
+        "d. PL/SQL code is executed by the web browser"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the role of a cursor in PL/SQL?",
+      "choices": [
+        "a. To store intermediate data in memory",
+        "b. To define the structure of database tables",
+        "c. To retrieve and manipulate data from a result set",
+        "d. To manage network connections for database access"
+      ],
+      "correct_answer": 2
+    }
+  ],
+  "هندسة البرمجيات": [
+    {
+      "id": 0,
+      "question": "What is software engineering?",
+      "choices": [
+        "A. The application of systematic, disciplined, and quantifiable approach to software development.",
+        "B. The study of computer science theories and fundamentals.",
+        "C. The development of computer programs and associated documentation.",
+        "D. The management of computer-based systems development."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 1,
+      "question": "What is the difference between software engineering and computer science?",
+      "choices": [
+        "A. Computer science focuses on practical software development, while software engineering focuses on theoretical aspects.",
+        "B. Computer science is concerned with software production, while software engineering is concerned with software maintenance.",
+        "C. Computer science is a subset of software engineering.",
+        "D. Computer science focuses on theory and fundamentals, while software engineering focuses on practical software development."
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 2,
+      "question": "What is a software process?",
+      "choices": [
+        "A. The development of software products for a particular customer.",
+        "B. A set of activities for software development or evolution.",
+        "C. The automation of software process activities.",
+        "D. The distribution of software development costs."
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is a software process model?",
+      "choices": [
+        "A. A simplified representation of a software process from a specific perspective.",
+        "B. The cost distribution of software development activities.",
+        "C. A model that describes the graphical representation of software systems.",
+        "D. The process of software distribution and deployment."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 4,
+      "question": "What are the costs of software engineering?",
+      "choices": [
+        "A. Roughly 60% of costs are development costs, and 40% are testing costs.",
+        "B. Costs are primarily related to hardware expenses.",
+        "C. Costs are constant and do not vary based on system attributes.",
+        "D. Development costs are always greater than maintenance costs."
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 5,
+      "question": "What is CASE (Computer-Aided Software Engineering)?",
+      "choices": [
+        "A. A method for software quality assurance.",
+        "B. The use of computers to execute software development tasks.",
+        "C. Tools and systems that provide automated support for software process activities.",
+        "D. The process of documenting software requirements."
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the waterfall model?",
+      "choices": [
+        "A model that emphasizes testing at each stage of development",
+        "A model that involves iterative development",
+        "A model that focuses on component-based software engineering",
+        "A model that follows a sequential and linear approach"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What are software engineering methods?",
+      "choices": [
+        "A. Techniques for building software that can cope with heterogeneous platforms",
+        "B. Tools to support the early process activities of requirements and design",
+        "C. Approaches to software development that include system models, notations, rules, and process guidance",
+        "D. Techniques for faster delivery of software"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the ACM/IEEE Code of Ethics?",
+      "choices": [
+        "A. A set of guidelines for software development",
+        "B. A code of conduct for software engineers regarding professional and ethical responsibility",
+        "C. A standard model for software process improvement",
+        "D. A framework for software quality assurance"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 9,
+      "question": "True or False: Software engineering is only concerned with the coding and programming aspects of software development.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 10,
+      "question": "True or False: The waterfall model is an iterative software development process.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 11,
+      "question": "True or False: Software maintenance is the process of fixing defects and making enhancements to software after its initial release.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 12,
+      "question": "True or False: Agile development methodologies prioritize comprehensive documentation over working software.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 13,
+      "question": "True or False: Software reuse is the process of developing software components from scratch for each project.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 14,
+      "question": "True or False: The primary goal of software testing is to prove that the software is completely bug-free.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 15,
+      "question": "True or False: Object-oriented programming is a software development paradigm that emphasizes reusability and modular design.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 16,
+      "question": "True or False: The purpose of a software requirements specification is to describe the design and implementation details of the software system.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is software engineering ethics?",
+      "choices": [
+        "The application of technical skills",
+        "A set of principles that are morally correct",
+        "Following the law",
+        "Honest and ethical behavior"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is not an application type?",
+      "choices": [
+        "Stand-alone applications",
+        "Data collection systems",
+        "Web applications",
+        "Entertainment systems"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of the MHC-PMS system?",
+      "choices": [
+        "To maintain records of people receiving care for mental health problems",
+        "To model physical processes or situations",
+        "To control and manage hardware devices",
+        "To support mental health care"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What is a key concern in the wilderness weather station case study?",
+      "choices": [
+        "Privacy",
+        "Software reliability",
+        "Data management",
+        "Station maintenance"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is an essential high-level requirement for the insulin pump system?",
+      "choices": [
+        "Generating management information",
+        "Maintaining patient records",
+        "Ensuring availability and reliability",
+        "Monitoring patient information"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 22,
+      "question": "What is the purpose of the weather information system in the wilderness weather station?",
+      "choices": [
+        "Collecting weather data",
+        "Processing and analyzing data",
+        "Monitoring system health",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 23,
+      "question": "What type of systems are primarily for personal use and intended to entertain the user?",
+      "choices": [
+        "Stand-alone applications",
+        "Data collection systems",
+        "Entertainment systems",
+        "Systems for modeling and simulation"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Software engineers should behave in an honest and ethically responsible way.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 25,
+      "question": "Software engineers should misrepresent their level of competence.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Engineers should normally respect the confidentiality of their employers or clients.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 27,
+      "question": "Software engineers can use their technical skills to misuse other people's computers.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Stand-alone applications need to be connected to a network to function.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Batch processing systems process large numbers of individual inputs.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 30,
+      "question": "Data collection systems collect data from their environment using a set of sensors.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 31,
+      "question": "What is a requirement?",
+      "choices": [
+        "A high-level abstract statement of a service or system constraint",
+        "A detailed mathematical functional specification",
+        "Both a high-level abstract statement and a detailed mathematical functional specification",
+        "None of the above"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 32,
+      "question": "Requirements engineering involves:",
+      "choices": [
+        "Establishing system services",
+        "Establishing system constraints",
+        "Developing the system",
+        "Both establishing system services and constraints"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 33,
+      "question": "What are user requirements?",
+      "choices": [
+        "Statements in natural language plus diagrams of system services",
+        "Detailed descriptions of the system's functions and services",
+        "Constraints on the system from the domain of operation",
+        "Statements of how the system should behave in particular situations"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 34,
+      "question": "Functional requirements are:",
+      "choices": [
+        "Statements of services the system should provide",
+        "Constraints on the system such as timing constraints",
+        "Statements of what the system should not do",
+        "All of the above"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 35,
+      "question": "Non-functional requirements define:",
+      "choices": [
+        "System properties and constraints",
+        "Functional requirements",
+        "Constraints on the development process",
+        "Statements in natural language plus diagrams of system services"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 36,
+      "question": "True or False: Requirements should always be complete and consistent.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 37,
+      "question": "True or False: Non-functional requirements are less critical than functional requirements.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 38,
+      "question": "True or False: Non-functional requirements may affect the overall architecture of a system.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 39,
+      "question": "True or False: Non-functional requirements can be easily verified.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 40,
+      "question": "True or False: Usability requirements focus on the ease of use by system developers.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What is software maintenance?",
+      "choices": [
+        "A. The process of developing new software",
+        "B. The process of fixing bugs in software",
+        "C. The process of updating software after delivery",
+        "D. The process of documenting software features"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a reason for software modifications?",
+      "choices": [
+        "A. Changes in market conditions",
+        "B. Changes in software programming languages",
+        "C. Changes in project management techniques",
+        "D. Changes in user interface design"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 43,
+      "question": "Perfective maintenance aims to:",
+      "choices": [
+        "A. Correct errors in the software",
+        "B. Adapt the software to changes in the environment",
+        "C. Prevent future problems in the software",
+        "D. Enhance the software's reliability and performance"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 44,
+      "question": "True or False: The cost of software maintenance is typically less than 50% of the entire software process cycle.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 45,
+      "question": "True or False: Older software designed for slower machines may struggle to compete with newer software on modern hardware.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 46,
+      "question": "True or False: Unstructured code is a major cause of maintenance problems.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 47,
+      "question": "True or False: Adaptive maintenance involves correcting errors discovered by users.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 48,
+      "question": "True or False: Preventive maintenance aims to increase the system's maintainability to prevent future problems.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 49,
+      "question": "True or False: Insufficient domain knowledge is a major cause of maintenance problems.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 50,
+      "question": "True or False: Changes made during maintenance are often left undocumented.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 51,
+      "question": "Which of the following best describes software testing?",
+      "choices": [
+        "Checking the code for syntax errors",
+        "Evaluating software against user requirements",
+        "Debugging the software",
+        "Optimizing the software performance"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 52,
+      "question": "What is the primary goal of verification in software testing?",
+      "choices": [
+        "Checking if the software meets customer requirements",
+        "Identifying and fixing errors in the software",
+        "Confirming that the software correctly implements a specific function",
+        "Ensuring the software is traceable to customer requirements"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 53,
+      "question": "Who typically performs alpha testing?",
+      "choices": [
+        "End users",
+        "Independent testers",
+        "Developers themselves",
+        "Quality assurance team"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "id": 54,
+      "question": "What is the main purpose of regression testing?",
+      "choices": [
+        "Testing the software at different levels of SDLC",
+        "Checking the software's performance and efficiency",
+        "Evaluating the software against user requirements",
+        "Ensuring that new code or features do not introduce any issues"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "id": 55,
+      "question": "Which testing approach focuses on testing the program's functionality without considering its implementation?",
+      "choices": [
+        "Black-box testing",
+        "White-box testing",
+        "Gray-box testing",
+        "Integration testing"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 56,
+      "question": "True or False: Testing is the process of exercising a program with the specific intent of finding errors prior to delivery to the end user.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 57,
+      "question": "True or False: Validation is the process of confirming if the software is meeting the business requirements and is developed adhering to the proper specifications.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 58,
+      "question": "True or False: Automated testing tools are always more efficient and effective than manual testing.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "id": 59,
+      "question": "True or False: White-box testing is conducted to improve code efficiency and structure by testing the program's implementation.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 0
+    },
+    {
+      "id": 60,
+      "question": "True or False: Regression testing is performed to ensure that the software matches user requirements and is ready for acceptance by the customer.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correct_answer": 1
+    }
+  ]
+}

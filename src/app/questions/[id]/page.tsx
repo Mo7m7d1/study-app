@@ -1,12 +1,14 @@
 import { QuestionPageProps } from "@/app/types";
 import { QuestionCard } from "@/components";
-import questions from "@/utils/questions.json";
+import jsonQuestions from "@/utils/questions.json";
 import { useMemo } from "react";
 
 const QuestionPage = ({ params }: QuestionPageProps) => {
 	const subject = decodeURI(params.id);
 	const subjectQuestions = useMemo(() => {
-		return questions.filter((question) => question.subject === subject);
+		return (
+			Object.entries(jsonQuestions).find(([key]) => key === subject)?.[1] || []
+		);
 	}, [subject]);
 
 	return (

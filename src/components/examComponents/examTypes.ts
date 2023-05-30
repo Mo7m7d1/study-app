@@ -6,10 +6,9 @@ export type NextButtonProps = {
 
 export type questionType = {
 	id?: number;
-	subject: string;
 	question: string;
-	correct_answer: number;
 	choices: string[];
+	correct_answer: number;
 };
 
 export type questionProps = {

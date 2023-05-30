@@ -21,9 +21,10 @@ const Page = ({ params }: Props) => {
 	const numberOfQuestions = parseInt(searchParams.get("numberOfQuestions")!);
 
 	const subject = decodeURI(params.id);
-	const subjectQuestions = useMemo(() => {
-		return jsonQuestions
-			.filter((question) => question.subject === subject)
+	const subjectQuestions: questionType[] = useMemo(() => {
+		const questions =
+			Object.entries(jsonQuestions).find(([key]) => key === subject)?.[1] || [];
+		return questions
 			.sort(() => Math.random() - 0.5)
 			.slice(0, numberOfQuestions);
 	}, [numberOfQuestions, subject]);
