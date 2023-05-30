@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import { Navbar } from "@/components";
 import "./globals.css";
 
@@ -19,6 +20,7 @@ export default function RootLayout({
 			<body suppressHydrationWarning={true}>
 				<Navbar />
 				{children}
+				<Analytics />
 			</body>
 		</html>
 	);
