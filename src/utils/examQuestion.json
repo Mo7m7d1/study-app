@@ -1695,7 +1695,6 @@
 			"correct_answer": 1
 		}
 	],
-
 	"الشبكات الاسلكية": [
 		{
 			"id": 0,
@@ -2316,8 +2315,8 @@
 		{
 			"id": 73,
 			"question": "True or False: Any Bluetooth device can be both a master and a slave simultaneously.",
-			"choices": [],
-			"correct_answer": false
+			"choices": ["True", "False"],
+			"correct_answer": 1
 		},
 		{
 			"id": 74,
