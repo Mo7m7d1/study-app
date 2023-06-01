@@ -1778,7 +1778,7 @@
 			"id": 7,
 			"question": "Analog signals can propagate both analog and digital data.",
 			"choices": ["True", "False"],
-			"correct_answer": 1
+			"correct_answer": 0
 		},
 		{
 			"id": 8,
@@ -1802,7 +1802,7 @@
 			"id": 11,
 			"question": "Analog transmission introduces errors in digital data.",
 			"choices": ["True", "False"],
-			"correct_answer": 0
+			"correct_answer": 1
 		},
 		{
 			"id": 12,
