@@ -990,358 +990,391 @@
 	"الشبكات الاسلكية": [
 		{
 			"id": 0,
-			"question": "What is a wireless network?",
-			"answer": "A wireless network is a type of computer network that allows devices to connect and communicate without the need for physical wired connections."
+			"question": "What is an analog signal?",
+			"answer": "An analog signal is a signal whose intensity varies smoothly over time."
 		},
 		{
 			"id": 1,
-			"question": "What are the advantages of wireless networks?",
-			"answer": "Advantages of wireless networks include mobility, flexibility, easy scalability, and reduced cabling costs."
+			"question": "What is a digital signal?",
+			"answer": "A digital signal is a signal that maintains a constant level for some period of time and then changes to another constant level."
 		},
 		{
 			"id": 2,
-			"question": "What are the main components of a wireless network?",
-			"answer": "The main components of a wireless network include wireless access points (APs), wireless routers, wireless adapters, and client devices."
+			"question": "What is a periodic signal?",
+			"answer": "A periodic signal is an analog or digital signal pattern that repeats over time."
 		},
 		{
 			"id": 3,
-			"question": "What are the different wireless network standards?",
-			"answer": "Examples of wireless network standards include Wi-Fi (802.11a/b/g/n/ac/ax), Bluetooth, and cellular (3G, 4G, 5G)."
+			"question": "What is the peak amplitude of a signal?",
+			"answer": "Peak amplitude is the maximum value or strength of the signal over time, typically measured in volts."
 		},
 		{
 			"id": 4,
-			"question": "What is the role of a wireless access point (AP)?",
-			"answer": "A wireless access point acts as a central connection point for wireless devices, allowing them to connect to a wired network."
+			"question": "What is the frequency of a signal?",
+			"answer": "Frequency is the rate, in cycles per second or Hertz (Hz), at which the signal repeats."
 		},
 		{
 			"id": 5,
-			"question": "What is SSID in wireless networks?",
-			"answer": "SSID (Service Set Identifier) is the name used to identify a wireless network. It allows devices to connect to the correct network."
+			"question": "What is the period of a signal?",
+			"answer": "The period is the amount of time it takes for one repetition of the signal, calculated as T = 1/f."
 		},
 		{
 			"id": 6,
-			"question": "What is WEP in wireless security?",
-			"answer": "WEP (Wired Equivalent Privacy) is an older wireless security protocol that provides basic encryption for data transmission over wireless networks."
+			"question": "What is the phase of a signal?",
+			"answer": "Phase is a measure of the relative position in time within a single period of a signal."
 		},
 		{
 			"id": 7,
-			"question": "What is WPA2 in wireless security?",
-			"answer": "WPA2 (Wi-Fi Protected Access II) is a security protocol that provides stronger encryption and security features compared to WEP."
+			"question": "What is the wavelength of a signal?",
+			"answer": "The wavelength is the distance occupied by a single cycle of the signal or the distance between two points of corresponding phase of two consecutive cycles."
 		},
 		{
 			"id": 8,
-			"question": "What is a mesh network?",
-			"answer": "A mesh network is a type of wireless network where multiple wireless devices work together to provide network coverage over a large area."
+			"question": "What is the Shannon Capacity formula used for?",
+			"answer": "The Shannon Capacity formula represents the theoretical maximum data rate that can be achieved over a communication path or channel."
 		},
 		{
 			"id": 9,
-			"question": "What is the difference between ad hoc and infrastructure wireless networks?",
-			"answer": "An ad hoc wireless network is a decentralized network where devices connect directly to each other, while an infrastructure wireless network uses access points for device connectivity."
+			"question": "What is multiplexing?",
+			"answer": "Multiplexing is the technique used to transmit multiple signals simultaneously over a single data link."
 		},
 		{
 			"id": 10,
-			"question": "What is the role of encryption in wireless networks?",
-			"answer": "Encryption is used to secure wireless network communications by encoding the data transmitted over the network, making it unreadable to unauthorized users."
+			"question": "What is the purpose of multiplexing?",
+			"answer": "The purpose of multiplexing is to efficiently utilize the capacity of a transmission medium by combining multiple signals into a single data link."
 		},
 		{
 			"id": 11,
-			"question": "What is the purpose of MAC filtering in a wireless network?",
-			"answer": "MAC filtering is used to control access to a wireless network by allowing or denying devices based on their MAC addresses."
+			"question": "What is the main difference between Time Division Multiplexing (TDM) and Frequency Division Multiplexing (FDM)?",
+			"answer": "The main difference between TDM and FDM is that TDM divides the transmission medium based on time slots, allowing multiple signals to take turns using the medium, while FDM divides the transmission medium based on different frequency ranges, allowing multiple signals to occupy different frequency bands simultaneously."
 		},
 		{
 			"id": 12,
-			"question": "What is a mesh network?",
-			"answer": "A mesh network is a type of wireless network where multiple wireless nodes communicate with each other to extend network coverage and improve reliability."
+			"question": "What is modulation?",
+			"answer": "Modulation is the process of varying the characteristics of a carrier signal according to the instantaneous amplitude, frequency, or phase of the message signal."
 		},
 		{
 			"id": 13,
-			"question": "What is the difference between 2.4 GHz and 5 GHz wireless networks?",
-			"answer": "2.4 GHz networks have a longer range but are more susceptible to interference, while 5 GHz networks have a shorter range but offer higher data rates and less interference."
+			"question": "What are the three basic types of analog modulation?",
+			"answer": "The three basic types of analog modulation are Amplitude Modulation (AM), Frequency Modulation (FM), and Phase Modulation (PM)."
 		},
 		{
 			"id": 14,
-			"question": "What is the difference between analog and digital signals?",
-			"answer": "Analog signals are continuous while digital signals are discrete."
+			"question": "What is the purpose of a communication system?",
+			"answer": "The purpose of a communication system is to transmit information signals (baseband signals) through a communication channel."
 		},
 		{
 			"id": 15,
-			"question": "What is modulation?",
-			"answer": "Modulation is the process of changing the characteristics of a signal in order to transmit information."
+			"question": "What is the difference between AM and FM?",
+			"answer": "AM (Amplitude Modulation) varies the amplitude of the carrier wave, while FM (Frequency Modulation) varies the frequency of the carrier wave."
 		},
 		{
 			"id": 16,
-			"question": "What is the purpose of a wireless access point?",
-			"answer": "A wireless access point is used to connect wireless devices to a wired network."
+			"question": "What are the main advantages of FM over AM?",
+			"answer": "The main advantages of FM over AM are better audio quality and immunity to noise. FM signals are less affected by static and electrical noise."
 		},
 		{
 			"id": 17,
-			"question": "What is a wireless mesh network?",
-			"answer": "A wireless mesh network is a type of network where each node acts as a router and relays data for other nodes."
+			"question": "What are the main advantages of AM over FM?",
+			"answer": "The main advantages of AM over FM are simpler circuitry and wider area of coverage. AM signals can travel longer distances."
 		},
 		{
 			"id": 18,
-			"question": "What is multiplexing?",
-			"answer": "Multiplexing is the process of combining multiple signals for transmission over a single channel."
+			"question": "What are the main types of digital modulation?",
+			"answer": "The main types of digital modulation are Amplitude Shift Keying (ASK), Frequency Shift Keying (FSK), and Phase Shift Keying (PSK)."
 		},
 		{
 			"id": 19,
-			"question": "What is the difference between simplex and duplex transmission?",
-			"answer": "Simplex transmission is one-way while duplex transmission is two-way."
+			"question": "What is the purpose of a modem?",
+			"answer": "A modem is used to enable the transfer of data over the public switched telephone network (PSTN) by modulating and demodulating the digital information into analog signals."
 		},
 		{
 			"id": 20,
-			"question": "What is spread spectrum modulation?",
-			"answer": "Spread spectrum modulation is a method of modulating a signal over a wide range of frequencies to reduce interference."
+			"question": "What is DSL?",
+			"answer": "DSL (Digital Subscriber Line) is a high-speed data service that works over conventional telephone lines and is typically offered by telephone companies."
 		},
 		{
 			"id": 21,
-			"question": "What is packet switching?",
-			"answer": "Packet switching is a method of transmitting data where the data is divided into packets and sent individually."
+			"question": "What is the difference between an internal modem and an external modem?",
+			"answer": "An internal modem is integrated within the computer system, while an external modem connects externally to the computer through a serial port."
 		},
 		{
 			"id": 22,
-			"question": "What is the purpose of error detection and correction in wireless networks?",
-			"answer": "Error detection and correction is used to ensure that data is transmitted accurately and without errors."
+			"question": "What is the purpose of switching in communication networks?",
+			"answer": "To facilitate the movement of data from node to node without concerning the content of the data."
 		},
+
 		{
 			"id": 23,
-			"question": "What is the difference between FHSS and DSSS modulation?",
-			"answer": "FHSS modulation uses frequency hopping while DSSS modulation uses direct sequence spreading."
+			"question": "What are stations in communication networks?",
+			"answer": "End devices that wish to communicate, such as computers, terminals, telephones, or other communicating devices."
 		},
 		{
 			"id": 24,
-			"question": "What is modulation in the context of wireless networks?",
-			"answer": "Modulation refers to the process of encoding information onto a carrier signal for transmission over a wireless channel."
+			"question": "What are switching nodes in communication networks?",
+			"answer": "Intermediate switching devices that move data between stations."
 		},
 		{
 			"id": 25,
-			"question": "What are the two main types of modulation techniques?",
-			"answer": "The two main types of modulation techniques are analog modulation and digital modulation."
+			"question": "What is the difference between LAN and WAN?",
+			"answer": "LANs cover smaller areas, interconnecting devices within a single building or cluster of buildings, while WANs cover larger geographical areas and consist of interconnected switching nodes."
 		},
 		{
 			"id": 26,
-			"question": "What is analog modulation?",
-			"answer": "Analog modulation is a technique where the continuous variation of a carrier signal is used to transmit analog information."
+			"question": "What is the purpose of MANs?",
+			"answer": "MANs provide high capacity and low-cost communication services to customers in metropolitan areas."
 		},
 		{
 			"id": 27,
-			"question": "What is digital modulation?",
-			"answer": "Digital modulation is a technique where discrete symbols are used to represent digital information on a carrier signal."
+			"question": "What are the two main techniques used in switched networks?",
+			"answer": "Circuit switching and packet switching."
 		},
 		{
 			"id": 28,
-			"question": "What are some common analog modulation techniques?",
-			"answer": "Common analog modulation techniques include amplitude modulation (AM), frequency modulation (FM), and phase modulation (PM)."
+			"question": "What is the difference between circuit switching and packet switching?",
+			"answer": "Circuit switching establishes a dedicated communication path between two stations, while packet switching breaks messages into packets and transmits them independently."
 		},
 		{
 			"id": 29,
-			"question": "What are some common digital modulation techniques?",
-			"answer": "Common digital modulation techniques include amplitude shift keying (ASK), frequency shift keying (FSK), and phase shift keying (PSK)."
+			"question": "What are the advantages of packet switching?",
+			"answer": "Line efficiency is greater, data rate conversion is possible, and priorities can be used."
 		},
 		{
 			"id": 30,
-			"question": "What is the purpose of modulation in wireless communication?",
-			"answer": "The purpose of modulation is to enable the transmission of information over a wireless channel by converting it into a form suitable for propagation and reception."
+			"question": "What is jitter in packet switching?",
+			"answer": "Jitter refers to the variation in packet delay caused by differing packet sizes, routes taken, and varying delay in the switches."
 		},
 		{
 			"id": 31,
-			"question": "What is the advantage of digital modulation over analog modulation?",
-			"answer": "Digital modulation provides better noise immunity, higher data rates, and improved error correction compared to analog modulation."
+			"question": "What is the difference between virtual circuit and datagram approaches in packet switching?",
+			"answer": "Virtual circuit establishes a preplanned route for all packets, while datagram treats each packet independently without a predefined route."
 		},
 		{
 			"id": 32,
-			"question": "What is the concept of modulation depth in analog modulation?",
-			"answer": "Modulation depth refers to the extent of variation in amplitude, frequency, or phase of the carrier signal in analog modulation."
+			"question": "What are the advantages and disadvantages of circuit switching compared to packet switching?",
+			"answer": "Advantages of circuit switching include dedicated channel capacity and transparency to users once established. Disadvantages include inefficiency, delay during establishment, and the requirement for dedicated resources. Packet switching offers line efficiency, data rate conversion, and flexibility, but introduces delay, overhead information, and requires more processing at each node."
 		},
 		{
 			"id": 33,
-			"question": "What is the concept of symbol rate in digital modulation?",
-			"answer": "Symbol rate refers to the number of symbol changes per second in digital modulation, indicating the rate at which data is transmitted."
+			"question": "What is Quality of Service (QoS) in packet-switching networks?",
+			"answer": "QoS refers to the performance of a stream of related packets, such as voice, audio, or video traffic, which require steady delivery and meet specific requirements for delay, delay variation, and throughput."
 		},
 		{
 			"id": 34,
-			"question": "What is switching in wireless networks?",
-			"answer": "Switching in wireless networks refers to the process of forwarding data packets between different network segments or devices."
+			"question": "What is the purpose of a wireless LAN?",
+			"answer": "A wireless LAN is used for local area network communication without the need for wired connections."
 		},
 		{
 			"id": 35,
-			"question": "What are the types of switching techniques used in wireless networks?",
-			"answer": "The types of switching techniques used in wireless networks include circuit-switching, packet-switching, and message-switching."
+			"question": "What are some advantages of wireless LANs over wired LANs?",
+			"answer": "Wireless LANs save installation costs, allow for easier network modifications, and are suitable for environments where wired LANs are not economical or feasible."
 		},
 		{
 			"id": 36,
-			"question": "What is circuit-switching in wireless networks?",
-			"answer": "Circuit-switching in wireless networks establishes a dedicated communication path between two devices for the duration of a call or session."
+			"question": "What are the examples of wireless LAN configurations?",
+			"answer": "Examples include single cell, multiple-cell, ad hoc, and nomadic access configurations."
 		},
 		{
 			"id": 37,
-			"question": "What is packet-switching in wireless networks?",
-			"answer": "Packet-switching in wireless networks involves breaking data into packets and forwarding them independently based on destination addresses."
+			"question": "What is an ad hoc wireless LAN?",
+			"answer": "An ad hoc wireless LAN is a temporary network created for immediate needs, without a centralized server."
 		},
 		{
 			"id": 38,
-			"question": "What is message-switching in wireless networks?",
-			"answer": "Message-switching in wireless networks involves forwarding entire messages between devices without breaking them into packets."
+			"question": "What is the motivation behind using WLANs?",
+			"answer": "WLANs provide benefits such as cellular data offloading, fast sync/file transfer, faster internet access, multimedia streaming, battery power consumption optimization, collocated network operation, license-free operation, handoff/roaming, and dynamic configuration."
 		},
 		{
 			"id": 39,
-			"question": "What is the purpose of switching in wireless networks?",
-			"answer": "The purpose of switching in wireless networks is to enable efficient and reliable communication between devices or network segments."
+			"question": "What are the requirements for wireless LANs?",
+			"answer": "Wireless LANs need to meet requirements such as high throughput, support for a large number of nodes, connection to a backbone LAN, sufficient service area coverage, and efficient medium access control protocols."
 		},
 		{
 			"id": 40,
-			"question": "What is a switch in wireless networks?",
-			"answer": "A switch in wireless networks is a networking device that connects multiple devices together and forwards data packets between them."
+			"question": "What is the IEEE 802.11 architecture?",
+			"answer": "The IEEE 802.11 architecture defines the specifications and standards for wireless LANs, including the physical layer, medium access control, and logical link control layers."
 		},
 		{
 			"id": 41,
-			"question": "What is a virtual switch in wireless networks?",
-			"answer": "A virtual switch in wireless networks is a software-based switch that operates within a virtualized network environment."
+			"question": "What are some famous wireless LAN technologies?",
+			"answer": "Infrared (IR) LANs, spread spectrum LANs, and narrowband microwave LANs are among the well-known wireless LAN technologies."
 		},
 		{
 			"id": 42,
-			"question": "What is a MAC address in wireless networks?",
-			"answer": "A MAC address (Media Access Control address) is a unique identifier assigned to a network interface controller (NIC) in a wireless network."
+			"question": "What are the strengths and weaknesses of infrared LANs?",
+			"answer": "Infrared LANs have unlimited spectrum, high data rates, and simplicity but are limited by range, interference, and sensitivity to background radiation."
 		},
 		{
 			"id": 43,
-			"question": "What is VLAN in wireless networks?",
-			"answer": "VLAN (Virtual Local Area Network) is a network technology that allows for the creation of logical networks within a physical network infrastructure."
+			"question": "How do spread spectrum LANs operate in a hub configuration?",
+			"answer": "Spread spectrum LANs in a hub configuration use multiple cells with different frequencies, and the hub connects to both wired LAN stations and stations in other cells."
 		},
 		{
 			"id": 44,
-			"question": "What is a wireless LAN (WLAN)?",
-			"answer": "A wireless LAN (WLAN) is a local area network that uses wireless communication to connect devices within a limited area."
+			"question": "What is the purpose of spread spectrum techniques?",
+			"answer": "To prevent eavesdropping and jamming in wireless communication."
 		},
+
 		{
 			"id": 45,
-			"question": "What are the advantages of using a wireless LAN?",
-			"answer": "Advantages of using a wireless LAN include mobility, easy installation, scalability, and flexibility in network design."
+			"question": "What are the two techniques used in spread spectrum?",
+			"answer": "Frequency Hopping Spread Spectrum (FHSS) and Direct Sequence Spread Spectrum (DSSS)."
 		},
+
 		{
 			"id": 46,
-			"question": "What are the main components of a wireless LAN system?",
-			"answer": "The main components of a wireless LAN system are access points (APs), wireless clients, and a wireless LAN controller (WLC) for centralized management."
+			"question": "How does spread spectrum increase the bandwidth of the signal?",
+			"answer": "By spreading the original spectrum needed for each station using redundancy techniques."
 		},
 		{
 			"id": 47,
-			"question": "What is the purpose of an access point in a wireless LAN?",
-			"answer": "An access point serves as a central hub that allows wireless clients to connect to the network and provides a bridge between the wireless and wired networks."
+			"question": "What is the purpose of WiMAX?",
+			"answer": "To provide high-speed wireless data over metropolitan area networks."
 		},
 		{
 			"id": 48,
-			"question": "What is a Wireless Local Area Network (WLAN)?",
-			"answer": "A WLAN is a wireless network that allows devices to connect and communicate within a limited area, such as a home or office."
+			"question": "What are the strengths of Wi-Fi?",
+			"answer": "Simplicity, low cost, mobility up to 300 feet, and interoperability with other network technologies."
 		},
 		{
 			"id": 49,
-			"question": "What is WiMAX?",
-			"answer": "WiMAX stands for Worldwide Interoperability for Microwave Access. It is a wireless communication technology that provides high-speed broadband connections over long distances."
+			"question": "How does WiMAX differ from Wi-Fi?",
+			"answer": "WiMAX provides coverage over greater distances, operates on different frequency bands, and can transfer higher data rates over longer distances."
 		},
 		{
 			"id": 50,
-			"question": "What is a Wireless Personal Area Network (WPAN)?",
-			"answer": "A WPAN is a wireless network that allows devices to communicate with each other over short distances, typically within a range of 10 meters or less."
+			"question": "What are the challenges in WiMAX deployment?",
+			"answer": "RF interference, infrastructure placement, and obstacles blocking signal paths."
 		},
 		{
 			"id": 51,
-			"question": "What is Bluetooth?",
-			"answer": "Bluetooth is a wireless communication technology that enables short-range data exchange between devices, such as smartphones, tablets, and computers."
+			"question": "What is Orthogonal Frequency Division Multiplexing (OFDM)?",
+			"answer": "A digital signal transmission technique used in WiMAX that allows simultaneous transmission on multiple carrier waves, resistant to multi-path effects, and delivers higher bandwidth efficiency."
 		},
 		{
 			"id": 52,
-			"question": "What is a cellular network?",
-			"answer": "A cellular network is a wireless network that uses cell sites to provide coverage and communication services."
+			"question": "What are the mobility issues faced by WiMAX?",
+			"answer": "Limited device availability, spectrum availability, and competition with other technologies."
 		},
 		{
 			"id": 53,
-			"question": "What is the purpose of a SIM card in a cellular network?",
-			"answer": "A SIM card (Subscriber Identity Module) stores subscriber information and enables authentication and identification on a cellular network."
+			"question": "What are the primary capabilities of WiMAX?",
+			"answer": "High-speed wireless data transmission, mesh networking, and support for mobile wireless MAN."
 		},
 		{
 			"id": 54,
-			"question": "What are the main advantages of cellular networks?",
-			"answer": "Some advantages include wide coverage, mobility, scalability, and the ability to support a large number of users simultaneously."
+			"question": "What are the frequency bands used by most cell phones?",
+			"answer": "850 MHz, 900 MHz, 1800 MHz, and 1900 MHz."
 		},
 		{
 			"id": 55,
-			"question": "What is the purpose of a base station in a cellular network?",
-			"answer": "A base station is responsible for transmitting and receiving wireless signals to and from mobile devices within its coverage area."
+			"question": "What is the purpose of a cell in a cellular network?",
+			"answer": "The service area of each base station is called a cell."
 		},
 		{
 			"id": 56,
-			"question": "What is the role of a Mobile Switching Center (MSC) in a cellular network?",
-			"answer": "The MSC is responsible for call control, switching, and mobility management in a cellular network."
+			"question": "What are the generations of cellular networks?",
+			"answer": "0G, 1G, 2G, 3G, 4G."
 		},
 		{
 			"id": 57,
-			"question": "What is the difference between 2G and 3G cellular networks?",
-			"answer": "2G networks provide voice and basic data services, while 3G networks offer higher data rates and support multimedia applications."
+			"question": "What are the three orthogonal schemes used for multiple access in cellular networks?",
+			"answer": "Frequency Division Multiple Access (FDMA), Time Division Multiple Access (TDMA), Code Division Multiple Access (CDMA)."
 		},
 		{
 			"id": 58,
-			"question": "What are the main components of a cellular network infrastructure?",
-			"answer": "Components include cell sites, base stations, Mobile Switching Centers (MSCs), and the backbone network."
+			"question": "What is the purpose of Frequency Division Multiple Access (FDMA)?",
+			"answer": "Each mobile is assigned a separate frequency channel for the duration of the call."
 		},
 		{
 			"id": 59,
-			"question": "What is the purpose of handover in a cellular network?",
-			"answer": "Handover allows a mobile device to switch from one cell to another while maintaining an ongoing call or data session."
+			"question": "How is Time Division Multiple Access (TDMA) different from Carrier Sensing Multiple Access (CSMA)?",
+			"answer": "In TDMA, time is divided into slots and only one mobile terminal transmits during each slot, unlike CSMA where multiple terminals can transmit simultaneously."
 		},
 		{
 			"id": 60,
-			"question": "What is the significance of frequency reuse in cellular networks?",
-			"answer": "Frequency reuse allows the same frequency channels to be used in different cells, maximizing the efficient use of available spectrum."
+			"question": "What is the purpose of Code Division Multiple Access (CDMA)?",
+			"answer": "CDMA uses orthogonal codes to separate different transmissions and allows multiple users to share the same frequency band."
 		},
 		{
 			"id": 61,
-			"question": "What is the purpose of encryption in cellular networks?",
-			"answer": "Encryption ensures the security and confidentiality of voice and data transmissions over cellular networks."
+			"question": "What is the standard name for 3G?",
+			"answer": "IMT-2000"
 		},
 		{
 			"id": 62,
-			"question": "What is a wireless network?",
-			"answer": "A network that allows devices to communicate without physical connections."
+			"question": "What are some of the technologies that evolved into 3G?",
+			"answer": "IS-95, GSM, IS-136, PDC"
 		},
 		{
 			"id": 63,
-			"question": "What are the advantages of wireless networks?",
-			"answer": "Mobility, flexibility, scalability, and cost-effectiveness."
+			"question": "What are the typical average bit rates for web browsing in 3G?",
+			"answer": "1-10 Mbps"
 		},
 		{
 			"id": 64,
-			"question": "What are the main components of a wireless network?",
-			"answer": "Wireless access points (APs), wireless clients, and a network infrastructure."
+			"question": "What are the data rates of UMTS for rural and urban outdoor areas?",
+			"answer": "144 kbps for rural, 384 kbps for urban outdoor"
 		},
 		{
 			"id": 65,
-			"question": "What is a wireless access point (AP)?",
-			"answer": "A device that allows wireless devices to connect to a wired network."
+			"question": "What are the two protocols that make up 3.5G?",
+			"answer": "HSDPA and HSUPA"
 		},
 		{
 			"id": 66,
-			"question": "What is Wi-Fi?",
-			"answer": "A wireless networking technology that uses radio waves to provide high-speed internet and network connections."
+			"question": "What does LTE stand for?",
+			"answer": "Long Term Evolution"
 		},
 		{
 			"id": 67,
-			"question": "What is a wireless LAN (WLAN)?",
-			"answer": "A local area network that uses wireless communication to connect devices within a limited area."
+			"question": "What is the promised data transfer rate of LTE?",
+			"answer": "100 Mbps"
 		},
 		{
 			"id": 68,
-			"question": "What is a wireless MAN (WMAN)?",
-			"answer": "A metropolitan area network that uses wireless communication to cover a larger geographic area than a WLAN."
+			"question": "What is satellite communication?",
+			"answer": "Exchange of information between two or more entities through a satellite."
 		},
 		{
 			"id": 69,
-			"question": "What is a wireless WAN (WWAN)?",
-			"answer": "A wide area network that uses wireless communication to connect devices over a large geographical area."
+			"question": "What is the purpose of a communication satellite?",
+			"answer": "To provide telecommunications by acting as a microwave repeater station in space."
 		},
 		{
 			"id": 70,
-			"question": "What are the advantages of satellite communication in wireless networks?",
-			"answer": "Global coverage, long-distance communication, and resilience to natural disasters or geographical barriers."
+			"question": "What are uplink and downlink channels?",
+			"answer": "Uplink is the communication from an earth station to a satellite, while downlink is the communication from a satellite to an earth station."
+		},
+		{
+			"id": 71,
+			"question": "What are the frequency bands used in satellite communication?",
+			"answer": "The frequencies reserved for satellite communication are in the gigahertz (GHz) range."
+		},
+		{
+			"id": 72,
+			"question": "What is a satellite's footprint?",
+			"answer": "The area on Earth that receives a signal of useful strength from a satellite."
+		},
+		{
+			"id": 73,
+			"question": "What are the categories of satellites based on orbit location?",
+			"answer": "Geostationary Earth orbit (GEO), low-Earth orbit (LEO), and middle-Earth orbit (MEO)."
+		},
+		{
+			"id": 74,
+			"question": "What are the advantages of satellite communication?",
+			"answer": "Wide area coverage, independent of coverage area for transmission cost, more bandwidth, and broadcasting possibilities."
+		},
+		{
+			"id": 75,
+			"question": "What is the difference between geostationary and low-Earth orbit satellites?",
+			"answer": "Geostationary satellites appear to be in a fixed position to an earth-based observer, while low-Earth orbit satellites have polar orbits and are closer to Earth with shorter propagation delays."
+		},
+		{
+			"id": 76,
+			"question": "What are the advantages and disadvantages of using satellite communication?",
+			"answer": "Advantages: Wide area coverage, independent of coverage area for transmission cost, more bandwidth. Disadvantages: Costly satellite launching process, higher propagation delay, difficulty in repairing satellite systems, free space loss, and potential frequency congestion."
 		}
 	],
 	"مستودعات البيانات": [

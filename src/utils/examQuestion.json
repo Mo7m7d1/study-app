@@ -1835,7 +1835,7 @@
 				"a) Amplitude Modulation (AM)",
 				"b) Frequency Modulation (FM)",
 				"c) Phase Shift Keying (PSK)",
-				"d) Amplitude Shift Keying (ASK)"
+				"d) Phase Keying (PM)"
 			],
 			"correct_answer": 2
 		},
@@ -1866,8 +1866,8 @@
 			"question": "Which component of a communication system converts a physical signal from the source to an electrical, mechanical, or electromagnetic signal suitable for communication?",
 			"choices": [
 				"a) Transmitter",
-				"b) Receiver",
-				"c) Input transducer",
+				"b) Input transducer",
+				"c) Receiver",
 				"d) Output transducer"
 			],
 			"correct_answer": 1
@@ -1936,6 +1936,7 @@
 			"choices": ["True", "False"],
 			"correct_answer": 1
 		},
+
 		{
 			"id": 28,
 			"question": "What is the purpose of switching in communication networks?",
