@@ -1773,7 +1773,6 @@
 			],
 			"correct_answer": 2
 		},
-
 		{
 			"id": 7,
 			"question": "Analog signals can propagate both analog and digital data.",
@@ -1816,7 +1815,6 @@
 			"choices": ["True", "False"],
 			"correct_answer": 0
 		},
-
 		{
 			"id": 14,
 			"question": "What is modulation?",
@@ -1936,7 +1934,6 @@
 			"choices": ["True", "False"],
 			"correct_answer": 1
 		},
-
 		{
 			"id": 28,
 			"question": "What is the purpose of switching in communication networks?",
@@ -2020,42 +2017,36 @@
 			"choices": ["True", "False"],
 			"correct_answer": 0
 		},
-
 		{
 			"id": 36,
 			"question": "LANs provide data rates of 100 Mbps to 1 Gbps.",
 			"choices": ["True", "False"],
 			"correct_answer": 1
 		},
-
 		{
 			"id": 37,
 			"question": "WANs cover smaller geographical areas compared to LANs.",
 			"choices": ["True", "False"],
 			"correct_answer": 1
 		},
-
 		{
 			"id": 38,
 			"question": "Packet switching networks introduce less delay compared to circuit switching networks.",
 			"choices": ["True", "False"],
 			"correct_answer": 1
 		},
-
 		{
 			"id": 39,
 			"question": "Packet switching networks treat each packet independently and can follow different routes.",
 			"choices": ["True", "False"],
 			"correct_answer": 0
 		},
-
 		{
 			"id": 40,
 			"question": "Packet switching networks guarantee the arrival of packets in the original order.",
 			"choices": ["True", "False"],
 			"correct_answer": 1
 		},
-
 		{
 			"id": 41,
 			"question": "Packet switching is more suitable for real-time traffic compared to data traffic.",
@@ -2420,7 +2411,6 @@
 			"choices": ["GEO", "LEO", "MEO", "Bluetooth"],
 			"correct_answer": 0
 		},
-
 		{
 			"id": 85,
 			"question": "What is the range of Class 2 Bluetooth devices?",
@@ -2521,6 +2511,458 @@
 			"question": "UMTS operates in the frequency band of 1900-2025 MHz.",
 			"choices": ["True", "False"],
 			"correct_answer": 1
+		}
+	],
+	"برمجة مواقع الويب": [
+		{
+			"id": 0,
+			"question": "Which HTML tag is used to define a table row?",
+			"choices": ["<table>", "<row>", "<td>", "<tr>"],
+			"correct_answer": 3
+		},
+		{
+			"id": 1,
+			"question": "What is the default display property value for most HTML elements?",
+			"choices": ["block", "inline", "inline-block", "none"],
+			"correct_answer": 1
+		},
+		{
+			"id": 2,
+			"question": "The 'line-height' CSS property is used to control the spacing between lines of text.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 3,
+			"question": "The 'border-radius' CSS property is used to add rounded corners to an element.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 4,
+			"question": "What is the purpose of the <head> element in HTML?",
+			"choices": [
+				"To define the main content of a web page",
+				"To define the header section of a web page",
+				"To include external JavaScript files",
+				"To provide metadata about the web page"
+			],
+			"correct_answer": 3
+		},
+		{
+			"id": 5,
+			"question": "Which CSS property is used to control the appearance of text decorations?",
+			"choices": [
+				"text-decoration",
+				"text-align",
+				"line-height",
+				"letter-spacing"
+			],
+			"correct_answer": 0
+		},
+		{
+			"id": 6,
+			"question": "The 'alt' attribute is used to specify the alternative text for an image in HTML.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 7,
+			"question": "The 'float' CSS property is used to position an element to the left or right of its container.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 8,
+			"question": "The 'text-align' CSS property is used to control the alignment of an element's content.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 9,
+			"question": "The 'name' attribute is required for the <input> element in HTML forms.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 10,
+			"question": "The 'border-color' CSS property is used to control the appearance of an element's border.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 11,
+			"question": "What is the purpose of the CSS 'position' property?",
+			"choices": [
+				"Sets the position of an element relative to its normal position",
+				"Changes the font size of an element",
+				"Defines the type of cursor to be displayed",
+				"Controls the visibility of an element"
+			],
+			"correct_answer": 0
+		},
+		{
+			"id": 12,
+			"question": "Which HTML tag is used to define a hyperlink?",
+			"choices": ["<link>", "<a>", "<href>", "<ul>"],
+			"correct_answer": 1
+		},
+		{
+			"id": 13,
+			"question": "The 'margin' CSS property is used to control the spacing between the content and the border of an element.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 14,
+			"question": "Which CSS property is used to add space between the content and the border of an element?",
+			"choices": ["margin", "padding", "border", "display"],
+			"correct_answer": 1
+		},
+		{
+			"id": 15,
+			"question": "JavaScript is a programming language commonly used for adding interactivity to web pages.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 16,
+			"question": "The 'href' attribute is used to specify the URL of a hyperlink in HTML.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 17,
+			"question": "What is the purpose of the CSS 'float' property?",
+			"choices": [
+				"Changes the background color of an element",
+				"Specifies the font family for an element",
+				"Positions an element to the left or right of its container",
+				"Applies a 3D effect to an element"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 18,
+			"question": "What is the purpose of the 'target' attribute in the <a> tag?",
+			"choices": [
+				"Specifies the URL of the hyperlink",
+				"Defines a name for the target of the hyperlink",
+				"Opens the link in a new browser window or tab",
+				"Changes the color of the hyperlink"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 19,
+			"question": "The <body> element is optional in HTML documents.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 20,
+			"question": "The 'form' element is used to group related form elements together in HTML.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 21,
+			"question": "Which CSS property is used to control the spacing between elements?",
+			"choices": ["margin", "padding", "border", "display"],
+			"correct_answer": 0
+		},
+		{
+			"id": 22,
+			"question": "Which of the following is NOT a valid CSS pseudo-class?",
+			"choices": [":hover", ":active", ":first-child", ":visible"],
+			"correct_answer": 3
+		},
+		{
+			"id": 23,
+			"question": "What is the purpose of the HTML <form> element?",
+			"choices": [
+				"Defines a section of a webpage",
+				"Creates a hyperlink",
+				"Groups related form elements together",
+				"Specifies a line break"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 24,
+			"question": "What is the purpose of the 'alt' attribute in the <img> tag?",
+			"choices": [
+				"Specifies the alignment of the image",
+				"Defines a caption for the image",
+				"Provides alternative text for the image",
+				"Sets the background color for the image"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 25,
+			"question": "The 'type' attribute is required for the <input> element in HTML forms.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 26,
+			"question": "What is the purpose of the CSS property 'background-image'?",
+			"choices": [
+				"Defines the background color of an element",
+				"Sets an image as the background for an element",
+				"Specifies the position of the background image",
+				"Changes the font weight of the text"
+			],
+			"correct_answer": 1
+		},
+		{
+			"id": 27,
+			"question": "What is the correct way to include an external CSS file in HTML?",
+			"choices": [
+				"<css href=\"styles.css\">",
+				"<style src=\"styles.css\">",
+				"<link rel=\"stylesheet\" href=\"styles.css\">",
+				"<script src=\"styles.css\">"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 28,
+			"question": "Which of the following is NOT a valid CSS length unit?",
+			"choices": ["px", "em", "pt", "rem"],
+			"correct_answer": 2
+		},
+		{
+			"id": 29,
+			"question": "The 'text-decoration' CSS property is used to control the appearance of text decorations.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 30,
+			"question": "What does the CSS property 'display: none;' do?",
+			"choices": [
+				"Hides the element from the webpage",
+				"Removes the border of an element",
+				"Centers the element horizontally",
+				"Changes the font style of an element"
+			],
+			"correct_answer": 0
+		},
+		{
+			"id": 31,
+			"question": "Which CSS property is used to control the appearance of an element's border?",
+			"choices": ["color", "background-color", "border-color", "outline-color"],
+			"correct_answer": 2
+		},
+		{
+			"id": 32,
+			"question": "Which CSS property is used to control the appearance of a list item marker?",
+			"choices": [
+				"list-style-type",
+				"list-style-image",
+				"list-style-position",
+				"list-style"
+			],
+			"correct_answer": 3
+		},
+		{
+			"id": 33,
+			"question": "The 'list-style-type' CSS property is used to specify the type of bullet or numbering in a list.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 34,
+			"question": "What is the correct way to select an element with id 'myElement' using CSS?",
+			"choices": [
+				"#myElement",
+				".myElement",
+				"element.myElement",
+				"element#myElement"
+			],
+			"correct_answer": 0
+		},
+		{
+			"id": 35,
+			"question": "The 'background-color' CSS property is used to change the text color of an element.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 36,
+			"question": "The 'display: block;' CSS property makes an element take up the full width of its parent container.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 37,
+			"question": "The <aside> element is used to define additional content that is related to the main content.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 38,
+			"question": "The 'mailto:' protocol is used to open the user's default email client.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 39,
+			"question": "The 'cursor' CSS property is used to specify the shape of the mouse pointer.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 40,
+			"question": "The 'visibility: hidden;' CSS property hides an element but leaves space for it.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 41,
+			"question": "Inline elements are displayed on a new line by default.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 42,
+			"question": "What is the correct way to comment out a section of CSS code?",
+			"choices": [
+				"/* Comment */",
+				"// Comment",
+				"<!-- Comment -->",
+				"# Comment"
+			],
+			"correct_answer": 0
+		},
+		{
+			"id": 43,
+			"question": "What does the CSS property 'float' do?",
+			"choices": [
+				"Changes the background color of an element",
+				"Specifies the font family for an element",
+				"Positions an element to the left or right of its container",
+				"Applies a 3D effect to an element"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 44,
+			"question": "What does CSS stand for?",
+			"choices": [
+				"Cascading Style Sheets",
+				"Creative Style Sheets",
+				"Computer Style Sheets",
+				"Colorful Style Sheets"
+			],
+			"correct_answer": 0
+		},
+		{
+			"id": 45,
+			"question": "The <figcaption> element is used to define the caption for a table in HTML.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 46,
+			"question": "Which HTML tag is used to create an unordered list?",
+			"choices": ["<ul>", "<ol>", "<li>", "<dl>"],
+			"correct_answer": 0
+		},
+		{
+			"id": 47,
+			"question": "The 'font-size' CSS property is used to control the background color of an element.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 48,
+			"question": "The 'target' attribute in the <a> tag is used to open the link in a new browser window or tab.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 49,
+			"question": "The 'text-decoration: underline;' CSS property is used to add a line below the text.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 50,
+			"question": "CSS stands for Cascading Script Styles.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 51,
+			"question": "Which HTML tag is used to define a section heading?",
+			"choices": ["<header>", "<section>", "<h1>", "<div>"],
+			"correct_answer": 2
+		},
+		{
+			"id": 52,
+			"question": "Which CSS property is used to control the spacing between lines of text?",
+			"choices": [
+				"text-decoration",
+				"text-indent",
+				"line-height",
+				"letter-spacing"
+			],
+			"correct_answer": 2
+		},
+		{
+			"id": 53,
+			"question": "Which CSS property is used to change the text color?",
+			"choices": ["background-color", "font-size", "text-align", "color"],
+			"correct_answer": 3
+		},
+		{
+			"id": 54,
+			"question": "The <footer> element is used to define the main content of a web page.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 55,
+			"question": "What is the purpose of the CSS box-sizing property?",
+			"choices": [
+				"Defines the size of the font in an element",
+				"Specifies the type of box model to be used",
+				"Determines the position of an element",
+				"Controls the visibility of an element"
+			],
+			"correct_answer": 1
+		},
+		{
+			"id": 56,
+			"question": "The 'src' attribute is used to specify the source URL of an image in HTML.",
+			"choices": ["True", "False"],
+			"correct_answer": 0
+		},
+		{
+			"id": 57,
+			"question": "The CSS property 'font-style' is used to control the boldness of text.",
+			"choices": ["True", "False"],
+			"correct_answer": 1
+		},
+		{
+			"id": 58,
+			"question": "What is the purpose of the CSS property 'text-align'?",
+			"choices": [
+				"Controls the spacing between letters",
+				"Sets the alignment of the content inside an element",
+				"Applies a background image to an element",
+				"Specifies the typeface to be used"
+			],
+			"correct_answer": 1
+		},
+		{
+			"id": 59,
+			"question": "Which of the following is an example of a block-level element?",
+			"choices": ["<span>", "<a>", "<div>", "<em>"],
+			"correct_answer": 2
 		}
 	]
 }
